@@ -7,7 +7,7 @@ import './App.css';
 function App() {
 	return (
 	  	<div className="App">
-	  		<h1>React template</h1>
+	  		<h1>NHL Fandom</h1>
 	  		<Scrollyteller
 	  			ArticleEntries={ArticleEntries}
 	  		></Scrollyteller>

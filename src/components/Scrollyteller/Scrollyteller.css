@@ -1,4 +1,5 @@
 .scrollyteller article {
+	pointer-events: none;
 	position: relative;
 }
 .scrollyteller figure.sticky {

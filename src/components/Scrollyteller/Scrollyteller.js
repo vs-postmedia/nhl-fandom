@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import EnterView from 'enter-view';
 import ArticleList from '../ArticleList/ArticleList';
+import FlourishEmbed from '../FlourishEmbed/FlourishEmbed';
 
 import './Scrollyteller.css';
 
@@ -13,7 +14,7 @@ export class Scrollyteller extends Component {
 		EnterView({
 			// selector: stepSel.nodes(),
 			selector: '.step',
-			offset: 0.25,
+			offset: 0.1,
 			enter: el => {
 				el.classList.add('entered');
 				const index = el.getAttribute('data-index');
@@ -38,7 +39,7 @@ export class Scrollyteller extends Component {
 	}
 
 	updateGraphic(el, index) {
-		console.log(index, el)
+		console.log(index, el);
 
 		this.setState({
 			stepValue: index
@@ -46,10 +47,14 @@ export class Scrollyteller extends Component {
 	}
 
 	render() {
+		
 		return (
 			<div className='scrollyteller'>
 				<figure className='sticky'>
-					<h2>{this.state.stepValue}</h2>
+					<FlourishEmbed index={this.state.stepValue}
+						title='nhl-fandom'
+						src='https://public.flourish.studio/story/87902/embed'
+					></FlourishEmbed>
 				</figure>
 
 				<article>
