@@ -1,4 +1,5 @@
 import React from 'react';
+import './ArticleEntry.css';
 
 const ArticleEntry = (props) => {
 	const data = props.data;
