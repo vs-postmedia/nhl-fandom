@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "419827a82d7c80239ebfe61f99c6c87d",
+    "revision": "986c51bb458cdcd1f858ce6a4b37468f",
     "url": "/nhl-fandom/index.html"
   },
   {
-    "revision": "4365b31707c1c049a656",
-    "url": "/nhl-fandom/static/css/main.51507c8a.chunk.css"
+    "revision": "50cfb2c1b5baa2ade1cf",
+    "url": "/nhl-fandom/static/css/main.834122a8.chunk.css"
   },
   {
     "revision": "19d50e7613a989a19b3f",
     "url": "/nhl-fandom/static/js/2.2ce84108.chunk.js"
   },
   {
-    "revision": "4365b31707c1c049a656",
-    "url": "/nhl-fandom/static/js/main.244747fb.chunk.js"
+    "revision": "50cfb2c1b5baa2ade1cf",
+    "url": "/nhl-fandom/static/js/main.151ab86a.chunk.js"
   },
   {
     "revision": "e192abbb3e52b7ad0211",
