@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nhl-fandom/static/css/main.834122a8.chunk.css",
+    "main.css": "/nhl-fandom/static/css/main.1ef904f4.chunk.css",
     "main.js": "/nhl-fandom/static/js/main.151ab86a.chunk.js",
     "main.js.map": "/nhl-fandom/static/js/main.151ab86a.chunk.js.map",
     "runtime~main.js": "/nhl-fandom/static/js/runtime~main.6d99d702.js",
@@ -8,9 +8,9 @@
     "static/js/2.2ce84108.chunk.js": "/nhl-fandom/static/js/2.2ce84108.chunk.js",
     "static/js/2.2ce84108.chunk.js.map": "/nhl-fandom/static/js/2.2ce84108.chunk.js.map",
     "index.html": "/nhl-fandom/index.html",
-    "precache-manifest.2c4d801c535bd201a372eefe23b8e690.js": "/nhl-fandom/precache-manifest.2c4d801c535bd201a372eefe23b8e690.js",
+    "precache-manifest.53de09aae102c28b20270e4dc7a3cd54.js": "/nhl-fandom/precache-manifest.53de09aae102c28b20270e4dc7a3cd54.js",
     "service-worker.js": "/nhl-fandom/service-worker.js",
-    "static/css/main.834122a8.chunk.css.map": "/nhl-fandom/static/css/main.834122a8.chunk.css.map",
+    "static/css/main.1ef904f4.chunk.css.map": "/nhl-fandom/static/css/main.1ef904f4.chunk.css.map",
     "static/media/index.css": "/nhl-fandom/static/media/Shift-BoldItalic.5c3edbfd.otf"
   }
 }
