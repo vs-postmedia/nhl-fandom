@@ -1,0 +1,33 @@
+Logo sources: 
+• http://www.sportslogos.net/teams/list_by_league/1/National_Hockey_League/NHL/logos/
+
+QGIS STEPS:
+1. simplify county & fsa shapefiles
+2. join canadian & usa vividseats data
+3. merge shapefiles
+4. join logo url data to merged shapefile
+5. run following command in field calulator to create single merged team field
+	–  coalesce( "can-final_event" , "us-final_v2_Team")
+6. run following command in field calculator to create single merged location field (text 75 characters)
+	– coalesce("PRNAME" + ', ' + "CFSAUID", "us-final_v2_county_state", "NAMELSAD" )
+7. save merged & joined shapefile to geojson
+
+FURTHER PROCESSING: 
+1. import geojson exported from step 7 into mapshaper
+2. simplify down to 5-10% & export
+3. Find & replace French province names
+4. Find & replace NULL locations/teams with empty string ("")
+	- this ensures Flourish colours shape as grey (no data), rather than treating NULL as a categorical value
+
+
+DATA NOTES (from Steven Spiewak @ Vivid)
+Here’s first cut at the US data. A few notes:
+*This is based on billing zip code.
+*This is based on the following seasons: 2016-2017, 2017-2018, and 2018-2019. We could tweak this as well.
+*This is regular season only—therefore, it excludes the playoffs (which would skew things).
+*This also excludes neutral site games, such as Winter Classic.
+*This also excludes parking, “fan fests”, conventions, and other non-games
+
+
+PLACEHOLDER, NO DATA IMAGE URL
+https://postmediavancouversun2.files.wordpress.com/2019/09/no-data-1.jpg

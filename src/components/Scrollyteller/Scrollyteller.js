@@ -14,7 +14,7 @@ export class Scrollyteller extends Component {
 		EnterView({
 			// selector: stepSel.nodes(),
 			selector: '.step',
-			offset: 0.1,
+			offset: 0,
 			enter: el => {
 				el.classList.add('entered');
 				const index = el.getAttribute('data-index');
@@ -39,8 +39,6 @@ export class Scrollyteller extends Component {
 	}
 
 	updateGraphic(el, index) {
-		console.log(index, el);
-
 		this.setState({
 			stepValue: index
 		});
@@ -52,8 +50,7 @@ export class Scrollyteller extends Component {
 			<div className='scrollyteller'>
 				<figure className='sticky'>
 					<FlourishEmbed index={this.state.stepValue}
-						title='nhl-fandom'
-						src='https://public.flourish.studio/story/87902/embed'
+						embedID='90201'
 					></FlourishEmbed>
 				</figure>
 

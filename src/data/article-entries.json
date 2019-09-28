@@ -1,22 +1,31 @@
 [
 	{
 		"id": 1,
-		"text": "Step text 1"
+		"headline": "Vancouver Canucks",
+		"text": "The Canucks are the only Canadian team with a sizable fan base south of the border — no doubt helped by being the only team in the pacific northwest."
 	},
 	{
 		"id": 2,
-		"text": "Step text 2"
+		"headline": "Saskatchewan",
+		"text": "With no team of their own, Saskatchewan fans tend to be split amongst the teams from bordering provinces. The Vegas Golden Knights make a strong showing too, hinting at the draw of Las Vegas. "
 	},
 	{
 		"id": 3,
-		"text": "Step text 3"
+		"headline": "Southern Ontario",
+		"text": "Competition for fans is fiercest in Ontario, one of the few places where U.S. teams have a foothold, thanks to the proximity of the Buffalo Sabres and Detroit Red Wings."
 	},
 	{
 		"id": 4,
-		"text": "Step text 4"
+		"headline": "Quebec Snowbirds",
+		"text": "The Habs rule Quebec but thanks to snowbirds, the Florida Panthers are making inroads, particularly near Saguenay, where just over 20% of the population is 65 or older."
 	},
 	{
 		"id": 5,
-		"text": "Step text 5"
+		"headline": "Atlantic Fans",
+		"text": "The Boston Bruins and the Toronto Maple Leafs break up what is otherwise pretty solid Habs support in the Atlantic provinces."
+	},
+	{
+		"id": 6,
+		"text": "To find a specific place, search by postal code or U.S. county name. Hold command or the control key to zoom in for more detail."
 	}
 ]

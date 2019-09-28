@@ -1,0 +1,2901 @@
+Team,county_state,state_fp,county_fp,geoid
+Anaheim Ducks,"Orange County, CA",06,059,06059
+Anaheim Ducks,"Riverside County, CA",06,065,06065
+Anaheim Ducks,"San Diego County, CA",06,073,06073
+Anaheim Ducks,"Imperial County, CA",06,025,06025
+Anaheim Ducks,"Lafourche County, LA",22,057,22057
+Anaheim Ducks,"Franklin County, IN",18,059,18059
+Anaheim Ducks,"Nez Perce County, ID",16,069,16069
+Anaheim Ducks,"Morgan County, KY",21,103,21103
+Anaheim Ducks,"Forrest County, MS",28,035,28035
+Anaheim Ducks,"Otoe County, NE",31,131,31131
+Anaheim Ducks,"Morris County, KS",20,127,20127
+Arizona Coyotes,"Maricopa County, AZ",04,013,04013
+Arizona Coyotes,"Pima County, AZ",04,019,04019
+Arizona Coyotes,"Pinal County, AZ",04,021,04021
+Arizona Coyotes,"Yavapai County, AZ",04,025,04025
+Arizona Coyotes,"Coconino County, AZ",04,005,04005
+Arizona Coyotes,"Yuma County, AZ",04,027,04027
+Arizona Coyotes,"Cochise County, AZ",04,003,04003
+Arizona Coyotes,"El Paso County, TX",48,041,48041
+Arizona Coyotes,"Navajo County, AZ",04,017,04017
+Arizona Coyotes,"Doña Ana County, NM",35,013,35013
+Arizona Coyotes,"Graham County, AZ",04,009,04009
+Arizona Coyotes,"Otero County, NM",35,089,35089
+Arizona Coyotes,"Apache County, AZ",04,001,04001
+Arizona Coyotes,"Gila County, AZ",04,007,04007
+Arizona Coyotes,"Greenlee County, AZ",04,011,04011
+Arizona Coyotes,"Santa Cruz County, AZ",04,023,04023
+Arizona Coyotes,"Grays Harbor County, WA",53,027,53027
+Arizona Coyotes,"Jefferson County, ID",16,073,16073
+Arizona Coyotes,"Grant County, NM",35,053,35053
+Arizona Coyotes,"Hoonah-Angoon County, AK",02,105,02105
+Arizona Coyotes,"Pondera County, MT",30,073,30073
+Arizona Coyotes,"San Juan County, UT",49,111,49111
+Arizona Coyotes,"Sanders County, MT",30,089,30089
+Arizona Coyotes,"Rio Arriba County, NM",35,039,35039
+Arizona Coyotes,"Ravalli County, MT",30,081,30081
+Arizona Coyotes,"Cibola County, NM",35,006,35006
+Arizona Coyotes,"Campbell County, SD",46,037,46037
+Arizona Coyotes,"La Paz County, AZ",04,012,04012
+Arizona Coyotes,"Sherman County, OR",41,181,41181
+Arizona Coyotes,"Mason County, WA",53,125,53125
+Arizona Coyotes,"Toole County, MT",30,101,30101
+Arizona Coyotes,"Grand County, UT",49,049,49049
+Arizona Coyotes,"Hanson County, SD",46,061,46061
+Arizona Coyotes,"McDuffie County, GA",13,189,13189
+Arizona Coyotes,"Hitchcock County, NE",31,087,31087
+Arizona Coyotes,"Stanley County, SD",46,117,46117
+Arizona Coyotes,"Emery County, UT",49,015,49015
+Arizona Coyotes,"Cloud County, KS",20,029,20029
+Arizona Coyotes,"Mason County, KY",21,125,21125
+Arizona Coyotes,"Renville County, ND",38,129,38129
+Arizona Coyotes,"Aleutians East County, AK",02,013,02013
+Arizona Coyotes,"Phillips County, MT",30,107,30107
+Arizona Coyotes,"Garfield County, MT",30,045,30045
+Arizona Coyotes,"Mitchell County, KS",20,205,20205
+Arizona Coyotes,"Edwards County, TX",48,047,48047
+Arizona Coyotes,"Pend Oreille County, WA",53,051,53051
+Boston Bruins,"Middlesex County, MA",25,007,25007
+Boston Bruins,"Norfolk County, MA",25,021,25021
+Boston Bruins,"Essex County, MA",25,009,25009
+Boston Bruins,"Suffolk County, MA",25,025,25025
+Boston Bruins,"Plymouth County, MA",25,149,25149
+Boston Bruins,"Worcester County, MA",25,047,25047
+Boston Bruins,"Bristol County, MA",25,005,25005
+Boston Bruins,"Hillsborough County, NH",33,057,33057
+Boston Bruins,"Rockingham County, NH",33,015,33015
+Boston Bruins,"Hampden County, MA",25,013,25013
+Boston Bruins,"Hartford County, CT",09,003,09003
+Boston Bruins,"Providence County, RI",44,007,44007
+Boston Bruins,"Barnstable County, MA",25,001,25001
+Boston Bruins,"Cumberland County, ME",23,035,23035
+Boston Bruins,"York County, ME",23,031,23031
+Boston Bruins,"Merrimack County, NH",33,013,33013
+Boston Bruins,"Strafford County, NH",33,017,33017
+Boston Bruins,"Kent County, RI",44,001,44001
+Boston Bruins,"Chittenden County, VT",50,007,50007
+Boston Bruins,"Hampshire County, MA",25,015,25015
+Boston Bruins,"Kennebec County, ME",23,011,23011
+Boston Bruins,"New London County, CT",09,011,09011
+Boston Bruins,"Berkshire County, MA",25,003,25003
+Boston Bruins,"Androscoggin County, ME",23,001,23001
+Boston Bruins,"Middlesex County, CT",09,007,09007
+Boston Bruins,"Tolland County, CT",09,013,09013
+Boston Bruins,"Washington County, RI",44,129,44129
+Boston Bruins,"Penobscot County, ME",23,019,23019
+Boston Bruins,"Grafton County, NH",33,009,33009
+Boston Bruins,"Newport County, RI",44,005,44005
+Boston Bruins,"Cheshire County, NH",33,005,33005
+Boston Bruins,"Belknap County, NH",33,001,33001
+Boston Bruins,"Albany County, NY",36,001,36001
+Boston Bruins,"Washington County, VT",50,129,50129
+Boston Bruins,"Oxford County, ME",23,017,23017
+Boston Bruins,"Windham County, CT",09,015,09015
+Boston Bruins,"Coos County, NH",33,007,33007
+Boston Bruins,"Bristol County, RI",44,005,44005
+Boston Bruins,"Rutland County, VT",50,021,50021
+Boston Bruins,"Carroll County, NH",33,015,33015
+Boston Bruins,"Windsor County, VT",50,027,50027
+Boston Bruins,"Aroostook County, ME",23,003,23003
+Boston Bruins,"Franklin County, MA",25,059,25059
+Boston Bruins,"Sagadahoc County, ME",23,023,23023
+Boston Bruins,"Dukes County, MA",25,007,25007
+Boston Bruins,"Sullivan County, NH",33,153,33153
+Boston Bruins,"Nantucket County, MA",25,019,25019
+Boston Bruins,"Caledonia County, VT",50,005,50005
+Boston Bruins,"Orleans County, VT",50,073,50073
+Boston Bruins,"Lamoille County, VT",50,015,50015
+Boston Bruins,"Waldo County, ME",23,027,23027
+Boston Bruins,"Washington County, ME",23,129,23129
+Boston Bruins,"Bennington County, VT",50,003,50003
+Boston Bruins,"Windham County, VT",50,015,50015
+Boston Bruins,"Orange County, VT",50,059,50059
+Boston Bruins,"Lincoln County, ME",23,079,23079
+Boston Bruins,"Knox County, ME",23,095,23095
+Boston Bruins,"Hancock County, ME",23,141,23141
+Boston Bruins,"Franklin County, ME",23,059,23059
+Boston Bruins,"Addison County, VT",50,001,50001
+Boston Bruins,"Somerset County, ME",23,025,23025
+Boston Bruins,"Washington County, NY",36,129,36129
+Boston Bruins,"Orleans County, LA",22,073,22073
+Boston Bruins,"Piscataquis County, ME",23,021,23021
+Boston Bruins,"Fulton County, NY",36,049,36049
+Boston Bruins,"Essex County, VT",50,009,50009
+Boston Bruins,"Union County, MS",28,139,28139
+Boston Bruins,"Oconee County, GA",13,219,13219
+Boston Bruins,"Rogers County, OK",40,131,40131
+Boston Bruins,"Crawford County, AR",05,033,05033
+Boston Bruins,"Burnet County, TX",48,053,48053
+Boston Bruins,"Clay County, NE",31,027,31027
+Boston Bruins,"Ozark County, MO",29,153,29153
+Boston Bruins,"Ripley County, IN",18,137,18137
+Boston Bruins,"Middlesex County, VA",51,007,51007
+Boston Bruins,"Cherry County, NE",31,031,31031
+Boston Bruins,"Rio Grande County, PR",72,105,72105
+Boston Bruins,"Hatillo County, PR",72,#N/A,#N/A
+Boston Bruins,"Smyth County, VA",51,173,51173
+Boston Bruins,"Wabaunsee County, KS",20,197,20197
+Boston Bruins,"Jay County, IN",18,075,18075
+Boston Bruins,"Cherokee County, KS",20,019,20019
+Boston Bruins,"Jennings County, IN",18,079,18079
+Boston Bruins,"McPherson County, KS",20,113,20113
+Boston Bruins,"Emporia County, VA",51,111,51111
+Boston Bruins,"Gilmer County, GA",13,123,13123
+Boston Bruins,"Long County, GA",13,183,13183
+Boston Bruins,"Holmes County, MS",28,059,28059
+Boston Bruins,"Nemaha County, NE",31,131,31131
+Boston Bruins,"Harper County, KS",20,077,20077
+Boston Bruins,"Orocovis County, PR",72,#N/A,#N/A
+Boston Bruins,"Carolina County, PR",72,#N/A,#N/A
+Boston Bruins,"Caddo County, OK",40,015,40015
+Boston Bruins,"Mineral County, MT",30,079,30079
+Boston Bruins,"Socorro County, NM",35,053,35053
+Boston Bruins,"Casey County, KY",21,045,21045
+Boston Bruins,"San Augustine County, TX",48,405,48405
+Boston Bruins,"Caldwell County, MO",29,033,29033
+Buffalo Sabres,"Erie County, NY",36,029,36029
+Buffalo Sabres,"Monroe County, NY",36,099,36099
+Buffalo Sabres,"Niagara County, NY",36,063,36063
+Buffalo Sabres,"Chautauqua County, NY",36,019,36019
+Buffalo Sabres,"Onondaga County, NY",36,067,36067
+Buffalo Sabres,"Cattaraugus County, NY",36,009,36009
+Buffalo Sabres,"Genesee County, NY",36,049,36049
+Buffalo Sabres,"Ontario County, NY",36,069,36069
+Buffalo Sabres,"Oneida County, NY",36,071,36071
+Buffalo Sabres,"Livingston County, NY",36,105,36105
+Buffalo Sabres,"Wyoming County, NY",36,121,36121
+Buffalo Sabres,"Allegany County, NY",36,001,36001
+Buffalo Sabres,"Steuben County, NY",36,151,36151
+Buffalo Sabres,"Cayuga County, NY",36,011,36011
+Buffalo Sabres,"Oswego County, NY",36,075,36075
+Buffalo Sabres,"Wayne County, NY",36,305,36305
+Buffalo Sabres,"Chemung County, NY",36,015,36015
+Buffalo Sabres,"Orleans County, NY",36,073,36073
+Buffalo Sabres,"McKean County, PA",42,083,42083
+Buffalo Sabres,"Madison County, NY",36,089,36089
+Buffalo Sabres,"Tompkins County, NY",36,109,36109
+Buffalo Sabres,"Seneca County, NY",36,099,36099
+Buffalo Sabres,"Cortland County, NY",36,023,36023
+Buffalo Sabres,"Yates County, NY",36,123,36123
+Buffalo Sabres,"Chenango County, NY",36,017,36017
+Buffalo Sabres,"Potter County, PA",42,105,42105
+Buffalo Sabres,"Tioga County, NY",36,107,36107
+Buffalo Sabres,"Schuyler County, NY",36,169,36169
+Buffalo Sabres,"Lewis County, NY",36,061,36061
+Buffalo Sabres,"Polk County, NC",37,113,37113
+Buffalo Sabres,"Greeley County, NE",31,071,31071
+Calgary Flames,"Cleveland County, NC",37,025,37025
+Calgary Flames,"Glacier County, MT",30,035,30035
+Calgary Flames,"Teton County, MT",30,081,30081
+Calgary Flames,"Liberty County, MT",30,077,30077
+Calgary Flames,"Franklin County, LA",22,059,22059
+Calgary Flames,"Pawnee County, KS",20,145,20145
+Carolina Hurricanes,"Wake County, NC",37,183,37183
+Carolina Hurricanes,"Guilford County, NC",37,081,37081
+Carolina Hurricanes,"Mecklenburg County, NC",37,119,37119
+Carolina Hurricanes,"Johnston County, NC",37,101,37101
+Carolina Hurricanes,"Durham County, NC",37,063,37063
+Carolina Hurricanes,"New Hanover County, NC",37,129,37129
+Carolina Hurricanes,"Onslow County, NC",37,133,37133
+Carolina Hurricanes,"Orange County, NC",37,059,37059
+Carolina Hurricanes,"Forsyth County, NC",37,117,37117
+Carolina Hurricanes,"Pitt County, NC",37,147,37147
+Carolina Hurricanes,"Cumberland County, NC",37,035,37035
+Carolina Hurricanes,"Moore County, NC",37,125,37125
+Carolina Hurricanes,"Harnett County, NC",37,085,37085
+Carolina Hurricanes,"Horry County, SC",45,051,45051
+Carolina Hurricanes,"Alamance County, NC",37,001,37001
+Carolina Hurricanes,"Craven County, NC",37,049,37049
+Carolina Hurricanes,"Chatham County, NC",37,051,37051
+Carolina Hurricanes,"Brunswick County, NC",37,019,37019
+Carolina Hurricanes,"Nash County, NC",37,127,37127
+Carolina Hurricanes,"Wayne County, NC",37,305,37305
+Carolina Hurricanes,"Lee County, NC",37,081,37081
+Carolina Hurricanes,"Union County, NC",37,139,37139
+Carolina Hurricanes,"Wilson County, NC",37,205,37205
+Carolina Hurricanes,"Iredell County, NC",37,097,37097
+Carolina Hurricanes,"Buncombe County, NC",37,021,37021
+Carolina Hurricanes,"Randolph County, NC",37,111,37111
+Carolina Hurricanes,"Carteret County, NC",37,031,37031
+Carolina Hurricanes,"Franklin County, NC",37,059,37059
+Carolina Hurricanes,"York County, SC",45,031,45031
+Carolina Hurricanes,"Greenville County, SC",45,045,45045
+Carolina Hurricanes,"Cabarrus County, NC",37,025,37025
+Carolina Hurricanes,"Pender County, NC",37,141,37141
+Carolina Hurricanes,"Granville County, NC",37,077,37077
+Carolina Hurricanes,"Richland County, SC",45,159,45159
+Carolina Hurricanes,"Davidson County, NC",37,057,37057
+Carolina Hurricanes,"Charleston County, SC",45,019,45019
+Carolina Hurricanes,"Rowan County, NC",37,205,37205
+Carolina Hurricanes,"Catawba County, NC",37,035,37035
+Carolina Hurricanes,"Rockingham County, NC",37,015,37015
+Carolina Hurricanes,"Gaston County, NC",37,071,37071
+Carolina Hurricanes,"Stokes County, NC",37,169,37169
+Carolina Hurricanes,"Lenoir County, NC",37,107,37107
+Carolina Hurricanes,"Lexington County, SC",45,063,45063
+Carolina Hurricanes,"Beaufort County, NC",37,013,37013
+Carolina Hurricanes,"Dorchester County, SC",45,019,45019
+Carolina Hurricanes,"Surry County, NC",37,171,37171
+Carolina Hurricanes,"Hoke County, NC",37,093,37093
+Carolina Hurricanes,"Davie County, NC",37,059,37059
+Carolina Hurricanes,"Florence County, SC",45,041,45041
+Carolina Hurricanes,"Person County, NC",37,145,37145
+Carolina Hurricanes,"Pittsylvania County, VA",51,143,51143
+Carolina Hurricanes,"Halifax County, VA",51,083,51083
+Carolina Hurricanes,"Edgecombe County, NC",37,065,37065
+Carolina Hurricanes,"Dare County, NC",37,055,37055
+Carolina Hurricanes,"Henderson County, NC",37,071,37071
+Carolina Hurricanes,"Sampson County, NC",37,163,37163
+Carolina Hurricanes,"Vance County, NC",37,181,37181
+Carolina Hurricanes,"Henry County, VA",51,067,51067
+Carolina Hurricanes,"Caldwell County, NC",37,033,37033
+Carolina Hurricanes,"Georgetown County, SC",45,043,45043
+Carolina Hurricanes,"Berkeley County, SC",45,015,45015
+Carolina Hurricanes,"Sumter County, SC",45,119,45119
+Carolina Hurricanes,"Robeson County, NC",37,155,37155
+Carolina Hurricanes,"Lincoln County, NC",37,079,37079
+Carolina Hurricanes,"Salem County, VA",51,033,51033
+Carolina Hurricanes,"Spartanburg County, SC",45,083,45083
+Carolina Hurricanes,"Halifax County, NC",37,083,37083
+Carolina Hurricanes,"Richmond County, NC",37,245,37245
+Carolina Hurricanes,"Martin County, NC",37,085,37085
+Carolina Hurricanes,"Duplin County, NC",37,061,37061
+Carolina Hurricanes,"Columbus County, NC",37,047,37047
+Carolina Hurricanes,"Burke County, NC",37,033,37033
+Carolina Hurricanes,"Wilkes County, NC",37,317,37317
+Carolina Hurricanes,"Campbell County, VA",51,037,51037
+Carolina Hurricanes,"Stanly County, NC",37,167,37167
+Carolina Hurricanes,"Franklin County, VA",51,059,51059
+Carolina Hurricanes,"Haywood County, NC",37,087,37087
+Carolina Hurricanes,"Caswell County, NC",37,033,37033
+Carolina Hurricanes,"Lancaster County, SC",45,109,45109
+Carolina Hurricanes,"Kershaw County, SC",45,055,45055
+Carolina Hurricanes,"Mecklenburg County, VA",51,119,51119
+Carolina Hurricanes,"Watauga County, NC",37,189,37189
+Carolina Hurricanes,"Pasquotank County, NC",37,139,37139
+Carolina Hurricanes,"Darlington County, SC",45,031,45031
+Carolina Hurricanes,"Marlboro County, SC",45,069,45069
+Carolina Hurricanes,"Yadkin County, NC",37,197,37197
+Carolina Hurricanes,"Pamlico County, NC",37,137,37137
+Carolina Hurricanes,"Montgomery County, NC",37,101,37101
+Carolina Hurricanes,"Danville County, VA",51,000,51000
+Carolina Hurricanes,"Rutherford County, NC",37,161,37161
+Carolina Hurricanes,"Ashe County, NC",37,009,37009
+Carolina Hurricanes,"Surry County, VA",51,171,51171
+Carolina Hurricanes,"Hertford County, NC",37,091,37091
+Carolina Hurricanes,"Chesterfield County, SC",45,025,45025
+Carolina Hurricanes,"Greene County, NC",37,063,37063
+Carolina Hurricanes,"Jones County, NC",37,169,37169
+Carolina Hurricanes,"Bladen County, NC",37,017,37017
+Carolina Hurricanes,"Tyrrell County, NC",37,177,37177
+Carolina Hurricanes,"Currituck County, NC",37,053,37053
+Carolina Hurricanes,"Chowan County, NC",37,041,37041
+Carolina Hurricanes,"Lunenburg County, VA",51,111,51111
+Carolina Hurricanes,"Galax County, VA",51,640,51640
+Carolina Hurricanes,"Alexander County, NC",37,003,37003
+Carolina Hurricanes,"Logan County, WV",54,083,54083
+Carolina Hurricanes,"Scotland County, NC",37,199,37199
+Carolina Hurricanes,"Nottoway County, VA",51,135,51135
+Carolina Hurricanes,"Brunswick County, VA",51,019,51019
+Carolina Hurricanes,"Greenwood County, SC",45,073,45073
+Carolina Hurricanes,"Lumpkin County, GA",13,187,13187
+Carolina Hurricanes,"McCormick County, SC",45,065,45065
+Carolina Hurricanes,"Warren County, NC",37,301,37301
+Carolina Hurricanes,"Russell County, VA",51,113,51113
+Carolina Hurricanes,"Swain County, NC",37,173,37173
+Carolina Hurricanes,"Newberry County, SC",45,071,45071
+Carolina Hurricanes,"Montgomery County, KS",20,101,20101
+Carolina Hurricanes,"Lee County, SC",45,081,45081
+Carolina Hurricanes,"Cherokee County, SC",45,019,45019
+Carolina Hurricanes,"Madison County, GA",13,089,13089
+Carolina Hurricanes,"Washington County, TX",48,129,48129
+Carolina Hurricanes,"Craig County, VA",51,035,51035
+Carolina Hurricanes,"Prince Edward County, VA",51,147,51147
+Carolina Hurricanes,"Conway County, AR",05,029,05029
+Carolina Hurricanes,"Cherokee County, NC",37,019,37019
+Carolina Hurricanes,"Patrick County, VA",51,141,51141
+Carolina Hurricanes,"Whitley County, KY",21,183,21183
+Carolina Hurricanes,"King and Queen County, VA",51,097,51097
+Carolina Hurricanes,"Adams County, MS",28,001,28001
+Carolina Hurricanes,"Manati County, PR",72,#N/A,#N/A
+Carolina Hurricanes,"Saluda County, SC",45,081,45081
+Carolina Hurricanes,"Greensville County, VA",51,081,51081
+Carolina Hurricanes,"Avery County, NC",37,011,37011
+Carolina Hurricanes,"Washington County, NC",37,129,37129
+Carolina Hurricanes,"Dinwiddie County, VA",51,053,51053
+Carolina Hurricanes,"Vega Alta County, PR",72,#N/A,#N/A
+Carolina Hurricanes,"Grayson County, VA",51,085,51085
+Chicago Blackhawks,"Cook County, IL",17,075,17075
+Chicago Blackhawks,"DuPage County, IL",17,043,17043
+Chicago Blackhawks,"Will County, IL",17,197,17197
+Chicago Blackhawks,"Lake County, IL",17,033,17033
+Chicago Blackhawks,"Kane County, IL",17,089,17089
+Chicago Blackhawks,"Lake County, IN",18,033,18033
+Chicago Blackhawks,"McHenry County, IL",17,111,17111
+Chicago Blackhawks,"Porter County, IN",18,127,18127
+Chicago Blackhawks,"Kendall County, IL",17,093,17093
+Chicago Blackhawks,"Winnebago County, IL",17,201,17201
+Chicago Blackhawks,"Kankakee County, IL",17,091,17091
+Chicago Blackhawks,"Milwaukee County, WI",55,079,55079
+Chicago Blackhawks,"La Salle County, IL",17,283,17283
+Chicago Blackhawks,"Grundy County, IL",17,063,17063
+Chicago Blackhawks,"Dane County, WI",55,025,55025
+Chicago Blackhawks,"St. Joseph County, IN",18,141,18141
+Chicago Blackhawks,"DeKalb County, IL",17,049,17049
+Chicago Blackhawks,"Kenosha County, WI",55,059,55059
+Chicago Blackhawks,"Hamilton County, IN",18,047,18047
+Chicago Blackhawks,"McLean County, IL",17,113,17113
+Chicago Blackhawks,"LaPorte County, IN",18,091,18091
+Chicago Blackhawks,"Waukesha County, WI",55,133,55133
+Chicago Blackhawks,"Peoria County, IL",17,143,17143
+Chicago Blackhawks,"Marion County, IN",18,093,18093
+Chicago Blackhawks,"Champaign County, IL",17,019,17019
+Chicago Blackhawks,"Scott County, IA",19,127,19127
+Chicago Blackhawks,"Tazewell County, IL",17,179,17179
+Chicago Blackhawks,"Rock Island County, IL",17,161,17161
+Chicago Blackhawks,"Walworth County, WI",55,129,55129
+Chicago Blackhawks,"Macon County, IL",17,087,17087
+Chicago Blackhawks,"Boone County, IL",17,009,17009
+Chicago Blackhawks,"Sarpy County, NE",31,153,31153
+Chicago Blackhawks,"Elkhart County, IN",18,039,18039
+Chicago Blackhawks,"Racine County, WI",55,101,55101
+Chicago Blackhawks,"Tippecanoe County, IN",18,157,18157
+Chicago Blackhawks,"Dubuque County, IA",19,061,19061
+Chicago Blackhawks,"Linn County, IA",19,113,19113
+Chicago Blackhawks,"Henry County, IL",17,067,17067
+Chicago Blackhawks,"Rock County, WI",55,133,55133
+Chicago Blackhawks,"Bureau County, IL",17,011,17011
+Chicago Blackhawks,"Vermilion County, IL",17,183,17183
+Chicago Blackhawks,"Livingston County, IL",17,105,17105
+Chicago Blackhawks,"Winnebago County, WI",55,201,55201
+Chicago Blackhawks,"Jasper County, IN",18,159,18159
+Chicago Blackhawks,"Washington County, WI",55,129,55129
+Chicago Blackhawks,"Woodford County, IL",17,203,17203
+Chicago Blackhawks,"Wood County, WI",55,173,55173
+Chicago Blackhawks,"Black Hawk County, IA",19,013,19013
+Chicago Blackhawks,"Outagamie County, WI",55,087,55087
+Chicago Blackhawks,"Ogle County, IL",17,141,17141
+Chicago Blackhawks,"Shawnee County, KS",20,177,20177
+Chicago Blackhawks,"Johnson County, IA",19,071,19071
+Chicago Blackhawks,"Lee County, IL",17,081,17081
+Chicago Blackhawks,"Whiteside County, IL",17,195,17195
+Chicago Blackhawks,"Fond du Lac County, WI",55,039,55039
+Chicago Blackhawks,"Iroquois County, IL",17,075,17075
+Chicago Blackhawks,"Boone County, IN",18,009,18009
+Chicago Blackhawks,"Stephenson County, IL",17,177,17177
+Chicago Blackhawks,"Johnson County, IN",18,071,18071
+Chicago Blackhawks,"Sauk County, WI",55,111,55111
+Chicago Blackhawks,"Ozaukee County, WI",55,089,55089
+Chicago Blackhawks,"Manitowoc County, WI",55,071,55071
+Chicago Blackhawks,"St. Tammany County, LA",22,103,22103
+Chicago Blackhawks,"Hendricks County, IN",18,063,18063
+Chicago Blackhawks,"Kosciusko County, IN",18,085,18085
+Chicago Blackhawks,"Sheboygan County, WI",55,117,55117
+Chicago Blackhawks,"Columbia County, WI",55,027,55027
+Chicago Blackhawks,"Jefferson County, WI",55,073,55073
+Chicago Blackhawks,"Piatt County, IL",17,147,17147
+Chicago Blackhawks,"Vigo County, IN",18,167,18167
+Chicago Blackhawks,"Marshall County, IN",18,095,18095
+Chicago Blackhawks,"Starke County, IN",18,149,18149
+Chicago Blackhawks,"Logan County, IL",17,083,17083
+Chicago Blackhawks,"Buchanan County, IA",19,019,19019
+Chicago Blackhawks,"Knox County, IL",17,095,17095
+Chicago Blackhawks,"Cabo Rojo County, PR",72,#N/A,#N/A
+Chicago Blackhawks,"Muscatine County, IA",19,139,19139
+Chicago Blackhawks,"Madison County, IN",18,089,18089
+Chicago Blackhawks,"Pickens County, SC",45,107,45107
+Chicago Blackhawks,"Oneida County, WI",55,071,55071
+Chicago Blackhawks,"Whitley County, IN",18,183,18183
+Chicago Blackhawks,"Clinton County, IA",19,027,19027
+Chicago Blackhawks,"Dodge County, NE",31,091,31091
+Chicago Blackhawks,"Crawford County, IL",17,033,17033
+Chicago Blackhawks,"Fulton County, IL",17,049,17049
+Chicago Blackhawks,"Jo Daviess County, IL",17,085,17085
+Chicago Blackhawks,"Bremer County, IA",19,017,19017
+Chicago Blackhawks,"Des Moines County, IA",19,057,19057
+Chicago Blackhawks,"Benton County, IA",19,007,19007
+Chicago Blackhawks,"White County, IN",18,145,18145
+Chicago Blackhawks,"Morgan County, IN",18,103,18103
+Chicago Blackhawks,"Minidoka County, ID",16,067,16067
+Chicago Blackhawks,"Nodaway County, MO",29,147,29147
+Chicago Blackhawks,"Shelby County, KY",21,117,21117
+Chicago Blackhawks,"Iowa County, WI",55,095,55095
+Chicago Blackhawks,"Henry County, IN",18,067,18067
+Chicago Blackhawks,"Grundy County, IA",19,063,19063
+Chicago Blackhawks,"Putnam County, IL",17,107,17107
+Chicago Blackhawks,"Saline County, KS",20,125,20125
+Chicago Blackhawks,"Tipton County, IN",18,159,18159
+Chicago Blackhawks,"Door County, WI",55,029,55029
+Chicago Blackhawks,"Hamilton County, TX",48,047,48047
+Chicago Blackhawks,"Mercer County, IL",17,131,17131
+Chicago Blackhawks,"Ford County, IL",17,053,17053
+Chicago Blackhawks,"Newton County, IN",18,101,18101
+Chicago Blackhawks,"Vermillion County, IN",18,165,18165
+Chicago Blackhawks,"Calumet County, WI",55,015,55015
+Chicago Blackhawks,"Harrison County, IN",18,061,18061
+Chicago Blackhawks,"Kewaunee County, WI",55,061,55061
+Chicago Blackhawks,"Lagrange County, IN",18,087,18087
+Chicago Blackhawks,"Miami County, IN",18,103,18103
+Chicago Blackhawks,"Wabash County, IN",18,185,18185
+Chicago Blackhawks,"Huntington County, IN",18,069,18069
+Chicago Blackhawks,"Juneau County, WI",55,057,55057
+Chicago Blackhawks,"Monroe County, IA",19,099,19099
+Chicago Blackhawks,"Edwards County, IL",17,047,17047
+Chicago Blackhawks,"Seward County, NE",31,175,31175
+Chicago Blackhawks,"Johnson County, AR",05,071,05071
+Chicago Blackhawks,"Louisa County, IA",19,115,19115
+Chicago Blackhawks,"Jasper County, IA",19,159,19159
+Chicago Blackhawks,"Rooks County, KS",20,163,20163
+Chicago Blackhawks,"Holt County, NE",31,087,31087
+Chicago Blackhawks,"Dade County, MO",29,083,29083
+Chicago Blackhawks,"Nome County, AK",02,180,02180
+Chicago Blackhawks,"Benton County, IN",18,007,18007
+Chicago Blackhawks,"Garfield County, UT",49,045,49045
+Chicago Blackhawks,"Warren County, IL",17,301,17301
+Chicago Blackhawks,"Pointe Coupee County, LA",22,077,22077
+Chicago Blackhawks,"Greene County, GA",13,063,13063
+Chicago Blackhawks,"Hale County, TX",48,065,48065
+Chicago Blackhawks,"Washington County, IA",19,129,19129
+Chicago Blackhawks,"Lake County, SD",46,033,46033
+Chicago Blackhawks,"Hamilton County, NE",31,047,31047
+Chicago Blackhawks,"Daviess County, IN",18,027,18027
+Chicago Blackhawks,"Lee County, GA",13,081,13081
+Chicago Blackhawks,"Turner County, GA",13,287,13287
+Chicago Blackhawks,"Mineral County, NV",32,079,32079
+Chicago Blackhawks,"Newton County, GA",13,101,13101
+Chicago Blackhawks,"Prentiss County, MS",28,117,28117
+Chicago Blackhawks,"Guthrie County, IA",19,077,19077
+Chicago Blackhawks,"Franklin County, AR",05,059,05059
+Chicago Blackhawks,"Lafayette County, WI",55,073,55073
+Chicago Blackhawks,"Clayton County, GA",13,063,13063
+Chicago Blackhawks,"Ochiltree County, TX",48,357,48357
+Chicago Blackhawks,"Skagway County, AK",02,230,02230
+Chicago Blackhawks,"Orange County, IN",18,059,18059
+Chicago Blackhawks,"Brewster County, TX",48,043,48043
+Chicago Blackhawks,"Atchison County, KS",20,005,20005
+Chicago Blackhawks,"Cross County, AR",05,037,05037
+Chicago Blackhawks,"Stephens County, GA",13,257,13257
+Chicago Blackhawks,"Union County, SC",45,139,45139
+Chicago Blackhawks,"Grenada County, MS",28,043,28043
+Chicago Blackhawks,"Putnam County, GA",13,107,13107
+Chicago Blackhawks,"Fulton County, IN",18,049,18049
+Chicago Blackhawks,"Stone County, AR",05,137,05137
+Chicago Blackhawks,"Mercer County, KY",21,131,21131
+Chicago Blackhawks,"St. John County, VI",78,000,78000
+Chicago Blackhawks,"Spencer County, KY",21,147,21147
+Chicago Blackhawks,"Bristol County, VA",51,005,51005
+Chicago Blackhawks,"Barbour County, AL",01,005,01005
+Chicago Blackhawks,"Brown County, IN",18,009,18009
+Chicago Blackhawks,"Harney County, OR",41,025,41025
+Chicago Blackhawks,"Broadwater County, MT",30,007,30007
+Chicago Blackhawks,"Iowa County, IA",19,095,19095
+Chicago Blackhawks,"Chambers County, AL",01,017,01017
+Chicago Blackhawks,"Macon County, GA",13,087,13087
+Chicago Blackhawks,"Ellsworth County, KS",20,053,20053
+Chicago Blackhawks,"Marion County, MS",28,093,28093
+Chicago Blackhawks,"Hardin County, IL",17,069,17069
+Chicago Blackhawks,"Clarke County, IA",19,025,19025
+Chicago Blackhawks,"Evans County, GA",13,109,13109
+Chicago Blackhawks,"Beaver County, OK",40,007,40007
+Chicago Blackhawks,"Doniphan County, KS",20,043,20043
+Chicago Blackhawks,"Valley County, NE",31,085,31085
+Colorado Avalanche,"Denver County, CO",08,031,08031
+Colorado Avalanche,"Jefferson County, CO",08,073,08073
+Colorado Avalanche,"Arapahoe County, CO",08,005,08005
+Colorado Avalanche,"Douglas County, CO",08,035,08035
+Colorado Avalanche,"El Paso County, CO",08,041,08041
+Colorado Avalanche,"Adams County, CO",08,001,08001
+Colorado Avalanche,"Weld County, CO",08,123,08123
+Colorado Avalanche,"Boulder County, CO",08,013,08013
+Colorado Avalanche,"Larimer County, CO",08,069,08069
+Colorado Avalanche,"Broomfield County, CO",08,014,08014
+Colorado Avalanche,"Pueblo County, CO",08,101,08101
+Colorado Avalanche,"Mesa County, CO",08,077,08077
+Colorado Avalanche,"Laramie County, WY",56,021,56021
+Colorado Avalanche,"Eagle County, CO",08,037,08037
+Colorado Avalanche,"Summit County, CO",08,117,08117
+Colorado Avalanche,"Garfield County, CO",08,045,08045
+Colorado Avalanche,"Bernalillo County, NM",35,001,35001
+Colorado Avalanche,"Natrona County, WY",56,025,56025
+Colorado Avalanche,"Routt County, CO",08,107,08107
+Colorado Avalanche,"Albany County, WY",56,001,56001
+Colorado Avalanche,"Campbell County, WY",56,037,56037
+Colorado Avalanche,"La Plata County, CO",08,067,08067
+Colorado Avalanche,"Yellowstone County, MT",30,111,30111
+Colorado Avalanche,"Douglas County, NE",31,035,31035
+Colorado Avalanche,"Gunnison County, CO",08,051,08051
+Colorado Avalanche,"Montrose County, CO",08,085,08085
+Colorado Avalanche,"Fremont County, CO",08,043,08043
+Colorado Avalanche,"Elbert County, CO",08,039,08039
+Colorado Avalanche,"Grand County, CO",08,049,08049
+Colorado Avalanche,"Teller County, CO",08,119,08119
+Colorado Avalanche,"Delta County, CO",08,029,08029
+Colorado Avalanche,"Logan County, CO",08,083,08083
+Colorado Avalanche,"Sheridan County, WY",56,179,56179
+Colorado Avalanche,"Scotts Bluff County, NE",31,157,31157
+Colorado Avalanche,"Sweetwater County, WY",56,037,56037
+Colorado Avalanche,"Morgan County, CO",08,103,08103
+Colorado Avalanche,"Lancaster County, NE",31,109,31109
+Colorado Avalanche,"Chaffee County, CO",08,015,08015
+Colorado Avalanche,"Pennington County, SD",46,113,46113
+Colorado Avalanche,"Alamosa County, CO",08,003,08003
+Colorado Avalanche,"Park County, CO",08,093,08093
+Colorado Avalanche,"Pitkin County, CO",08,097,08097
+Colorado Avalanche,"Santa Fe County, NM",35,049,35049
+Colorado Avalanche,"Otero County, CO",08,089,08089
+Colorado Avalanche,"Sandoval County, NM",35,043,35043
+Colorado Avalanche,"San Juan County, NM",35,111,35111
+Colorado Avalanche,"Sedgwick County, KS",20,115,20115
+Colorado Avalanche,"Moffat County, CO",08,081,08081
+Colorado Avalanche,"Converse County, WY",56,009,56009
+Colorado Avalanche,"Fremont County, WY",56,043,56043
+Colorado Avalanche,"Park County, WY",56,093,56093
+Colorado Avalanche,"Lincoln County, NE",31,079,31079
+Colorado Avalanche,"Montezuma County, CO",08,083,08083
+Colorado Avalanche,"Rio Grande County, CO",08,105,08105
+Colorado Avalanche,"San Miguel County, CO",08,113,08113
+Colorado Avalanche,"Lake County, CO",08,033,08033
+Colorado Avalanche,"Los Alamos County, NM",35,028,35028
+Colorado Avalanche,"Uintah County, UT",49,047,49047
+Colorado Avalanche,"Custer County, CO",08,027,08027
+Colorado Avalanche,"Johnson County, WY",56,071,56071
+Colorado Avalanche,"Las Animas County, CO",08,071,08071
+Colorado Avalanche,"Buffalo County, NE",31,019,31019
+Colorado Avalanche,"Carbon County, WY",56,009,56009
+Colorado Avalanche,"Taos County, NM",35,055,35055
+Colorado Avalanche,"Clear Creek County, CO",08,019,08019
+Colorado Avalanche,"Cache County, UT",49,005,49005
+Colorado Avalanche,"Eddy County, NM",35,015,35015
+Colorado Avalanche,"Cheyenne County, NE",31,017,31017
+Colorado Avalanche,"Gilpin County, CO",08,047,08047
+Colorado Avalanche,"Sublette County, WY",56,035,56035
+Colorado Avalanche,"Rio Blanco County, CO",08,103,08103
+Colorado Avalanche,"Chaves County, NM",35,005,35005
+Colorado Avalanche,"Finney County, KS",20,055,20055
+Colorado Avalanche,"Platte County, WY",56,165,56165
+Colorado Avalanche,"Phillips County, CO",08,107,08107
+Colorado Avalanche,"Chase County, NE",31,017,31017
+Colorado Avalanche,"Washington County, CO",08,129,08129
+Colorado Avalanche,"Goshen County, WY",56,015,56015
+Colorado Avalanche,"Prowers County, CO",08,099,08099
+Colorado Avalanche,"Kit Carson County, CO",08,063,08063
+Colorado Avalanche,"Yuma County, CO",08,027,08027
+Colorado Avalanche,"Ellis County, KS",20,051,20051
+Colorado Avalanche,"Crowley County, CO",08,025,08025
+Colorado Avalanche,"Sebastian County, AR",05,131,05131
+Colorado Avalanche,"Warren County, IA",19,301,19301
+Colorado Avalanche,"Archuleta County, CO",08,007,08007
+Colorado Avalanche,"Ford County, KS",20,053,20053
+Colorado Avalanche,"Keith County, NE",31,101,31101
+Colorado Avalanche,"Ouray County, CO",08,091,08091
+Colorado Avalanche,"San Miguel County, NM",35,113,35113
+Colorado Avalanche,"Lawrence County, SD",46,079,46079
+Colorado Avalanche,"Valencia County, NM",35,061,35061
+Colorado Avalanche,"Adams County, NE",31,001,31001
+Colorado Avalanche,"Weston County, WY",56,045,56045
+Colorado Avalanche,"Thomas County, KS",20,275,20275
+Colorado Avalanche,"Box Butte County, NE",31,013,31013
+Colorado Avalanche,"Hot Springs County, WY",56,017,56017
+Colorado Avalanche,"Custer County, MT",30,027,30027
+Colorado Avalanche,"Lincoln County, CO",08,079,08079
+Colorado Avalanche,"Morrill County, NE",31,123,31123
+Colorado Avalanche,"Cheyenne County, CO",08,017,08017
+Colorado Avalanche,"Dawson County, NE",31,085,31085
+Colorado Avalanche,"Washakie County, WY",56,043,56043
+Colorado Avalanche,"Terrebonne County, LA",22,109,22109
+Colorado Avalanche,"Butler County, KS",20,013,20013
+Colorado Avalanche,"Conejos County, CO",08,021,08021
+Colorado Avalanche,"Geary County, KS",20,061,20061
+Colorado Avalanche,"Teton County, ID",16,081,16081
+Colorado Avalanche,"Howard County, NE",31,061,31061
+Colorado Avalanche,"Republic County, KS",20,157,20157
+Colorado Avalanche,"Kerr County, TX",48,265,48265
+Colorado Avalanche,"Musselshell County, MT",30,065,30065
+Colorado Avalanche,"Sherman County, KS",20,181,20181
+Colorado Avalanche,"Dawes County, NE",31,045,31045
+Colorado Avalanche,"Big Horn County, WY",56,003,56003
+Colorado Avalanche,"Cheyenne County, KS",20,017,20017
+Colorado Avalanche,"Baldwin County, GA",13,003,13003
+Colorado Avalanche,"Dawson County, MT",30,085,30085
+Colorado Avalanche,"Bingham County, ID",16,011,16011
+Colorado Avalanche,"Umatilla County, OR",41,059,41059
+Colorado Avalanche,"Reno County, KS",20,155,20155
+Colorado Avalanche,"Colfax County, NM",35,037,35037
+Colorado Avalanche,"Cass County, NE",31,017,31017
+Colorado Avalanche,"Logan County, KS",20,083,20083
+Colorado Avalanche,"Osage County, OK",40,139,40139
+Colorado Avalanche,"Granite County, MT",30,039,30039
+Colorado Avalanche,"St. Mary County, LA",22,101,22101
+Colorado Avalanche,"Bent County, CO",08,011,08011
+Colorado Avalanche,"Barton County, KS",20,009,20009
+Colorado Avalanche,"Duchesne County, UT",49,013,49013
+Colorado Avalanche,"Jackson County, CO",08,071,08071
+Colorado Avalanche,"Kimball County, NE",31,105,31105
+Colorado Avalanche,"Kiowa County, CO",08,061,08061
+Colorado Avalanche,"Gage County, NE",31,067,31067
+Colorado Avalanche,"Butte County, SD",46,007,46007
+Colorado Avalanche,"Platte County, NE",31,165,31165
+Colorado Avalanche,"Seward County, KS",20,175,20175
+Colorado Avalanche,"Jefferson County, NE",31,073,31073
+Colorado Avalanche,"Gooding County, ID",16,047,16047
+Colorado Avalanche,"Sedgwick County, CO",08,115,08115
+Colorado Avalanche,"Carbon County, MT",30,009,30009
+Colorado Avalanche,"Huerfano County, CO",08,055,08055
+Colorado Avalanche,"Lincoln County, NM",35,079,35079
+Colorado Avalanche,"Richmond County, VA",51,245,51245
+Colorado Avalanche,"Dickinson County, KS",20,059,20059
+Colorado Avalanche,"Jefferson County, IN",18,073,18073
+Colorado Avalanche,"Saguache County, CO",08,109,08109
+Colorado Avalanche,"Anderson County, SC",45,003,45003
+Colorado Avalanche,"Logan County, NE",31,083,31083
+Colorado Avalanche,"Jones County, TX",48,169,48169
+Colorado Avalanche,"Haskell County, KS",20,081,20081
+Colorado Avalanche,"Gray County, KS",20,069,20069
+Colorado Avalanche,"Dolores County, CO",08,033,08033
+Colorado Avalanche,"Fall River County, SD",46,047,46047
+Colorado Avalanche,"Costilla County, CO",08,023,08023
+Colorado Avalanche,"York County, NE",31,031,31031
+Colorado Avalanche,"Adair County, OK",40,001,40001
+Colorado Avalanche,"Furnas County, NE",31,065,31065
+Colorado Avalanche,"Jackson County, KS",20,071,20071
+Colorado Avalanche,"Custer County, SD",46,027,46027
+Colorado Avalanche,"Carroll County, AR",05,015,05015
+Colorado Avalanche,"Cherokee County, AL",01,019,01019
+Colorado Avalanche,"Pottawatomie County, KS",20,149,20149
+Colorado Avalanche,"Knox County, NE",31,095,31095
+Colorado Avalanche,"Niobrara County, WY",56,027,56027
+Colorado Avalanche,"Trego County, KS",20,195,20195
+Colorado Avalanche,"Tyler County, WV",54,457,54457
+Colorado Avalanche,"Deuel County, NE",31,049,31049
+Colorado Avalanche,"Decatur County, KS",20,087,20087
+Colorado Avalanche,"Saline County, NE",31,125,31125
+Colorado Avalanche,"Gregory County, SD",46,053,46053
+Colorado Avalanche,"Bristol Bay County, AK",02,060,02060
+Colorado Avalanche,"Kearny County, KS",20,093,20093
+Colorado Avalanche,"Lane County, KS",20,101,20101
+Colorado Avalanche,"Mineral County, CO",08,079,08079
+Colorado Avalanche,"Clay County, KS",20,027,20027
+Colorado Avalanche,"Rawlins County, KS",20,153,20153
+Colorado Avalanche,"Red Willow County, NE",31,145,31145
+Colorado Avalanche,"Bourbon County, KY",21,011,21011
+Colorado Avalanche,"Goliad County, TX",48,175,48175
+Colorado Avalanche,"Hooker County, NE",31,091,31091
+Colorado Avalanche,"Oldham County, TX",48,185,48185
+Colorado Avalanche,"Fillmore County, NE",31,045,31045
+Colorado Avalanche,"Stanton County, KS",20,187,20187
+Colorado Avalanche,"Tripp County, SD",46,123,46123
+Colorado Avalanche,"Coal County, OK",40,029,40029
+Colorado Avalanche,"Comanche County, KS",20,033,20033
+Colorado Avalanche,"Claiborne County, LA",22,021,22021
+Colorado Avalanche,"Cleburne County, AL",01,029,01029
+Colorado Avalanche,"Franklin County, NE",31,059,31059
+Colorado Avalanche,"Stafford County, KS",20,185,20185
+Colorado Avalanche,"Bowman County, ND",38,011,38011
+Colorado Avalanche,"Nance County, NE",31,125,31125
+Colorado Avalanche,"Bennett County, SD",46,007,46007
+Colorado Avalanche,"Graham County, KS",20,009,20009
+Colorado Avalanche,"Arthur County, NE",31,005,31005
+Colorado Avalanche,"Sheridan County, KS",20,179,20179
+Colorado Avalanche,"St. Martin County, LA",22,099,22099
+Colorado Avalanche,"Richland County, LA",22,159,22159
+Colorado Avalanche,"Logan County, ND",38,083,38083
+Colorado Avalanche,"Wayne County, UT",49,305,49305
+Colorado Avalanche,"Quitman County, MS",28,239,28239
+Colorado Avalanche,"Rice County, KS",20,159,20159
+Colorado Avalanche,"Crook County, WY",56,013,56013
+Colorado Avalanche,"Murray County, GA",13,213,13213
+Colorado Avalanche,"Thayer County, NE",31,169,31169
+Colorado Avalanche,"Lincoln County, OK",40,079,40079
+Colorado Avalanche,"Sierra County, NM",35,091,35091
+Colorado Avalanche,"Perkins County, NE",31,135,31135
+Colorado Avalanche,"McCone County, MT",30,055,30055
+Colorado Avalanche,"Jackson County, TX",48,071,48071
+Colorado Avalanche,"Jackson County, LA",22,071,22071
+Colorado Avalanche,"Jewell County, KS",20,089,20089
+Colorado Avalanche,"Morrow County, OR",41,117,41117
+Colorado Avalanche,"Meade County, KS",20,119,20119
+Colorado Avalanche,"Nevada County, AR",05,099,05099
+Colorado Avalanche,"Wichita County, KS",20,203,20203
+Colorado Avalanche,"Desha County, AR",05,041,05041
+Colorado Avalanche,"Copiah County, MS",28,029,28029
+Colorado Avalanche,"Wallace County, KS",20,199,20199
+Colorado Avalanche,"Sabana Grande County, PR",72,#N/A,#N/A
+Colorado Avalanche,"Scott County, KS",20,127,20127
+Colorado Avalanche,"Torrance County, NM",35,057,35057
+Colorado Avalanche,"Clark County, KS",20,019,20019
+Colorado Avalanche,"Oglala Lakota County, SD",46,102,46102
+Colorado Avalanche,"Kiowa County, KS",20,061,20061
+Columbus Blue Jackets,"Franklin County, OH",39,059,39059
+Columbus Blue Jackets,"Delaware County, OH",39,035,39035
+Columbus Blue Jackets,"Fairfield County, OH",39,001,39001
+Columbus Blue Jackets,"Montgomery County, OH",39,101,39101
+Columbus Blue Jackets,"Cuyahoga County, OH",39,035,39035
+Columbus Blue Jackets,"Licking County, OH",39,089,39089
+Columbus Blue Jackets,"Hamilton County, OH",39,047,39047
+Columbus Blue Jackets,"Summit County, OH",39,117,39117
+Columbus Blue Jackets,"Clark County, OH",39,019,39019
+Columbus Blue Jackets,"Warren County, OH",39,301,39301
+Columbus Blue Jackets,"Muskingum County, OH",39,119,39119
+Columbus Blue Jackets,"Butler County, OH",39,013,39013
+Columbus Blue Jackets,"Madison County, OH",39,089,39089
+Columbus Blue Jackets,"Greene County, OH",39,063,39063
+Columbus Blue Jackets,"Stark County, OH",39,175,39175
+Columbus Blue Jackets,"Union County, OH",39,139,39139
+Columbus Blue Jackets,"Richland County, OH",39,159,39159
+Columbus Blue Jackets,"Pickaway County, OH",39,129,39129
+Columbus Blue Jackets,"Allen County, OH",39,003,39003
+Columbus Blue Jackets,"Lorain County, OH",39,093,39093
+Columbus Blue Jackets,"Miami County, OH",39,103,39103
+Columbus Blue Jackets,"Medina County, OH",39,103,39103
+Columbus Blue Jackets,"Lake County, OH",39,033,39033
+Columbus Blue Jackets,"Logan County, OH",39,083,39083
+Columbus Blue Jackets,"Ross County, OH",39,141,39141
+Columbus Blue Jackets,"Knox County, OH",39,095,39095
+Columbus Blue Jackets,"Clermont County, OH",39,025,39025
+Columbus Blue Jackets,"Perry County, OH",39,105,39105
+Columbus Blue Jackets,"Wayne County, OH",39,305,39305
+Columbus Blue Jackets,"Marion County, OH",39,093,39093
+Columbus Blue Jackets,"Champaign County, OH",39,019,39019
+Columbus Blue Jackets,"Auglaize County, OH",39,011,39011
+Columbus Blue Jackets,"Scioto County, OH",39,145,39145
+Columbus Blue Jackets,"Mercer County, OH",39,131,39131
+Columbus Blue Jackets,"Crawford County, OH",39,033,39033
+Columbus Blue Jackets,"Hancock County, OH",39,141,39141
+Columbus Blue Jackets,"Washington County, OH",39,129,39129
+Columbus Blue Jackets,"Wyandot County, OH",39,175,39175
+Columbus Blue Jackets,"Athens County, OH",39,009,39009
+Columbus Blue Jackets,"Ashland County, OH",39,005,39005
+Columbus Blue Jackets,"Darke County, OH",39,037,39037
+Columbus Blue Jackets,"Guernsey County, OH",39,059,39059
+Columbus Blue Jackets,"Tuscarawas County, OH",39,157,39157
+Columbus Blue Jackets,"Kenton County, KY",21,117,21117
+Columbus Blue Jackets,"Hardin County, OH",39,069,39069
+Columbus Blue Jackets,"Putnam County, WV",54,107,54107
+Columbus Blue Jackets,"Putnam County, OH",39,107,39107
+Columbus Blue Jackets,"Coshocton County, OH",39,031,39031
+Columbus Blue Jackets,"Fayette County, OH",39,057,39057
+Columbus Blue Jackets,"Erie County, OH",39,029,39029
+Columbus Blue Jackets,"Geauga County, OH",39,055,39055
+Columbus Blue Jackets,"Jackson County, OH",39,071,39071
+Columbus Blue Jackets,"Huron County, OH",39,063,39063
+Columbus Blue Jackets,"Boone County, KY",21,009,21009
+Columbus Blue Jackets,"Hocking County, OH",39,073,39073
+Columbus Blue Jackets,"Morrow County, OH",39,117,39117
+Columbus Blue Jackets,"Preble County, OH",39,135,39135
+Columbus Blue Jackets,"Highland County, OH",39,071,39071
+Columbus Blue Jackets,"Shelby County, OH",39,117,39117
+Columbus Blue Jackets,"Lawrence County, OH",39,079,39079
+Columbus Blue Jackets,"Clinton County, OH",39,027,39027
+Columbus Blue Jackets,"Seneca County, OH",39,099,39099
+Columbus Blue Jackets,"Campbell County, KY",21,037,21037
+Columbus Blue Jackets,"Pike County, OH",39,109,39109
+Columbus Blue Jackets,"Gallia County, OH",39,053,39053
+Columbus Blue Jackets,"Ashtabula County, OH",39,007,39007
+Columbus Blue Jackets,"Boyd County, KY",21,019,21019
+Columbus Blue Jackets,"Randolph County, IN",18,111,18111
+Columbus Blue Jackets,"Van Wert County, OH",39,161,39161
+Columbus Blue Jackets,"Hancock County, IN",18,141,18141
+Columbus Blue Jackets,"Union County, IN",18,139,18139
+Columbus Blue Jackets,"Noble County, OH",39,113,39113
+Columbus Blue Jackets,"Meigs County, OH",39,105,39105
+Columbus Blue Jackets,"Dearborn County, IN",18,029,18029
+Columbus Blue Jackets,"Wayne County, IN",18,305,18305
+Columbus Blue Jackets,"Brown County, OH",39,009,39009
+Columbus Blue Jackets,"Holmes County, OH",39,059,39059
+Columbus Blue Jackets,"Carroll County, OH",39,015,39015
+Columbus Blue Jackets,"Delaware County, IN",18,035,18035
+Columbus Blue Jackets,"Mason County, WV",54,125,54125
+Columbus Blue Jackets,"Howard County, IN",18,061,18061
+Columbus Blue Jackets,"Le Flore County, OK",40,079,40079
+Columbus Blue Jackets,"Morgan County, OH",39,103,39103
+Columbus Blue Jackets,"Grant County, KY",21,053,21053
+Columbus Blue Jackets,"Wells County, IN",18,179,18179
+Columbus Blue Jackets,"Grant County, IN",18,053,18053
+Columbus Blue Jackets,"Jackson County, IN",18,071,18071
+Columbus Blue Jackets,"Summers County, WV",54,089,54089
+Columbus Blue Jackets,"Putnam County, IN",18,107,18107
+Columbus Blue Jackets,"Clinton County, IN",18,027,18027
+Columbus Blue Jackets,"Wayne County, KY",21,305,21305
+Columbus Blue Jackets,"Hancock County, MS",28,141,28141
+Columbus Blue Jackets,"Pendleton County, WV",54,191,54191
+Columbus Blue Jackets,"Vinton County, OH",39,163,39163
+Columbus Blue Jackets,"Adams County, OH",39,001,39001
+Columbus Blue Jackets,"Washington County, IN",18,129,18129
+Columbus Blue Jackets,"St. James County, LA",22,093,22093
+Columbus Blue Jackets,"Lewis County, KY",21,061,21061
+Columbus Blue Jackets,"Martin County, IN",18,085,18085
+Columbus Blue Jackets,"Highland County, VA",51,071,51071
+Columbus Blue Jackets,"Estill County, KY",21,065,21065
+Columbus Blue Jackets,"Lincoln County, KS",20,079,20079
+Columbus Blue Jackets,"Switzerland County, IN",18,155,18155
+Columbus Blue Jackets,"Carroll County, IN",18,015,18015
+Columbus Blue Jackets,"Butte County, ID",16,007,16007
+Columbus Blue Jackets,"Ohio County, IN",18,115,18115
+Dallas Stars,"Dallas County, TX",48,047,48047
+Dallas Stars,"Tarrant County, TX",48,439,48439
+Dallas Stars,"Collin County, TX",48,085,48085
+Dallas Stars,"Denton County, TX",48,121,48121
+Dallas Stars,"Harris County, TX",48,145,48145
+Dallas Stars,"Rockwall County, TX",48,397,48397
+Dallas Stars,"Travis County, TX",48,453,48453
+Dallas Stars,"Ellis County, TX",48,051,48051
+Dallas Stars,"Smith County, TX",48,183,48183
+Dallas Stars,"Kaufman County, TX",48,257,48257
+Dallas Stars,"Johnson County, TX",48,071,48071
+Dallas Stars,"Montgomery County, TX",48,101,48101
+Dallas Stars,"Bexar County, TX",48,029,48029
+Dallas Stars,"Parker County, TX",48,367,48367
+Dallas Stars,"Midland County, TX",48,111,48111
+Dallas Stars,"McLennan County, TX",48,309,48309
+Dallas Stars,"Taylor County, TX",48,123,48123
+Dallas Stars,"Williamson County, TX",48,199,48199
+Dallas Stars,"Grayson County, TX",48,085,48085
+Dallas Stars,"Oklahoma County, OK",40,109,40109
+Dallas Stars,"Bell County, TX",48,013,48013
+Dallas Stars,"Brazos County, TX",48,041,48041
+Dallas Stars,"Galveston County, TX",48,167,48167
+Dallas Stars,"Hood County, TX",48,221,48221
+Dallas Stars,"Fort Bend County, TX",48,157,48157
+Dallas Stars,"Gregg County, TX",48,183,48183
+Dallas Stars,"Lubbock County, TX",48,303,48303
+Dallas Stars,"Wichita County, TX",48,203,48203
+Dallas Stars,"Cooke County, TX",48,097,48097
+Dallas Stars,"Henderson County, TX",48,071,48071
+Dallas Stars,"Randall County, TX",48,381,48381
+Dallas Stars,"Brazoria County, TX",48,039,48039
+Dallas Stars,"Hunt County, TX",48,231,48231
+Dallas Stars,"Tom Green County, TX",48,451,48451
+Dallas Stars,"Wise County, TX",48,497,48497
+Dallas Stars,"Hays County, TX",48,209,48209
+Dallas Stars,"Ector County, TX",48,135,48135
+Dallas Stars,"Tulsa County, OK",40,143,40143
+Dallas Stars,"Hopkins County, TX",48,107,48107
+Dallas Stars,"Van Zandt County, TX",48,467,48467
+Dallas Stars,"Nueces County, TX",48,355,48355
+Dallas Stars,"Cleveland County, OK",40,025,40025
+Dallas Stars,"Washington County, AR",05,129,05129
+Dallas Stars,"Bossier County, LA",22,015,22015
+Dallas Stars,"Caddo County, LA",22,015,22015
+Dallas Stars,"Bowie County, TX",48,037,48037
+Dallas Stars,"Hidalgo County, TX",48,023,48023
+Dallas Stars,"Wood County, TX",48,173,48173
+Dallas Stars,"Navarro County, TX",48,349,48349
+Dallas Stars,"Potter County, TX",48,105,48105
+Dallas Stars,"Coryell County, TX",48,099,48099
+Dallas Stars,"Comal County, TX",48,091,48091
+Dallas Stars,"Comanche County, OK",40,033,40033
+Dallas Stars,"Palo Pinto County, TX",48,363,48363
+Dallas Stars,"Guadalupe County, TX",48,019,48019
+Dallas Stars,"Lea County, NM",35,025,35025
+Dallas Stars,"Lamar County, TX",48,075,48075
+Dallas Stars,"Hill County, TX",48,041,48041
+Dallas Stars,"Ouachita County, LA",22,103,22103
+Dallas Stars,"Rapides County, LA",22,079,22079
+Dallas Stars,"Nacogdoches County, TX",48,347,48347
+Dallas Stars,"Freestone County, TX",48,161,48161
+Dallas Stars,"Cherokee County, TX",48,019,48019
+Dallas Stars,"Anderson County, TX",48,003,48003
+Dallas Stars,"Brown County, TX",48,009,48009
+Dallas Stars,"Walker County, TX",48,127,48127
+Dallas Stars,"Calcasieu County, LA",22,019,22019
+Dallas Stars,"Victoria County, TX",48,469,48469
+Dallas Stars,"Canadian County, OK",40,017,40017
+Dallas Stars,"Young County, TX",48,503,48503
+Dallas Stars,"Erath County, TX",48,143,48143
+Dallas Stars,"Pontotoc County, OK",40,115,40115
+Dallas Stars,"Fannin County, TX",48,111,48111
+Dallas Stars,"St. Charles County, LA",22,089,22089
+Dallas Stars,"Callahan County, TX",48,059,48059
+Dallas Stars,"Angelina County, TX",48,005,48005
+Dallas Stars,"Bosque County, TX",48,035,48035
+Dallas Stars,"Twin Falls County, ID",16,083,16083
+Dallas Stars,"Pottawatomie County, OK",40,149,40149
+Dallas Stars,"Austin County, TX",48,015,48015
+Dallas Stars,"Carter County, OK",40,043,40043
+Dallas Stars,"Llano County, TX",48,299,48299
+Dallas Stars,"Montague County, TX",48,337,48337
+Dallas Stars,"Hardin County, TX",48,069,48069
+Dallas Stars,"Comanche County, TX",48,033,48033
+Dallas Stars,"Ward County, TX",48,101,48101
+Dallas Stars,"Pushmataha County, OK",40,127,40127
+Dallas Stars,"Bryan County, OK",40,029,40029
+Dallas Stars,"Chambers County, TX",48,017,48017
+Dallas Stars,"Upshur County, TX",48,459,48459
+Dallas Stars,"Limestone County, TX",48,083,48083
+Dallas Stars,"Hutchinson County, TX",48,067,48067
+Dallas Stars,"Wharton County, TX",48,481,48481
+Dallas Stars,"Robertson County, TX",48,201,48201
+Dallas Stars,"Dimmit County, TX",48,127,48127
+Dallas Stars,"Rains County, TX",48,379,48379
+Dallas Stars,"Yoakum County, TX",48,501,48501
+Dallas Stars,"Jack County, TX",48,237,48237
+Dallas Stars,"Red River County, TX",48,387,48387
+Dallas Stars,"Shelby County, TX",48,117,48117
+Dallas Stars,"Rusk County, TX",48,401,48401
+Dallas Stars,"Franklin County, TX",48,059,48059
+Dallas Stars,"Lampasas County, TX",48,281,48281
+Dallas Stars,"Harrison County, TX",48,061,48061
+Dallas Stars,"Moore County, TX",48,125,48125
+Dallas Stars,"La Salle County, LA",22,283,22283
+Dallas Stars,"Gillespie County, TX",48,171,48171
+Dallas Stars,"Orange County, TX",48,059,48059
+Dallas Stars,"Gaines County, TX",48,165,48165
+Dallas Stars,"Creek County, OK",40,037,40037
+Dallas Stars,"Lincoln County, LA",22,079,22079
+Dallas Stars,"Liberty County, TX",48,077,48077
+Dallas Stars,"Mitchell County, TX",48,205,48205
+Dallas Stars,"Crockett County, TX",48,033,48033
+Dallas Stars,"Eastland County, TX",48,133,48133
+Dallas Stars,"Love County, OK",40,085,40085
+Dallas Stars,"Milam County, TX",48,331,48331
+Dallas Stars,"Martin County, TX",48,085,48085
+Dallas Stars,"Bee County, TX",48,025,48025
+Dallas Stars,"Vernon County, LA",22,217,22217
+Dallas Stars,"Stephens County, TX",48,257,48257
+Dallas Stars,"Baylor County, TX",48,023,48023
+Dallas Stars,"Bastrop County, TX",48,021,48021
+Dallas Stars,"Panola County, TX",48,107,48107
+Dallas Stars,"Duval County, TX",48,031,48031
+Dallas Stars,"Runnels County, TX",48,399,48399
+Dallas Stars,"Garfield County, OK",40,045,40045
+Dallas Stars,"Lawrence County, AL",01,079,01079
+Dallas Stars,"Wilbarger County, TX",48,487,48487
+Dallas Stars,"Howard County, TX",48,061,48061
+Dallas Stars,"Marshall County, OK",40,095,40095
+Dallas Stars,"Dickens County, TX",48,125,48125
+Dallas Stars,"McIntosh County, OK",40,191,40191
+Dallas Stars,"Hempstead County, AR",05,057,05057
+Dallas Stars,"Grimes County, TX",48,185,48185
+Dallas Stars,"Uvalde County, TX",48,463,48463
+Dallas Stars,"Grady County, OK",40,131,40131
+Dallas Stars,"Polk County, TX",48,113,48113
+Dallas Stars,"Sevier County, AR",05,133,05133
+Dallas Stars,"Camp County, TX",48,063,48063
+Dallas Stars,"Pittsburg County, OK",40,121,40121
+Dallas Stars,"Colorado County, TX",48,089,48089
+Dallas Stars,"Stevens County, KS",20,189,20189
+Dallas Stars,"Newton County, AR",05,101,05101
+Dallas Stars,"Dawson County, TX",48,085,48085
+Dallas Stars,"Washington County, OK",40,129,40129
+Dallas Stars,"Fayette County, TX",48,057,48057
+Dallas Stars,"Acadia County, LA",22,001,22001
+Dallas Stars,"Winkler County, TX",48,495,48495
+Dallas Stars,"Schleicher County, TX",48,413,48413
+Dallas Stars,"Warren County, MS",28,301,28301
+Dallas Stars,"Knox County, TX",48,095,48095
+Dallas Stars,"Wilcox County, AL",01,131,01131
+Dallas Stars,"Morris County, TX",48,127,48127
+Dallas Stars,"Lamb County, TX",48,279,48279
+Dallas Stars,"Gray County, TX",48,069,48069
+Dallas Stars,"Alfalfa County, OK",40,003,40003
+Dallas Stars,"Refugio County, TX",48,391,48391
+Dallas Stars,"Pike County, AR",05,109,05109
+Dallas Stars,"Lynn County, TX",48,305,48305
+Dallas Stars,"Ashley County, AR",05,003,05003
+Dallas Stars,"De Soto County, LA",22,031,22031
+Dallas Stars,"Deaf Smith County, TX",48,117,48117
+Dallas Stars,"Attala County, MS",28,007,28007
+Dallas Stars,"Kleberg County, TX",48,273,48273
+Dallas Stars,"Polk County, AR",05,113,05113
+Dallas Stars,"St. Landry County, LA",22,097,22097
+Dallas Stars,"Jim Wells County, TX",48,249,48249
+Dallas Stars,"Titus County, TX",48,449,48449
+Dallas Stars,"Aransas County, TX",48,007,48007
+Dallas Stars,"Beaver County, UT",49,007,49007
+Dallas Stars,"Tillman County, OK",40,141,40141
+Dallas Stars,"Jasper County, TX",48,159,48159
+Dallas Stars,"Archer County, TX",48,009,48009
+Dallas Stars,"Hall County, TX",48,139,48139
+Dallas Stars,"Woods County, OK",40,151,40151
+Dallas Stars,"Mills County, TX",48,129,48129
+Dallas Stars,"Coleman County, TX",48,083,48083
+Dallas Stars,"Somervell County, TX",48,425,48425
+Dallas Stars,"Bourbon County, KS",20,011,20011
+Dallas Stars,"Swisher County, TX",48,437,48437
+Dallas Stars,"Columbia County, AR",05,027,05027
+Dallas Stars,"Madison County, TX",48,089,48089
+Dallas Stars,"Sabine County, TX",48,403,48403
+Dallas Stars,"Calhoun County, AR",05,015,05015
+Dallas Stars,"Greeley County, KS",20,071,20071
+Dallas Stars,"Pecos County, TX",48,371,48371
+Dallas Stars,"Coke County, TX",48,081,48081
+Dallas Stars,"Real County, TX",48,385,48385
+Dallas Stars,"Lee County, TX",48,081,48081
+Dallas Stars,"Shackelford County, TX",48,417,48417
+Dallas Stars,"Delta County, TX",48,029,48029
+Dallas Stars,"Crane County, TX",48,103,48103
+Dallas Stars,"Kiowa County, OK",40,061,40061
+Dallas Stars,"Falls County, TX",48,145,48145
+Dallas Stars,"Latimer County, OK",40,077,40077
+Dallas Stars,"Marion County, TX",48,093,48093
+Dallas Stars,"Sumter County, AL",01,119,01119
+Dallas Stars,"Calhoun County, TX",48,015,48015
+Detroit Red Wings,"Oakland County, MI",26,125,26125
+Detroit Red Wings,"Wayne County, MI",26,305,26305
+Detroit Red Wings,"Macomb County, MI",26,099,26099
+Detroit Red Wings,"Kent County, MI",26,001,26001
+Detroit Red Wings,"Genesee County, MI",26,049,26049
+Detroit Red Wings,"Livingston County, MI",26,105,26105
+Detroit Red Wings,"Washtenaw County, MI",26,161,26161
+Detroit Red Wings,"Lucas County, OH",39,117,39117
+Detroit Red Wings,"St. Clair County, MI",26,115,26115
+Detroit Red Wings,"Kalamazoo County, MI",26,077,26077
+Detroit Red Wings,"Monroe County, MI",26,099,26099
+Detroit Red Wings,"Ingham County, MI",26,065,26065
+Detroit Red Wings,"Saginaw County, MI",26,145,26145
+Detroit Red Wings,"Jackson County, MI",26,071,26071
+Detroit Red Wings,"Ottawa County, MI",26,143,26143
+Detroit Red Wings,"Muskegon County, MI",26,121,26121
+Detroit Red Wings,"Grand Traverse County, MI",26,055,26055
+Detroit Red Wings,"Bay County, MI",26,005,26005
+Detroit Red Wings,"Eaton County, MI",26,045,26045
+Detroit Red Wings,"Midland County, MI",26,111,26111
+Detroit Red Wings,"Wood County, OH",39,173,39173
+Detroit Red Wings,"Calhoun County, MI",26,015,26015
+Detroit Red Wings,"Lapeer County, MI",26,087,26087
+Detroit Red Wings,"Allegan County, MI",26,005,26005
+Detroit Red Wings,"Lenawee County, MI",26,091,26091
+Detroit Red Wings,"Clinton County, MI",26,027,26027
+Detroit Red Wings,"Allen County, IN",18,003,18003
+Detroit Red Wings,"Marquette County, MI",26,103,26103
+Detroit Red Wings,"Shiawassee County, MI",26,155,26155
+Detroit Red Wings,"Chippewa County, MI",26,033,26033
+Detroit Red Wings,"Huron County, MI",26,063,26063
+Detroit Red Wings,"Berrien County, MI",26,019,26019
+Detroit Red Wings,"Isabella County, MI",26,073,26073
+Detroit Red Wings,"Emmet County, MI",26,063,26063
+Detroit Red Wings,"Alpena County, MI",26,007,26007
+Detroit Red Wings,"Tuscola County, MI",26,157,26157
+Detroit Red Wings,"Mecosta County, MI",26,107,26107
+Detroit Red Wings,"Sanilac County, MI",26,151,26151
+Detroit Red Wings,"Ionia County, MI",26,067,26067
+Detroit Red Wings,"Iosco County, MI",26,069,26069
+Detroit Red Wings,"Dickinson County, MI",26,059,26059
+Detroit Red Wings,"Hillsdale County, MI",26,059,26059
+Detroit Red Wings,"Otsego County, MI",26,137,26137
+Detroit Red Wings,"Cheboygan County, MI",26,031,26031
+Detroit Red Wings,"Van Buren County, MI",26,141,26141
+Detroit Red Wings,"Houghton County, MI",26,061,26061
+Detroit Red Wings,"Montcalm County, MI",26,117,26117
+Detroit Red Wings,"Roscommon County, MI",26,143,26143
+Detroit Red Wings,"Delta County, MI",26,029,26029
+Detroit Red Wings,"Barry County, MI",26,015,26015
+Detroit Red Wings,"St. Joseph County, MI",26,141,26141
+Detroit Red Wings,"Fulton County, OH",39,049,39049
+Detroit Red Wings,"Wexford County, MI",26,165,26165
+Detroit Red Wings,"Gratiot County, MI",26,057,26057
+Detroit Red Wings,"Branch County, MI",26,023,26023
+Detroit Red Wings,"Presque Isle County, MI",26,141,26141
+Detroit Red Wings,"Newaygo County, MI",26,123,26123
+Detroit Red Wings,"Gladwin County, MI",26,051,26051
+Detroit Red Wings,"Manistee County, MI",26,101,26101
+Detroit Red Wings,"Clare County, MI",26,035,26035
+Detroit Red Wings,"Mackinac County, MI",26,097,26097
+Detroit Red Wings,"Charlevoix County, MI",26,029,26029
+Detroit Red Wings,"Ogemaw County, MI",26,129,26129
+Detroit Red Wings,"Jefferson County, LA",22,073,22073
+Detroit Red Wings,"Arenac County, MI",26,011,26011
+Detroit Red Wings,"Sandusky County, OH",39,143,39143
+Detroit Red Wings,"Antrim County, MI",26,009,26009
+Detroit Red Wings,"Mason County, MI",26,125,26125
+Detroit Red Wings,"DeKalb County, IN",18,049,18049
+Detroit Red Wings,"Leelanau County, MI",26,089,26089
+Detroit Red Wings,"Ottawa County, OH",39,143,39143
+Detroit Red Wings,"Defiance County, OH",39,039,39039
+Detroit Red Wings,"Benzie County, MI",26,019,26019
+Detroit Red Wings,"Oceana County, MI",26,127,26127
+Detroit Red Wings,"Schoolcraft County, MI",26,153,26153
+Detroit Red Wings,"Henry County, OH",39,067,39067
+Detroit Red Wings,"Kalkaska County, MI",26,079,26079
+Detroit Red Wings,"Osceola County, MI",26,097,26097
+Detroit Red Wings,"Alcona County, MI",26,001,26001
+Detroit Red Wings,"Bartholomew County, IN",18,005,18005
+Detroit Red Wings,"Adams County, IN",18,001,18001
+Detroit Red Wings,"Cass County, MI",26,017,26017
+Detroit Red Wings,"Crawford County, MI",26,033,26033
+Detroit Red Wings,"Steuben County, IN",18,151,18151
+Detroit Red Wings,"Marinette County, WI",55,075,55075
+Detroit Red Wings,"Luce County, MI",26,095,26095
+Detroit Red Wings,"Williams County, OH",39,105,39105
+Detroit Red Wings,"Menominee County, MI",26,109,26109
+Detroit Red Wings,"Noble County, IN",18,113,18113
+Detroit Red Wings,"Montmorency County, MI",26,119,26119
+Detroit Red Wings,"Alger County, MI",26,003,26003
+Detroit Red Wings,"Oconto County, WI",55,083,55083
+Detroit Red Wings,"Houston County, GA",13,069,13069
+Detroit Red Wings,"Iron County, MI",26,071,26071
+Detroit Red Wings,"Edgefield County, SC",45,037,45037
+Detroit Red Wings,"Harvey County, KS",20,079,20079
+Detroit Red Wings,"Missaukee County, MI",26,113,26113
+Detroit Red Wings,"Cass County, IN",18,017,18017
+Detroit Red Wings,"Paulding County, OH",39,223,39223
+Detroit Red Wings,"Buena Vista County, VA",51,021,51021
+Detroit Red Wings,"Giles County, VA",51,055,51055
+Detroit Red Wings,"Anson County, NC",37,007,37007
+Detroit Red Wings,"Russell County, KY",21,113,21113
+Detroit Red Wings,"Sullivan County, IN",18,153,18153
+Detroit Red Wings,"Oscoda County, MI",26,135,26135
+Detroit Red Wings,"Lake County, MI",26,033,26033
+Detroit Red Wings,"Guaynabo County, PR",72,#N/A,#N/A
+Detroit Red Wings,"Shelby County, IN",18,117,18117
+Detroit Red Wings,"Lincoln County, ID",16,079,16079
+Detroit Red Wings,"Chester County, SC",45,029,45029
+Detroit Red Wings,"Graham County, NC",37,009,37009
+Detroit Red Wings,"Northwest Arctic County, AK",02,188,02188
+Detroit Red Wings,"Tyler County, TX",48,457,48457
+Detroit Red Wings,"Burleson County, TX",48,051,48051
+Detroit Red Wings,"Bell County, KY",21,013,21013
+Detroit Red Wings,"Keweenaw County, MI",26,083,26083
+Detroit Red Wings,"Beauregard County, LA",22,011,22011
+Detroit Red Wings,"Forest County, WI",55,053,55053
+Detroit Red Wings,"Jasper County, GA",13,159,13159
+Detroit Red Wings,"Atkinson County, GA",13,003,13003
+Detroit Red Wings,"Powder River County, MT",30,075,30075
+Detroit Red Wings,"Laurens County, GA",13,175,13175
+Detroit Red Wings,"Marion County, KS",20,093,20093
+Edmonton Oilers,"Jefferson County, GA",13,073,13073
+Edmonton Oilers,"Blaine County, MT",30,013,30013
+Edmonton Oilers,"Carroll County, IA",19,015,19015
+Edmonton Oilers,"Hinsdale County, CO",08,053,08053
+Florida Panthers,"Broward County, FL",12,011,12011
+Florida Panthers,"Palm Beach County, FL",12,099,12099
+Florida Panthers,"Miami-Dade County, FL",12,086,12086
+Florida Panthers,"St. Lucie County, FL",12,111,12111
+Florida Panthers,"Collier County, FL",12,021,12021
+Florida Panthers,"Martin County, FL",12,085,12085
+Florida Panthers,"Monroe County, FL",12,099,12099
+Florida Panthers,"Indian River County, FL",12,061,12061
+Florida Panthers,"Okeechobee County, FL",12,093,12093
+Florida Panthers,"Ponce County, PR",72,#N/A,#N/A
+Florida Panthers,"Toa Baja County, PR",72,#N/A,#N/A
+Florida Panthers,"Tattnall County, GA",13,267,13267
+Florida Panthers,"Florida County, PR",72,#N/A,#N/A
+Florida Panthers,"Randolph County, GA",13,111,13111
+Florida Panthers,"St. John the Baptist County, LA",22,095,22095
+Florida Panthers,"Menominee County, WI",55,109,55109
+Florida Panthers,"Rockcastle County, KY",21,203,21203
+Florida Panthers,"Mahaska County, IA",19,123,19123
+Florida Panthers,"McCulloch County, TX",48,307,48307
+Florida Panthers,"Wright County, IA",19,197,19197
+Florida Panthers,"Twiggs County, GA",13,289,13289
+Florida Panthers,"Liberty County, FL",12,077,12077
+Florida Panthers,"Howard County, AR",05,061,05061
+Los Angeles Kings,"Los Angeles County, CA",06,037,06037
+Los Angeles Kings,"Ventura County, CA",06,111,06111
+Los Angeles Kings,"San Bernardino County, CA",06,071,06071
+Los Angeles Kings,"Santa Barbara County, CA",06,083,06083
+Los Angeles Kings,"Kern County, CA",06,029,06029
+Los Angeles Kings,"Inyo County, CA",06,027,06027
+Los Angeles Kings,"Mono County, CA",06,051,06051
+Los Angeles Kings,"Grant County, WV",54,053,54053
+Los Angeles Kings,"Valdez-Cordova County, AK",02,261,02261
+Los Angeles Kings,"Lincoln County, KY",21,079,21079
+Los Angeles Kings,"Pontotoc County, MS",28,115,28115
+Los Angeles Kings,"Garvin County, OK",40,049,40049
+Los Angeles Kings,"Walla Walla County, WA",53,071,53071
+Los Angeles Kings,"Washington County, NE",31,129,31129
+Los Angeles Kings,"Medina County, TX",48,103,48103
+Los Angeles Kings,"Crook County, OR",41,013,41013
+Los Angeles Kings,"Loup County, NE",31,115,31115
+Los Angeles Kings,"DeKalb County, MO",29,049,29049
+Los Angeles Kings,"Dillingham County, AK",02,070,02070
+Los Angeles Kings,"Iberville County, LA",22,047,22047
+Los Angeles Kings,"Jefferson County, AR",05,073,05073
+Los Angeles Kings,"Lincoln County, WA",53,079,53079
+Los Angeles Kings,"Allendale County, SC",45,005,45005
+Los Angeles Kings,"Ringgold County, IA",19,159,19159
+Los Angeles Kings,"Izard County, AR",05,065,05065
+Minnesota Wild,"Hennepin County, MN",27,053,27053
+Minnesota Wild,"Dakota County, MN",27,037,27037
+Minnesota Wild,"Ramsey County, MN",27,123,27123
+Minnesota Wild,"Anoka County, MN",27,003,27003
+Minnesota Wild,"Washington County, MN",27,129,27129
+Minnesota Wild,"St. Louis County, MN",27,137,27137
+Minnesota Wild,"Scott County, MN",27,127,27127
+Minnesota Wild,"Stearns County, MN",27,145,27145
+Minnesota Wild,"Olmsted County, MN",27,109,27109
+Minnesota Wild,"Wright County, MN",27,197,27197
+Minnesota Wild,"Cass County, ND",38,017,38017
+Minnesota Wild,"Carver County, MN",27,019,27019
+Minnesota Wild,"Sherburne County, MN",27,141,27141
+Minnesota Wild,"St. Croix County, WI",55,109,55109
+Minnesota Wild,"Chisago County, MN",27,025,27025
+Minnesota Wild,"Crow Wing County, MN",27,035,27035
+Minnesota Wild,"Itasca County, MN",27,061,27061
+Minnesota Wild,"Rice County, MN",27,159,27159
+Minnesota Wild,"Blue Earth County, MN",27,013,27013
+Minnesota Wild,"Brown County, MN",27,009,27009
+Minnesota Wild,"Douglas County, MN",27,035,27035
+Minnesota Wild,"Steele County, MN",27,147,27147
+Minnesota Wild,"Kandiyohi County, MN",27,067,27067
+Minnesota Wild,"Eau Claire County, WI",55,035,55035
+Minnesota Wild,"Goodhue County, MN",27,049,27049
+Minnesota Wild,"Clay County, MN",27,027,27027
+Minnesota Wild,"Minnehaha County, SD",46,099,46099
+Minnesota Wild,"Winona County, MN",27,169,27169
+Minnesota Wild,"Isanti County, MN",27,059,27059
+Minnesota Wild,"Otter Tail County, MN",27,111,27111
+Minnesota Wild,"Carlton County, MN",27,017,27017
+Minnesota Wild,"McLeod County, MN",27,085,27085
+Minnesota Wild,"Becker County, MN",27,005,27005
+Minnesota Wild,"Grand Forks County, ND",38,035,38035
+Minnesota Wild,"Mower County, MN",27,099,27099
+Minnesota Wild,"Benton County, MN",27,007,27007
+Minnesota Wild,"Burleigh County, ND",38,015,38015
+Minnesota Wild,"Beltrami County, MN",27,007,27007
+Minnesota Wild,"Pierce County, WI",55,229,55229
+Minnesota Wild,"Freeborn County, MN",27,047,27047
+Minnesota Wild,"Nicollet County, MN",27,103,27103
+Minnesota Wild,"Morrison County, MN",27,097,27097
+Minnesota Wild,"Mille Lacs County, MN",27,095,27095
+Minnesota Wild,"Barron County, WI",55,005,55005
+Minnesota Wild,"Douglas County, WI",55,035,55035
+Minnesota Wild,"Polk County, IA",19,113,19113
+Minnesota Wild,"Koochiching County, MN",27,071,27071
+Minnesota Wild,"Wabasha County, MN",27,157,27157
+Minnesota Wild,"Meeker County, MN",27,093,27093
+Minnesota Wild,"Marathon County, WI",55,073,55073
+Minnesota Wild,"Brown County, SD",46,009,46009
+Minnesota Wild,"La Crosse County, WI",55,063,55063
+Minnesota Wild,"Ward County, ND",38,101,38101
+Minnesota Wild,"Polk County, MN",27,113,27113
+Minnesota Wild,"Chippewa County, WI",55,033,55033
+Minnesota Wild,"Morton County, ND",38,129,38129
+Minnesota Wild,"Lyon County, MN",27,119,27119
+Minnesota Wild,"Pine County, MN",27,115,27115
+Minnesota Wild,"Dunn County, WI",55,025,55025
+Minnesota Wild,"Le Sueur County, MN",27,079,27079
+Minnesota Wild,"Nobles County, MN",27,105,27105
+Minnesota Wild,"Polk County, WI",55,113,55113
+Minnesota Wild,"Martin County, MN",27,085,27085
+Minnesota Wild,"Redwood County, MN",27,127,27127
+Minnesota Wild,"Williams County, ND",38,105,38105
+Minnesota Wild,"Dodge County, MN",27,091,27091
+Minnesota Wild,"Brookings County, SD",46,011,46011
+Minnesota Wild,"Renville County, MN",27,129,27129
+Minnesota Wild,"Wadena County, MN",27,159,27159
+Minnesota Wild,"Todd County, MN",27,219,27219
+Minnesota Wild,"Pennington County, MN",27,113,27113
+Minnesota Wild,"Aitkin County, MN",27,001,27001
+Minnesota Wild,"Codington County, SD",46,029,46029
+Minnesota Wild,"Lincoln County, SD",46,079,46079
+Minnesota Wild,"Hubbard County, MN",27,057,27057
+Minnesota Wild,"Brown County, WI",55,009,55009
+Minnesota Wild,"Cerro Gordo County, IA",19,033,19033
+Minnesota Wild,"Cass County, MN",27,017,27017
+Minnesota Wild,"Jackson County, MN",27,071,27071
+Minnesota Wild,"Woodbury County, IA",19,193,19193
+Minnesota Wild,"Sibley County, MN",27,143,27143
+Minnesota Wild,"Faribault County, MN",27,043,27043
+Minnesota Wild,"Chippewa County, MN",27,033,27033
+Minnesota Wild,"Swift County, MN",27,151,27151
+Minnesota Wild,"Portage County, WI",55,133,55133
+Minnesota Wild,"Pope County, MN",27,115,27115
+Minnesota Wild,"Cottonwood County, MN",27,033,27033
+Minnesota Wild,"Houston County, MN",27,069,27069
+Minnesota Wild,"Waseca County, MN",27,161,27161
+Minnesota Wild,"Richland County, ND",38,159,38159
+Minnesota Wild,"Lincoln County, WI",55,079,55079
+Minnesota Wild,"Stark County, ND",38,175,38175
+Minnesota Wild,"Sawyer County, WI",55,113,55113
+Minnesota Wild,"Yellow Medicine County, MN",27,173,27173
+Minnesota Wild,"Dickinson County, IA",19,059,19059
+Minnesota Wild,"Lincoln County, MN",27,079,27079
+Minnesota Wild,"Lake County, MN",27,033,27033
+Minnesota Wild,"Vilas County, WI",55,125,55125
+Minnesota Wild,"Beadle County, SD",46,005,46005
+Minnesota Wild,"Davison County, SD",46,035,46035
+Minnesota Wild,"Jackson County, WI",55,071,55071
+Minnesota Wild,"Taylor County, WI",55,123,55123
+Minnesota Wild,"Stutsman County, ND",38,093,38093
+Minnesota Wild,"Marshall County, MN",27,095,27095
+Minnesota Wild,"Monroe County, WI",55,099,55099
+Minnesota Wild,"Watonwan County, MN",27,165,27165
+Minnesota Wild,"Washburn County, WI",55,129,55129
+Minnesota Wild,"Rock County, MN",27,133,27133
+Minnesota Wild,"Burnett County, WI",55,013,55013
+Minnesota Wild,"Stevens County, MN",27,189,27189
+Minnesota Wild,"McKenzie County, ND",38,053,38053
+Minnesota Wild,"Murray County, MN",27,213,27213
+Minnesota Wild,"Lake of the Woods County, MN",27,077,27077
+Minnesota Wild,"Walsh County, ND",38,099,38099
+Minnesota Wild,"Fillmore County, MN",27,045,27045
+Minnesota Wild,"Story County, IA",19,169,19169
+Minnesota Wild,"Hughes County, SD",46,063,46063
+Minnesota Wild,"Dallas County, IA",19,047,19047
+Minnesota Wild,"Red Lake County, MN",27,125,27125
+Minnesota Wild,"Kanabec County, MN",27,065,27065
+Minnesota Wild,"Clark County, WI",55,019,55019
+Minnesota Wild,"Divide County, ND",38,023,38023
+Minnesota Wild,"Norman County, MN",27,107,27107
+Minnesota Wild,"Grant County, MN",27,053,27053
+Minnesota Wild,"Webster County, IA",19,307,19307
+Minnesota Wild,"Moody County, SD",46,101,46101
+Minnesota Wild,"Shawano County, WI",55,115,55115
+Minnesota Wild,"Yankton County, SD",46,135,46135
+Minnesota Wild,"Kittson County, MN",27,069,27069
+Minnesota Wild,"Waupaca County, WI",55,135,55135
+Minnesota Wild,"McLean County, ND",38,113,38113
+Minnesota Wild,"Bottineau County, ND",38,009,38009
+Minnesota Wild,"Ashland County, WI",55,005,55005
+Minnesota Wild,"Clearwater County, MN",27,035,27035
+Minnesota Wild,"Mountrail County, ND",38,061,38061
+Minnesota Wild,"Foster County, ND",38,031,38031
+Minnesota Wild,"Sioux County, IA",19,167,19167
+Minnesota Wild,"Traill County, ND",38,097,38097
+Minnesota Wild,"Pipestone County, MN",27,117,27117
+Minnesota Wild,"Lac qui Parle County, MN",27,073,27073
+Minnesota Wild,"Gogebic County, MI",26,053,26053
+Minnesota Wild,"Cavalier County, ND",38,019,38019
+Minnesota Wild,"Mercer County, ND",38,131,38131
+Minnesota Wild,"Dodge County, WI",55,091,55091
+Minnesota Wild,"Barnes County, ND",38,003,38003
+Minnesota Wild,"Vernon County, WI",55,217,55217
+Minnesota Wild,"Pottawattamie County, IA",19,155,19155
+Minnesota Wild,"Palo Alto County, IA",19,147,19147
+Minnesota Wild,"Edmunds County, SD",46,045,46045
+Minnesota Wild,"Union County, SD",46,139,46139
+Minnesota Wild,"Trempealeau County, WI",55,121,55121
+Minnesota Wild,"Lyon County, IA",19,119,19119
+Minnesota Wild,"Grant County, SD",46,053,46053
+Minnesota Wild,"Buena Vista County, IA",19,021,19021
+Minnesota Wild,"Clay County, IA",19,027,19027
+Minnesota Wild,"Big Stone County, MN",27,011,27011
+Minnesota Wild,"Ramsey County, ND",38,123,38123
+Minnesota Wild,"Bayfield County, WI",55,007,55007
+Minnesota Wild,"Meade County, SD",46,119,46119
+Minnesota Wild,"Langlade County, WI",55,067,55067
+Minnesota Wild,"Ontonagon County, MI",26,131,26131
+Minnesota Wild,"Ransom County, ND",38,073,38073
+Minnesota Wild,"Greene County, IA",19,063,19063
+Minnesota Wild,"Floyd County, IA",19,115,19115
+Minnesota Wild,"Cook County, MN",27,075,27075
+Minnesota Wild,"Winneshiek County, IA",19,191,19191
+Minnesota Wild,"Pierce County, ND",38,229,38229
+Minnesota Wild,"Wilkin County, MN",27,167,27167
+Minnesota Wild,"Waushara County, WI",55,137,55137
+Minnesota Wild,"Iron County, WI",55,071,55071
+Minnesota Wild,"McPherson County, SD",46,113,46113
+Minnesota Wild,"Clay County, SD",46,027,46027
+Minnesota Wild,"Dakota County, NE",31,037,31037
+Minnesota Wild,"Worth County, IA",19,321,19321
+Minnesota Wild,"Traverse County, MN",27,155,27155
+Minnesota Wild,"Winnebago County, IA",19,201,19201
+Minnesota Wild,"Bon Homme County, SD",46,009,46009
+Minnesota Wild,"Allamakee County, IA",19,005,19005
+Minnesota Wild,"Buffalo County, WI",55,019,55019
+Minnesota Wild,"Sargent County, ND",38,081,38081
+Minnesota Wild,"Roberts County, SD",46,109,46109
+Minnesota Wild,"Wells County, ND",38,179,38179
+Minnesota Wild,"Price County, WI",55,099,55099
+Minnesota Wild,"Towner County, ND",38,095,38095
+Minnesota Wild,"Pepin County, WI",55,091,55091
+Minnesota Wild,"Marshall County, SD",46,095,46095
+Minnesota Wild,"Day County, SD",46,037,46037
+Minnesota Wild,"Cherokee County, IA",19,019,19019
+Minnesota Wild,"Richland County, WI",55,159,55159
+Minnesota Wild,"Boone County, IA",19,009,19009
+Minnesota Wild,"Hamilton County, IA",19,047,19047
+Minnesota Wild,"Sheridan County, MT",30,179,30179
+Minnesota Wild,"McHenry County, ND",38,111,38111
+Minnesota Wild,"Howard County, IA",19,061,19061
+Minnesota Wild,"Emmet County, IA",19,063,19063
+Minnesota Wild,"Fond Du Lac County, WI",55,039,55039
+Minnesota Wild,"Green Lake County, WI",55,047,55047
+Minnesota Wild,"Grant County, WI",55,053,55053
+Minnesota Wild,"Fayette County, IA",19,057,19057
+Minnesota Wild,"Marshall County, IA",19,095,19095
+Minnesota Wild,"Hardin County, IA",19,069,19069
+Minnesota Wild,"Poweshiek County, IA",19,157,19157
+Minnesota Wild,"Hand County, SD",46,059,46059
+Minnesota Wild,"Brule County, SD",46,015,46015
+Minnesota Wild,"Cuming County, NE",31,039,31039
+Minnesota Wild,"Monona County, IA",19,133,19133
+Minnesota Wild,"Sheridan County, ND",38,179,38179
+Minnesota Wild,"Griggs County, ND",38,039,38039
+Minnesota Wild,"Lyman County, SD",46,085,46085
+Minnesota Wild,"O'Brien County, IA",19,141,19141
+Minnesota Wild,"Hutchinson County, SD",46,067,46067
+Minnesota Wild,"Roosevelt County, NM",35,085,35085
+Minnesota Wild,"Dickey County, ND",38,021,38021
+Minnesota Wild,"Butler County, IA",19,013,19013
+Minnesota Wild,"Mitchell County, IA",19,205,19205
+Minnesota Wild,"Aurora County, SD",46,003,46003
+Minnesota Wild,"Chickasaw County, IA",19,037,19037
+Minnesota Wild,"Kossuth County, IA",19,109,19109
+Minnesota Wild,"Ida County, IA",19,093,19093
+Minnesota Wild,"Marion County, IA",19,093,19093
+Minnesota Wild,"Adams County, ND",38,001,38001
+Minnesota Wild,"Franklin County, IA",19,059,19059
+Minnesota Wild,"Humboldt County, IA",19,023,19023
+Minnesota Wild,"Deuel County, SD",46,049,46049
+Minnesota Wild,"Emmons County, ND",38,029,38029
+Minnesota Wild,"McCook County, SD",46,087,46087
+Minnesota Wild,"Wibaux County, MT",30,109,30109
+Minnesota Wild,"Decatur County, IA",19,087,19087
+Minnesota Wild,"Sioux County, ND",38,167,38167
+Minnesota Wild,"Oliver County, ND",38,065,38065
+Minnesota Wild,"Calhoun County, IA",19,015,19015
+Minnesota Wild,"Madison County, IA",19,089,19089
+Minnesota Wild,"Faulk County, SD",46,049,46049
+Minnesota Wild,"Cedar County, NE",31,031,31031
+Minnesota Wild,"Lucas County, IA",19,117,19117
+Minnesota Wild,"Fremont County, IA",19,043,19043
+Minnesota Wild,"Lyon County, KS",20,119,20119
+Minnesota Wild,"Miner County, SD",46,097,46097
+Minnesota Wild,"Cass County, IA",19,017,19017
+Minnesota Wild,"Antelope County, NE",31,003,31003
+Minnesota Wild,"Clark County, SD",46,019,46019
+Minnesota Wild,"Gentry County, MO",29,075,29075
+Minnesota Wild,"Golden Valley County, ND",38,037,38037
+Minnesota Wild,"Osceola County, IA",19,097,19097
+Minnesota Wild,"Hyde County, SD",46,095,46095
+Minnesota Wild,"Kingsbury County, SD",46,077,46077
+Minnesota Wild,"Washington County, AL",01,129,01129
+Minnesota Wild,"Val Verde County, TX",48,465,48465
+Minnesota Wild,"Johnson County, NE",31,071,31071
+Minnesota Wild,"Blackford County, IN",18,009,18009
+Minnesota Wild,"Gosper County, NE",31,073,31073
+Montreal Canadiens,"Clinton County, NY",36,027,36027
+Montreal Canadiens,"Franklin County, VT",50,059,50059
+Montreal Canadiens,"Essex County, NY",36,009,36009
+Montreal Canadiens,"Grand Isle County, VT",50,013,50013
+Montreal Canadiens,"Tama County, IA",19,171,19171
+Montreal Canadiens,"Muskogee County, OK",40,101,40101
+Montreal Canadiens,"Dixie County, FL",12,029,12029
+Montreal Canadiens,"Montgomery County, IN",18,101,18101
+Montreal Canadiens,"Bandera County, TX",48,019,48019
+Montreal Canadiens,"Tallahatchie County, MS",28,135,28135
+Montreal Canadiens,"Potter County, SD",46,105,46105
+Montreal Canadiens,"Monroe County, GA",13,099,13099
+Montreal Canadiens,"Owen County, IN",18,119,18119
+Montreal Canadiens,"Labette County, KS",20,099,20099
+Montreal Canadiens,"Anasco County, PR",72,#N/A,#N/A
+Montreal Canadiens,"Worth County, MO",29,321,29321
+Montreal Canadiens,"Roane County, WV",54,145,54145
+Montreal Canadiens,"Coosa County, AL",01,037,01037
+Montreal Canadiens,"Guayanilla County, PR",72,#N/A,#N/A
+Montreal Canadiens,"Union County, IA",19,139,19139
+Montreal Canadiens,"Clay County, AL",01,027,01027
+Montreal Canadiens,"Irion County, TX",48,235,48235
+Montreal Canadiens,"Clay County, WV",54,027,54027
+Montreal Canadiens,"Custer County, ID",16,027,16027
+Montreal Canadiens,"Searcy County, AR",05,129,05129
+Nashville Predators,"Davidson County, TN",47,057,47057
+Nashville Predators,"Williamson County, TN",47,199,47199
+Nashville Predators,"Rutherford County, TN",47,161,47161
+Nashville Predators,"Sumner County, TN",47,191,47191
+Nashville Predators,"Montgomery County, TN",47,101,47101
+Nashville Predators,"Hamilton County, TN",47,047,47047
+Nashville Predators,"Wilson County, TN",47,205,47205
+Nashville Predators,"Knox County, TN",47,095,47095
+Nashville Predators,"Maury County, TN",47,119,47119
+Nashville Predators,"Shelby County, TN",47,117,47117
+Nashville Predators,"Fulton County, GA",13,049,13049
+Nashville Predators,"Jefferson County, AL",01,073,01073
+Nashville Predators,"Madison County, AL",01,089,01089
+Nashville Predators,"Jefferson County, KY",21,073,21073
+Nashville Predators,"Robertson County, TN",47,201,47201
+Nashville Predators,"Putnam County, TN",47,107,47107
+Nashville Predators,"Cobb County, GA",13,067,13067
+Nashville Predators,"Warren County, KY",21,301,21301
+Nashville Predators,"Sullivan County, TN",47,153,47153
+Nashville Predators,"Washington County, TN",47,129,47129
+Nashville Predators,"Coffee County, TN",47,031,47031
+Nashville Predators,"Cheatham County, TN",47,021,47021
+Nashville Predators,"Madison County, TN",47,089,47089
+Nashville Predators,"Dickson County, TN",47,043,47043
+Nashville Predators,"McCracken County, KY",21,145,21145
+Nashville Predators,"Shelby County, AL",01,117,01117
+Nashville Predators,"Bradley County, TN",47,011,47011
+Nashville Predators,"Daviess County, KY",21,027,21027
+Nashville Predators,"Gwinnett County, GA",13,135,13135
+Nashville Predators,"Cherokee County, GA",13,019,13019
+Nashville Predators,"Lawrence County, TN",47,079,47079
+Nashville Predators,"Christian County, KY",21,021,21021
+Nashville Predators,"Blount County, TN",47,009,47009
+Nashville Predators,"Limestone County, AL",01,083,01083
+Nashville Predators,"Vanderburgh County, IN",18,163,18163
+Nashville Predators,"Fayette County, KY",21,057,21057
+Nashville Predators,"Marshall County, TN",47,095,47095
+Nashville Predators,"Dyer County, TN",47,045,47045
+Nashville Predators,"Tuscaloosa County, AL",01,125,01125
+Nashville Predators,"Bedford County, TN",47,009,47009
+Nashville Predators,"Madison County, MS",28,089,28089
+Nashville Predators,"Hardin County, KY",21,069,21069
+Nashville Predators,"Carroll County, TN",47,015,47015
+Nashville Predators,"DeKalb County, GA",13,049,13049
+Nashville Predators,"Warren County, TN",47,301,47301
+Nashville Predators,"Pulaski County, AR",05,119,05119
+Nashville Predators,"Henry County, TN",47,067,47067
+Nashville Predators,"Lauderdale County, AL",01,077,01077
+Nashville Predators,"DeSoto County, MS",28,027,28027
+Nashville Predators,"Sevier County, TN",47,133,47133
+Nashville Predators,"Benton County, TN",47,007,47007
+Nashville Predators,"Cumberland County, TN",47,035,47035
+Nashville Predators,"Franklin County, TN",47,059,47059
+Nashville Predators,"Forsyth County, GA",13,117,13117
+Nashville Predators,"Marion County, TN",47,093,47093
+Nashville Predators,"Gibson County, TN",47,051,47051
+Nashville Predators,"Loudon County, TN",47,105,47105
+Nashville Predators,"Oldham County, KY",21,185,21185
+Nashville Predators,"Catoosa County, GA",13,047,13047
+Nashville Predators,"Weakley County, TN",47,183,47183
+Nashville Predators,"Morgan County, AL",01,103,01103
+Nashville Predators,"Greene County, TN",47,063,47063
+Nashville Predators,"Hickman County, TN",47,105,47105
+Nashville Predators,"Obion County, TN",47,131,47131
+Nashville Predators,"Calloway County, KY",21,035,21035
+Nashville Predators,"Crockett County, TN",47,033,47033
+Nashville Predators,"Humphreys County, TN",47,053,47053
+Nashville Predators,"Henderson County, TN",47,071,47071
+Nashville Predators,"Simpson County, KY",21,213,21213
+Nashville Predators,"DeKalb County, TN",47,049,47049
+Nashville Predators,"Smith County, TN",47,183,47183
+Nashville Predators,"Wayne County, TN",47,305,47305
+Nashville Predators,"Lincoln County, TN",47,079,47079
+Nashville Predators,"Whitfield County, GA",13,313,13313
+Nashville Predators,"Harrison County, MS",28,061,28061
+Nashville Predators,"Montgomery County, AL",01,101,01101
+Nashville Predators,"Graves County, KY",21,083,21083
+Nashville Predators,"Monroe County, TN",47,099,47099
+Nashville Predators,"Hawkins County, TN",47,073,47073
+Nashville Predators,"Hall County, GA",13,139,13139
+Nashville Predators,"Hardin County, TN",47,069,47069
+Nashville Predators,"Tipton County, TN",47,159,47159
+Nashville Predators,"Hamblen County, TN",47,063,47063
+Nashville Predators,"Marshall County, KY",21,095,21095
+Nashville Predators,"Benton County, AR",05,007,05007
+Nashville Predators,"Rankin County, MS",28,121,28121
+Nashville Predators,"Monroe County, IN",18,099,18099
+Nashville Predators,"Overton County, TN",47,133,47133
+Nashville Predators,"McNairy County, TN",47,109,47109
+Nashville Predators,"Hinds County, MS",28,049,28049
+Nashville Predators,"Lamar County, MS",28,075,28075
+Nashville Predators,"Chatham County, GA",13,051,13051
+Nashville Predators,"Clark County, IN",18,019,18019
+Nashville Predators,"Anderson County, TN",47,003,47003
+Nashville Predators,"McMinn County, TN",47,107,47107
+Nashville Predators,"Warrick County, IN",18,173,18173
+Nashville Predators,"Caldwell County, KY",21,033,21033
+Nashville Predators,"Lee County, AL",01,081,01081
+Nashville Predators,"Hopkins County, KY",21,107,21107
+Nashville Predators,"St. Clair County, AL",01,115,01115
+Nashville Predators,"Floyd County, GA",13,115,13115
+Nashville Predators,"Lafayette County, MS",28,073,28073
+Nashville Predators,"Bullitt County, KY",21,029,21029
+Nashville Predators,"Stewart County, TN",47,259,47259
+Nashville Predators,"Muhlenberg County, KY",21,177,21177
+Nashville Predators,"Chester County, TN",47,029,47029
+Nashville Predators,"Johnson County, IL",17,071,17071
+Nashville Predators,"Columbia County, GA",13,027,13027
+Nashville Predators,"Walker County, GA",13,127,13127
+Nashville Predators,"Walton County, FL",12,131,12131
+Nashville Predators,"Jessamine County, KY",21,113,21113
+Nashville Predators,"Madison County, KY",21,089,21089
+Nashville Predators,"Roane County, TN",47,145,47145
+Nashville Predators,"White County, TN",47,145,47145
+Nashville Predators,"Glynn County, GA",13,127,13127
+Nashville Predators,"Fayette County, TN",47,057,47057
+Nashville Predators,"Monroe County, KY",21,099,21099
+Nashville Predators,"Mobile County, AL",01,097,01097
+Nashville Predators,"Bibb County, GA",13,007,13007
+Nashville Predators,"Etowah County, AL",01,055,01055
+Nashville Predators,"Colbert County, AL",01,033,01033
+Nashville Predators,"Gordon County, GA",13,129,13129
+Nashville Predators,"Marshall County, AL",01,095,01095
+Nashville Predators,"Giles County, TN",47,055,47055
+Nashville Predators,"Cannon County, TN",47,015,47015
+Nashville Predators,"Clarke County, GA",13,025,13025
+Nashville Predators,"Logan County, KY",21,083,21083
+Nashville Predators,"East Baton Rouge County, LA",22,033,22033
+Nashville Predators,"Buchanan County, VA",51,019,51019
+Nashville Predators,"Fayette County, GA",13,057,13057
+Nashville Predators,"Scott County, KY",21,127,21127
+Nashville Predators,"Trousdale County, TN",47,169,47169
+Nashville Predators,"Unicoi County, TN",47,171,47171
+Nashville Predators,"Oconee County, SC",45,219,45219
+Nashville Predators,"Lewis County, TN",47,061,47061
+Nashville Predators,"Lee County, MS",28,081,28081
+Nashville Predators,"Aiken County, SC",45,003,45003
+Nashville Predators,"Lauderdale County, MS",28,077,28077
+Nashville Predators,"Trigg County, KY",21,221,21221
+Nashville Predators,"Jackson County, GA",13,071,13071
+Nashville Predators,"Clark County, IL",17,019,17019
+Nashville Predators,"Paulding County, GA",13,223,13223
+Nashville Predators,"Allen County, KY",21,003,21003
+Nashville Predators,"Dubois County, IN",18,037,18037
+Nashville Predators,"Floyd County, IN",18,115,18115
+Nashville Predators,"Cullman County, AL",01,043,01043
+Nashville Predators,"Baldwin County, AL",01,003,01003
+Nashville Predators,"Barren County, KY",21,009,21009
+Nashville Predators,"Jefferson County, TN",47,073,47073
+Nashville Predators,"Lowndes County, MS",28,085,28085
+Nashville Predators,"Calhoun County, AL",01,015,01015
+Nashville Predators,"Haywood County, TN",47,087,47087
+Nashville Predators,"Rhea County, TN",47,143,47143
+Nashville Predators,"Faulkner County, AR",05,045,05045
+Nashville Predators,"Bledsoe County, TN",47,007,47007
+Nashville Predators,"Jackson County, AL",01,071,01071
+Nashville Predators,"Jackson County, TN",47,071,47071
+Nashville Predators,"Houston County, TN",47,069,47069
+Nashville Predators,"Claiborne County, TN",47,021,47021
+Nashville Predators,"Lafayette County, LA",22,073,22073
+Nashville Predators,"Jackson County, MS",28,071,28071
+Nashville Predators,"Perry County, TN",47,105,47105
+Nashville Predators,"Carroll County, GA",13,015,13015
+Nashville Predators,"Todd County, KY",21,219,21219
+Nashville Predators,"Grayson County, KY",21,085,21085
+Nashville Predators,"DeKalb County, AL",01,049,01049
+Nashville Predators,"Carter County, TN",47,043,47043
+Nashville Predators,"Bartow County, GA",13,015,13015
+Nashville Predators,"Moore County, TN",47,125,47125
+Nashville Predators,"Pulaski County, KY",21,119,21119
+Nashville Predators,"Oktibbeha County, MS",28,105,28105
+Nashville Predators,"Lauderdale County, TN",47,077,47077
+Nashville Predators,"Jones County, GA",13,169,13169
+Nashville Predators,"Walton County, GA",13,131,13131
+Nashville Predators,"Greene County, AR",05,063,05063
+Nashville Predators,"Woodford County, KY",21,203,21203
+Nashville Predators,"Douglas County, GA",13,035,13035
+Nashville Predators,"Fentress County, TN",47,049,47049
+Nashville Predators,"Lonoke County, AR",05,085,05085
+Nashville Predators,"Breckinridge County, KY",21,027,21027
+Nashville Predators,"Coffee County, AL",01,031,01031
+Nashville Predators,"Nelson County, KY",21,179,21179
+Nashville Predators,"Dale County, AL",01,045,01045
+Nashville Predators,"Livingston County, KY",21,105,21105
+Nashville Predators,"Macon County, TN",47,087,47087
+Nashville Predators,"Houston County, AL",01,069,01069
+Nashville Predators,"Anderson County, KY",21,003,21003
+Nashville Predators,"Barrow County, GA",13,013,13013
+Nashville Predators,"Henry County, GA",13,067,13067
+Nashville Predators,"Washington County, MS",28,129,28129
+Nashville Predators,"Walker County, AL",01,127,01127
+Nashville Predators,"McLean County, KY",21,113,21113
+Nashville Predators,"Posey County, IN",18,129,18129
+Nashville Predators,"Amelia County, VA",51,007,51007
+Nashville Predators,"Union County, AR",05,139,05139
+Nashville Predators,"White County, AR",05,145,05145
+Nashville Predators,"Decatur County, TN",47,087,47087
+Nashville Predators,"St. Francis County, AR",05,123,05123
+Nashville Predators,"Pickett County, TN",47,137,47137
+Nashville Predators,"Bolivar County, MS",28,011,28011
+Nashville Predators,"Franklin County, KY",21,059,21059
+Nashville Predators,"Grainger County, TN",47,057,47057
+Nashville Predators,"Clay County, TN",47,027,47027
+Nashville Predators,"Dade County, GA",13,083,13083
+Nashville Predators,"Washington County, ID",16,129,16129
+Nashville Predators,"Johnson County, TN",47,071,47071
+Nashville Predators,"Russell County, AL",01,113,01113
+Nashville Predators,"Geneva County, AL",01,061,01061
+Nashville Predators,"Polk County, GA",13,113,13113
+Nashville Predators,"Autauga County, AL",01,001,01001
+Nashville Predators,"Rockdale County, GA",13,247,13247
+Nashville Predators,"Taylor County, KY",21,123,21123
+Nashville Predators,"Ascension County, LA",22,005,22005
+Nashville Predators,"Van Buren County, TN",47,141,47141
+Nashville Predators,"Harris County, GA",13,145,13145
+Nashville Predators,"Campbell County, TN",47,037,47037
+Nashville Predators,"Polk County, TN",47,113,47113
+Nashville Predators,"Fannin County, GA",13,111,13111
+Nashville Predators,"Cocke County, TN",47,029,47029
+Nashville Predators,"Talladega County, AL",01,121,01121
+Nashville Predators,"Meigs County, TN",47,105,47105
+Nashville Predators,"Tallapoosa County, AL",01,123,01123
+Nashville Predators,"Alcorn County, MS",28,003,28003
+Nashville Predators,"Garland County, AR",05,051,05051
+Nashville Predators,"Butler County, KY",21,013,21013
+Nashville Predators,"Effingham County, GA",13,103,13103
+Nashville Predators,"Tangipahoa County, LA",22,105,22105
+Nashville Predators,"Meade County, KY",21,119,21119
+Nashville Predators,"Carlisle County, KY",21,039,21039
+Nashville Predators,"Grundy County, TN",47,063,47063
+Nashville Predators,"Union County, GA",13,139,13139
+Nashville Predators,"Clark County, KY",21,019,21019
+Nashville Predators,"Hardeman County, TN",47,069,47069
+Nashville Predators,"Perry County, IN",18,105,18105
+Nashville Predators,"Dawson County, GA",13,085,13085
+Nashville Predators,"Dougherty County, GA",13,095,13095
+Nashville Predators,"Pearl River County, MS",28,109,28109
+Nashville Predators,"Morgan County, TN",47,103,47103
+Nashville Predators,"Sharp County, AR",05,135,05135
+Nashville Predators,"Scott County, IN",18,127,18127
+Nashville Predators,"Habersham County, GA",13,137,13137
+Nashville Predators,"Troup County, GA",13,285,13285
+Nashville Predators,"Lyon County, KY",21,119,21119
+Nashville Predators,"Winston County, AL",01,133,01133
+Nashville Predators,"Jackson County, AR",05,071,05071
+Nashville Predators,"Sequatchie County, TN",47,153,47153
+Nashville Predators,"Butts County, GA",13,035,13035
+Nashville Predators,"Washington County, VA",51,129,51129
+Nashville Predators,"Chattooga County, GA",13,055,13055
+Nashville Predators,"Bradford County, FL",12,007,12007
+Nashville Predators,"Jones County, MS",28,169,28169
+Nashville Predators,"Lee County, VA",51,081,51081
+Nashville Predators,"Metcalfe County, KY",21,169,21169
+Nashville Predators,"Pickens County, GA",13,107,13107
+Nashville Predators,"Henry County, AL",01,067,01067
+Nashville Predators,"Blount County, AL",01,009,01009
+Nashville Predators,"Chattahoochee County, GA",13,053,13053
+Nashville Predators,"Greenup County, KY",21,089,21089
+Nashville Predators,"Laurens County, SC",45,175,45175
+Nashville Predators,"Clinton County, KY",21,027,21027
+Nashville Predators,"Phelps County, NE",31,161,31161
+Nashville Predators,"Bibb County, AL",01,007,01007
+Nashville Predators,"Meriwether County, GA",13,199,13199
+Nashville Predators,"Crawford County, IN",18,033,18033
+Nashville Predators,"Edmonson County, KY",21,061,21061
+Nashville Predators,"Nicholas County, KY",21,181,21181
+Nashville Predators,"Crittenden County, AR",05,035,05035
+Nashville Predators,"Tippah County, MS",28,139,28139
+Nashville Predators,"Henderson County, KY",21,071,21071
+Nashville Predators,"Tate County, MS",28,137,28137
+Nashville Predators,"Berrien County, GA",13,019,13019
+Nashville Predators,"Wayne County, GA",13,305,13305
+Nashville Predators,"Union County, TN",47,139,47139
+Nashville Predators,"Clayton County, IA",19,063,19063
+Nashville Predators,"Haralson County, GA",13,143,13143
+Nashville Predators,"Independence County, AR",05,063,05063
+Nashville Predators,"Scott County, MS",28,127,28127
+Nashville Predators,"Webster County, KY",21,307,21307
+Nashville Predators,"Custer County, OK",40,027,40027
+Nashville Predators,"Marion County, AL",01,093,01093
+Nashville Predators,"Calhoun County, MS",28,015,28015
+Nashville Predators,"Bulloch County, GA",13,031,13031
+Nashville Predators,"Arkansas County, AR",05,001,05001
+Nashville Predators,"Power County, ID",16,077,16077
+Nashville Predators,"Clarke County, AL",01,025,01025
+Nashville Predators,"Union County, LA",22,139,22139
+Nashville Predators,"Choctaw County, AL",01,023,01023
+Nashville Predators,"Ohio County, KY",21,115,21115
+Nashville Predators,"Pike County, GA",13,109,13109
+Nashville Predators,"Cedar County, IA",19,031,19031
+Nashville Predators,"Chickasaw County, MS",28,037,28037
+Nashville Predators,"Rabun County, GA",13,241,13241
+Nashville Predators,"Morgan County, GA",13,103,13103
+Nashville Predators,"Spalding County, GA",13,255,13255
+Nashville Predators,"Scott County, TN",47,127,47127
+Nashville Predators,"Matagorda County, TX",48,321,48321
+Nashville Predators,"Pike County, AL",01,109,01109
+Nashville Predators,"Perkins County, SD",46,135,46135
+Nashville Predators,"Cook County, GA",13,075,13075
+Nashville Predators,"White County, GA",13,145,13145
+Nashville Predators,"Union County, KY",21,139,21139
+Nashville Predators,"Lincoln County, MS",28,079,28079
+Nashville Predators,"Franklin County, AL",01,059,01059
+Nashville Predators,"George County, MS",28,039,28039
+Nashville Predators,"Clay County, NC",37,027,37027
+Nashville Predators,"Henry County, KY",21,067,21067
+Nashville Predators,"Hart County, KY",21,147,21147
+Nashville Predators,"Marion County, KY",21,093,21093
+Nashville Predators,"Dallas County, AL",01,047,01047
+Nashville Predators,"Carter County, KY",21,043,21043
+Nashville Predators,"Holmes County, FL",12,059,12059
+Nashville Predators,"Toombs County, GA",13,279,13279
+Nashville Predators,"Butler County, AL",01,013,01013
+Nashville Predators,"Boyle County, KY",21,021,21021
+Nashville Predators,"Cumberland County, KY",21,035,21035
+Nashville Predators,"Marshall County, MS",28,095,28095
+Nashville Predators,"Harrison County, KY",21,061,21061
+Nashville Predators,"Monroe County, AR",05,099,05099
+Nashville Predators,"Burke County, GA",13,033,13033
+Nashville Predators,"Winn County, LA",22,127,22127
+Nashville Predators,"Hancock County, KY",21,141,21141
+Nashville Predators,"Leflore County, MS",28,083,28083
+Nashville Predators,"Tishomingo County, MS",28,141,28141
+Nashville Predators,"Lawrence County, AR",05,079,05079
+Nashville Predators,"Knox County, KY",21,095,21095
+Nashville Predators,"Bath County, KY",21,011,21011
+Nashville Predators,"Fulton County, KY",21,049,21049
+Nashville Predators,"Knott County, KY",21,119,21119
+Nashville Predators,"Collingsworth County, TX",48,087,48087
+Nashville Predators,"Franklin County, MS",28,059,28059
+Nashville Predators,"Parke County, IN",18,121,18121
+Nashville Predators,"Transylvania County, NC",37,175,37175
+Nashville Predators,"Covington County, MS",28,039,28039
+Nashville Predators,"Carroll County, KY",21,015,21015
+Nashville Predators,"Candler County, GA",13,043,13043
+Nashville Predators,"Kimble County, TX",48,267,48267
+Nashville Predators,"Letcher County, KY",21,133,21133
+Nashville Predators,"Lawrence County, KY",21,079,21079
+Nashville Predators,"Neshoba County, MS",28,099,28099
+Nashville Predators,"Monroe County, AL",01,099,01099
+Nashville Predators,"Jackson County, KY",21,071,21071
+Nashville Predators,"Carroll County, VA",51,015,51015
+Nashville Predators,"Rowan County, KY",21,205,21205
+Nashville Predators,"Gallatin County, IL",17,059,17059
+Nashville Predators,"Modoc County, CA",06,049,06049
+Nashville Predators,"Benton County, MS",28,007,28007
+Nashville Predators,"Monroe County, WV",54,099,54099
+Nashville Predators,"Custer County, NE",31,027,31027
+Nashville Predators,"Dallas County, AR",05,047,05047
+Nashville Predators,"Montgomery County, MS",28,101,28101
+Nashville Predators,"Dickenson County, VA",51,051,51051
+Nashville Predators,"Lincoln County, GA",13,079,13079
+Nashville Predators,"Macon County, AL",01,087,01087
+Nashville Predators,"Millard County, UT",49,027,49027
+Nashville Predators,"Montgomery County, KY",21,101,21101
+Nashville Predators,"Wise County, VA",51,497,51497
+Nashville Predators,"Crisp County, GA",13,081,13081
+Nashville Predators,"Carroll County, MS",28,015,28015
+Nashville Predators,"Scott County, VA",51,127,51127
+Nashville Predators,"Yalobusha County, MS",28,161,28161
+Nashville Predators,"Madison County, AR",05,089,05089
+Nashville Predators,"Escambia County, AL",01,053,01053
+Nashville Predators,"Clay County, MS",28,027,28027
+Nashville Predators,"Kemper County, MS",28,069,28069
+Nashville Predators,"West Baton Rouge County, LA",22,121,22121
+Nashville Predators,"Dillon County, SC",45,033,45033
+Nashville Predators,"Crawford County, GA",13,033,13033
+Nashville Predators,"Worth County, GA",13,321,13321
+Nashville Predators,"Pike County, MS",28,109,28109
+Nashville Predators,"Heard County, GA",13,149,13149
+Nashville Predators,"Harlan County, KY",21,095,21095
+Nashville Predators,"Hamilton County, FL",12,047,12047
+Nashville Predators,"Jenkins County, GA",13,165,13165
+Nashville Predators,"Prairie County, AR",05,117,05117
+Nashville Predators,"Webster County, MS",28,307,28307
+Nashville Predators,"Colfax County, NE",31,037,31037
+Nashville Predators,"Jasper County, MS",28,159,28159
+New Jersey Devils,"Morris County, NJ",34,127,34127
+New Jersey Devils,"Essex County, NJ",34,009,34009
+New Jersey Devils,"Ocean County, NJ",34,029,34029
+New Jersey Devils,"Sussex County, NJ",34,005,34005
+New Jersey Devils,"Warren County, NJ",34,301,34301
+New Jersey Devils,"Logan County, AR",05,083,05083
+New Jersey Devils,"Webster County, WV",54,307,54307
+New Jersey Devils,"Williamsburg County, SC",45,089,45089
+New Jersey Devils,"Floyd County, TX",48,115,48115
+New York Islanders,"Nassau County, NY",36,089,36089
+New York Islanders,"Suffolk County, NY",36,025,36025
+New York Islanders,"Hamlin County, SD",46,057,46057
+New York Islanders,"Pike County, KY",21,109,21109
+New York Islanders,"Russell County, KS",20,113,20113
+New York Islanders,"Gonzales County, TX",48,177,48177
+New York Islanders,"Meagher County, MT",30,059,30059
+New York Islanders,"Delaware County, OK",40,035,40035
+New York Islanders,"Live Oak County, TX",48,297,48297
+New York Islanders,"Wayne County, IA",19,305,19305
+New York Islanders,"McCurtain County, OK",40,089,40089
+New York Islanders,"Montgomery County, AR",05,101,05101
+New York Islanders,"Oglethorpe County, GA",13,221,13221
+New York Islanders,"Treutlen County, GA",13,283,13283
+New York Rangers,"New York County, NY",36,061,36061
+New York Rangers,"Westchester County, NY",36,119,36119
+New York Rangers,"Fairfield County, CT",09,001,09001
+New York Rangers,"Queens County, NY",36,081,36081
+New York Rangers,"Monmouth County, NJ",34,025,34025
+New York Rangers,"Kings County, NY",36,031,36031
+New York Rangers,"Richmond County, NY",36,245,36245
+New York Rangers,"Bergen County, NJ",34,003,34003
+New York Rangers,"New Haven County, CT",09,009,09009
+New York Rangers,"Middlesex County, NJ",34,007,34007
+New York Rangers,"Dutchess County, NY",36,027,36027
+New York Rangers,"Orange County, NY",36,059,36059
+New York Rangers,"Rockland County, NY",36,087,36087
+New York Rangers,"Union County, NJ",34,139,34139
+New York Rangers,"Putnam County, NY",36,107,36107
+New York Rangers,"Somerset County, NJ",34,025,34025
+New York Rangers,"Passaic County, NJ",34,031,34031
+New York Rangers,"Hudson County, NJ",34,017,34017
+New York Rangers,"Bronx County, NY",36,005,36005
+New York Rangers,"Hunterdon County, NJ",34,019,34019
+New York Rangers,"Saratoga County, NY",36,091,36091
+New York Rangers,"Broome County, NY",36,007,36007
+New York Rangers,"Ulster County, NY",36,111,36111
+New York Rangers,"Litchfield County, CT",09,005,09005
+New York Rangers,"Rensselaer County, NY",36,083,36083
+New York Rangers,"Schenectady County, NY",36,093,36093
+New York Rangers,"Columbia County, NY",36,027,36027
+New York Rangers,"Warren County, NY",36,301,36301
+New York Rangers,"Herkimer County, NY",36,043,36043
+New York Rangers,"Montgomery County, NY",36,101,36101
+New York Rangers,"San Juan County, PR",72,111,72111
+New York Rangers,"Sullivan County, NY",36,153,36153
+New York Rangers,"Otsego County, NY",36,137,36137
+New York Rangers,"Greene County, NY",36,063,36063
+New York Rangers,"Muscogee County, GA",13,215,13215
+New York Rangers,"Valley County, ID",16,085,16085
+New York Rangers,"St. Croix County, VI",78,109,78109
+New York Rangers,"Mayaguez County, PR",72,#N/A,#N/A
+New York Rangers,"Delaware County, NY",36,035,36035
+New York Rangers,"Saline County, AR",05,125,05125
+New York Rangers,"Charlottesville County, VA",51,540,51540
+New York Rangers,"Lincoln County, OR",41,079,41079
+New York Rangers,"Schoharie County, NY",36,095,36095
+New York Rangers,"Okanogan County, WA",53,047,53047
+New York Rangers,"Randolph County, AR",05,111,05111
+New York Rangers,"Sharkey County, MS",28,125,28125
+New York Rangers,"Mayes County, OK",40,097,40097
+New York Rangers,"Lajas County, PR",72,#N/A,#N/A
+New York Rangers,"Elk County, KS",20,049,20049
+New York Rangers,"Randolph County, AL",01,111,01111
+New York Rangers,"Yamhill County, OR",41,071,41071
+New York Rangers,"Larue County, KY",21,123,21123
+New York Rangers,"Wagoner County, OK",40,145,40145
+New York Rangers,"Kay County, OK",40,071,40071
+New York Rangers,"Las Marias County, PR",72,#N/A,#N/A
+New York Rangers,"Orangeburg County, SC",45,075,45075
+New York Rangers,"Livingston County, LA",22,105,22105
+New York Rangers,"Peach County, GA",13,225,13225
+New York Rangers,"Floyd County, KY",21,115,21115
+New York Rangers,"Cleburne County, AR",05,029,05029
+New York Rangers,"Yazoo County, MS",28,163,28163
+New York Rangers,"Leslie County, KY",21,131,21131
+New York Rangers,"Camuy County, PR",72,#N/A,#N/A
+New York Rangers,"Bates County, MO",29,013,29013
+New York Rangers,"Hockley County, TX",48,219,48219
+New York Rangers,"Luquillo County, PR",72,#N/A,#N/A
+New York Rangers,"Madison County, NC",37,089,37089
+New York Rangers,"Leon County, TX",48,073,48073
+New York Rangers,"Decatur County, IN",18,087,18087
+New York Rangers,"Guayama County, PR",72,#N/A,#N/A
+New York Rangers,"Colleton County, SC",45,029,45029
+New York Rangers,"Wolfe County, KY",21,237,21237
+New York Rangers,"Las Piedras County, PR",72,#N/A,#N/A
+New York Rangers,"Miller County, AR",05,091,05091
+New York Rangers,"Page County, IA",19,145,19145
+New York Rangers,"Assumption County, LA",22,007,22007
+New York Rangers,"Wayne County, NE",31,305,31305
+New York Rangers,"Lancaster County, VA",51,109,51109
+New York Rangers,"Seminole County, OK",40,117,40117
+New York Rangers,"Scurry County, TX",48,415,48415
+New York Rangers,"St. Bernard County, LA",22,087,22087
+New York Rangers,"Grant County, LA",22,053,22053
+New York Rangers,"Adair County, KY",21,001,21001
+New York Rangers,"Lares County, PR",72,#N/A,#N/A
+New York Rangers,"Coffey County, KS",20,031,20031
+New York Rangers,"Newton County, MS",28,101,28101
+New York Rangers,"Adams County, WA",53,001,53001
+New York Rangers,"Gurabo County, PR",72,#N/A,#N/A
+New York Rangers,"Bayamon County, PR",72,#N/A,#N/A
+New York Rangers,"Vega Baja County, PR",72,#N/A,#N/A
+New York Rangers,"Edwards County, KS",20,047,20047
+New York Rangers,"Hart County, GA",13,147,13147
+New York Rangers,"Garden County, NE",31,069,31069
+New York Rangers,"West Feliciana County, LA",22,125,22125
+New York Rangers,"Brown County, KS",20,009,20009
+New York Rangers,"Phillips County, AR",05,107,05107
+New York Rangers,"Union County, NM",35,139,35139
+New York Rangers,"Trujillo Alto County, PR",72,#N/A,#N/A
+New York Rangers,"Wilkinson County, MS",28,319,28319
+New York Rangers,"Sheridan County, NE",31,179,31179
+New York Rangers,"Hamilton County, NY",36,047,36047
+New York Rangers,"Cassia County, ID",16,031,16031
+New York Rangers,"Hormigueros County, PR",72,#N/A,#N/A
+New York Rangers,"Garrard County, KY",21,079,21079
+New York Rangers,"Guanica County, PR",72,#N/A,#N/A
+New York Rangers,"Sullivan County, MO",29,153,29153
+New York Rangers,"Sierra County, CA",06,091,06091
+New York Rangers,"Guadalupe County, NM",35,019,35019
+New York Rangers,"Quebradillas County, PR",72,#N/A,#N/A
+New York Rangers,"Noble County, OK",40,113,40113
+New York Rangers,"Adams County, IA",19,001,19001
+New York Rangers,"Cochran County, TX",48,079,48079
+New York Rangers,"Nemaha County, KS",20,131,20131
+New York Rangers,"Quay County, NM",35,037,35037
+New York Rangers,"Barber County, KS",20,007,20007
+New York Rangers,"Kingman County, KS",20,095,20095
+New York Rangers,"Leake County, MS",28,079,28079
+New York Rangers,"Yabucoa County, PR",72,#N/A,#N/A
+New York Rangers,"Keokuk County, IA",19,107,19107
+New York Rangers,"Drew County, AR",05,043,05043
+New York Rangers,"Ottawa County, OK",40,143,40143
+New York Rangers,"Dundy County, NE",31,057,31057
+New York Rangers,"Brown County, NE",31,009,31009
+New York Rangers,"Amite County, MS",28,005,28005
+NHL Stadium Series,"Fluvanna County, VA",51,065,51065
+Ottawa Senators,"St. Lawrence County, NY",36,089,36089
+Ottawa Senators,"Jefferson County, NY",36,073,36073
+Ottawa Senators,"Franklin County, NY",36,059,36059
+Ottawa Senators,"Jefferson County, KS",20,073,20073
+Ottawa Senators,"Hidalgo County, NM",35,023,35023
+Ottawa Senators,"Fayette County, IN",18,057,18057
+Ottawa Senators,"Nowata County, OK",40,105,40105
+Ottawa Senators,"Fairfield County, SC",45,001,45001
+Philadelphia Flyers,"Montgomery County, PA",42,101,42101
+Philadelphia Flyers,"Bucks County, PA",42,017,42017
+Philadelphia Flyers,"Philadelphia County, PA",42,101,42101
+Philadelphia Flyers,"Delaware County, PA",42,035,42035
+Philadelphia Flyers,"Chester County, PA",42,029,42029
+Philadelphia Flyers,"Camden County, NJ",34,039,34039
+Philadelphia Flyers,"New Castle County, DE",10,003,10003
+Philadelphia Flyers,"Burlington County, NJ",34,005,34005
+Philadelphia Flyers,"Gloucester County, NJ",34,015,34015
+Philadelphia Flyers,"Berks County, PA",42,011,42011
+Philadelphia Flyers,"Lancaster County, PA",42,109,42109
+Philadelphia Flyers,"Atlantic County, NJ",34,001,34001
+Philadelphia Flyers,"Cape May County, NJ",34,009,34009
+Philadelphia Flyers,"Lehigh County, PA",42,077,42077
+Philadelphia Flyers,"Mercer County, NJ",34,131,34131
+Philadelphia Flyers,"Northampton County, PA",42,131,42131
+Philadelphia Flyers,"Sussex County, DE",10,005,10005
+Philadelphia Flyers,"Kent County, DE",10,001,10001
+Philadelphia Flyers,"Schuylkill County, PA",42,107,42107
+Philadelphia Flyers,"Cumberland County, NJ",34,035,34035
+Philadelphia Flyers,"Salem County, NJ",34,033,34033
+Philadelphia Flyers,"Luzerne County, PA",42,079,42079
+Philadelphia Flyers,"Dauphin County, PA",42,043,42043
+Philadelphia Flyers,"Lebanon County, PA",42,075,42075
+Philadelphia Flyers,"Cecil County, MD",24,015,24015
+Philadelphia Flyers,"Lackawanna County, PA",42,069,42069
+Philadelphia Flyers,"Monroe County, PA",42,099,42099
+Philadelphia Flyers,"Carbon County, PA",42,009,42009
+Philadelphia Flyers,"Pike County, PA",42,109,42109
+Philadelphia Flyers,"Kent County, MD",24,001,24001
+Philadelphia Flyers,"Bradford County, PA",42,007,42007
+Philadelphia Flyers,"Elmore County, AL",01,051,01051
+Philadelphia Flyers,"Union County, PA",42,139,42139
+Philadelphia Flyers,"Wyoming County, PA",42,121,42121
+Philadelphia Flyers,"Amherst County, VA",51,009,51009
+Philadelphia Flyers,"Wayne County, WV",54,305,54305
+Philadelphia Flyers,"McDowell County, NC",37,111,37111
+Philadelphia Flyers,"Juniata County, PA",42,067,42067
+Philadelphia Flyers,"Southampton County, VA",51,175,51175
+Philadelphia Flyers,"Accomack County, VA",51,001,51001
+Philadelphia Flyers,"Arecibo County, PR",72,#N/A,#N/A
+Philadelphia Flyers,"Cumberland County, VA",51,035,51035
+Philadelphia Flyers,"Kodiak Island County, AK",02,150,02150
+Philadelphia Flyers,"Elliott County, KY",21,063,21063
+Philadelphia Flyers,"Concordia County, LA",22,029,22029
+Philadelphia Flyers,"Franklin County, VA",51,059,51059
+Philadelphia Flyers,"Mitchell County, NC",37,205,37205
+Philadelphia Flyers,"Sullivan County, PA",42,153,42153
+Philadelphia Flyers,"Billings County, ND",38,007,38007
+Philadelphia Flyers,"Woodruff County, AR",05,147,05147
+Pittsburgh Penguins,"Allegheny County, PA",42,003,42003
+Pittsburgh Penguins,"Westmoreland County, PA",42,129,42129
+Pittsburgh Penguins,"Butler County, PA",42,013,42013
+Pittsburgh Penguins,"Washington County, PA",42,129,42129
+Pittsburgh Penguins,"Cambria County, PA",42,021,42021
+Pittsburgh Penguins,"Beaver County, PA",42,007,42007
+Pittsburgh Penguins,"Erie County, PA",42,029,42029
+Pittsburgh Penguins,"Blair County, PA",42,013,42013
+Pittsburgh Penguins,"Fayette County, PA",42,057,42057
+Pittsburgh Penguins,"Lawrence County, PA",42,079,42079
+Pittsburgh Penguins,"Armstrong County, PA",42,005,42005
+Pittsburgh Penguins,"Mercer County, PA",42,131,42131
+Pittsburgh Penguins,"York County, PA",42,031,42031
+Pittsburgh Penguins,"Mahoning County, OH",39,099,39099
+Pittsburgh Penguins,"Indiana County, PA",42,063,42063
+Pittsburgh Penguins,"Somerset County, PA",42,025,42025
+Pittsburgh Penguins,"Crawford County, PA",42,033,42033
+Pittsburgh Penguins,"Monongalia County, WV",54,061,54061
+Pittsburgh Penguins,"Cumberland County, PA",42,035,42035
+Pittsburgh Penguins,"Ohio County, WV",54,115,54115
+Pittsburgh Penguins,"Jefferson County, PA",42,073,42073
+Pittsburgh Penguins,"Columbiana County, OH",39,029,39029
+Pittsburgh Penguins,"Clearfield County, PA",42,033,42033
+Pittsburgh Penguins,"Jefferson County, OH",39,073,39073
+Pittsburgh Penguins,"Trumbull County, OH",39,155,39155
+Pittsburgh Penguins,"Centre County, PA",42,027,42027
+Pittsburgh Penguins,"Elk County, PA",42,049,42049
+Pittsburgh Penguins,"Allegany County, MD",24,001,24001
+Pittsburgh Penguins,"Belmont County, OH",39,013,39013
+Pittsburgh Penguins,"Venango County, PA",42,121,42121
+Pittsburgh Penguins,"Bedford County, PA",42,009,42009
+Pittsburgh Penguins,"Hancock County, WV",54,141,54141
+Pittsburgh Penguins,"Harrison County, WV",54,061,54061
+Pittsburgh Penguins,"Greene County, PA",42,063,42063
+Pittsburgh Penguins,"Clarion County, PA",42,031,42031
+Pittsburgh Penguins,"Franklin County, PA",42,059,42059
+Pittsburgh Penguins,"Marion County, WV",54,093,54093
+Pittsburgh Penguins,"Lycoming County, PA",42,081,42081
+Pittsburgh Penguins,"Brooke County, WV",54,009,54009
+Pittsburgh Penguins,"Wood County, WV",54,173,54173
+Pittsburgh Penguins,"Kanawha County, WV",54,039,54039
+Pittsburgh Penguins,"Portage County, OH",39,133,39133
+Pittsburgh Penguins,"Marshall County, WV",54,095,54095
+Pittsburgh Penguins,"Warren County, PA",42,301,42301
+Pittsburgh Penguins,"Northumberland County, PA",42,097,42097
+Pittsburgh Penguins,"Huntingdon County, PA",42,061,42061
+Pittsburgh Penguins,"Mifflin County, PA",42,087,42087
+Pittsburgh Penguins,"Randolph County, WV",54,111,54111
+Pittsburgh Penguins,"Cabell County, WV",54,011,54011
+Pittsburgh Penguins,"Garrett County, MD",24,023,24023
+Pittsburgh Penguins,"Adams County, PA",42,001,42001
+Pittsburgh Penguins,"Beaufort County, SC",45,013,45013
+Pittsburgh Penguins,"Lewis County, WV",54,061,54061
+Pittsburgh Penguins,"Clinton County, PA",42,027,42027
+Pittsburgh Penguins,"Columbia County, PA",42,027,42027
+Pittsburgh Penguins,"Perry County, PA",42,105,42105
+Pittsburgh Penguins,"Preston County, WV",54,077,54077
+Pittsburgh Penguins,"Snyder County, PA",42,109,42109
+Pittsburgh Penguins,"Mineral County, WV",54,079,54079
+Pittsburgh Penguins,"Wayne County, PA",42,305,42305
+Pittsburgh Penguins,"Tioga County, PA",42,107,42107
+Pittsburgh Penguins,"Fulton County, PA",42,049,42049
+Pittsburgh Penguins,"Monroe County, OH",39,099,39099
+Pittsburgh Penguins,"Barbour County, WV",54,005,54005
+Pittsburgh Penguins,"Hawaii County, HI",15,001,15001
+Pittsburgh Penguins,"Wythe County, VA",51,197,51197
+Pittsburgh Penguins,"Taylor County, WV",54,123,54123
+Pittsburgh Penguins,"Fayette County, WV",54,057,54057
+Pittsburgh Penguins,"Montour County, PA",42,093,42093
+Pittsburgh Penguins,"Boone County, WV",54,009,54009
+Pittsburgh Penguins,"Harrison County, OH",39,061,39061
+Pittsburgh Penguins,"Wetzel County, WV",54,103,54103
+Pittsburgh Penguins,"Raleigh County, WV",54,081,54081
+Pittsburgh Penguins,"Forest County, PA",42,053,42053
+Pittsburgh Penguins,"Susquehanna County, PA",42,115,42115
+Pittsburgh Penguins,"Upshur County, WV",54,459,54459
+Pittsburgh Penguins,"Kendall County, TX",48,093,48093
+Pittsburgh Penguins,"Wayne County, MS",28,305,28305
+Pittsburgh Penguins,"Sac County, IA",19,161,19161
+Pittsburgh Penguins,"Radford County, VA",51,750,51750
+Pittsburgh Penguins,"Mercer County, WV",54,131,54131
+Pittsburgh Penguins,"Nicholas County, WV",54,181,54181
+Pittsburgh Penguins,"Westmoreland County, VA",51,129,51129
+Pittsburgh Penguins,"Tazewell County, VA",51,179,51179
+Pittsburgh Penguins,"Fountain County, IN",18,045,18045
+Pittsburgh Penguins,"Jackson County, WV",54,071,54071
+Pittsburgh Penguins,"Cass County, TX",48,017,48017
+Pittsburgh Penguins,"Cameron County, PA",42,023,42023
+Pittsburgh Penguins,"Jerome County, ID",16,053,16053
+Pittsburgh Penguins,"San Saba County, TX",48,411,48411
+Pittsburgh Penguins,"Gilmer County, WV",54,123,54123
+Pittsburgh Penguins,"Pocahontas County, WV",54,151,54151
+Pittsburgh Penguins,"Big Horn County, MT",30,003,30003
+Pittsburgh Penguins,"Carroll County, IL",17,015,17015
+Pittsburgh Penguins,"Dixon County, NE",31,051,31051
+Pittsburgh Penguins,"Lincoln County, WV",54,079,54079
+Pittsburgh Penguins,"Ritchie County, WV",54,085,54085
+Pittsburgh Penguins,"Chilton County, AL",01,021,01021
+Pittsburgh Penguins,"Sequoyah County, OK",40,135,40135
+Pittsburgh Penguins,"Wyoming County, WV",54,121,54121
+Pittsburgh Penguins,"Pleasants County, WV",54,073,54073
+Pittsburgh Penguins,"Morehouse County, LA",22,067,22067
+Pittsburgh Penguins,"Iberia County, LA",22,045,22045
+Pittsburgh Penguins,"Doddridge County, WV",54,017,54017
+Pittsburgh Penguins,"Hot Spring County, AR",05,059,05059
+Pittsburgh Penguins,"Braxton County, WV",54,007,54007
+Pittsburgh Penguins,"Calhoun County, WV",54,015,54015
+Pittsburgh Penguins,"Greenbrier County, WV",54,025,54025
+Pittsburgh Penguins,"Crenshaw County, AL",01,041,01041
+Pittsburgh Penguins,"Nolan County, TX",48,353,48353
+Pittsburgh Penguins,"Hyde County, NC",37,095,37095
+Pittsburgh Penguins,"Hardy County, WV",54,031,54031
+Pittsburgh Penguins,"Perry County, KY",21,105,21105
+Pittsburgh Penguins,"Boundary County, ID",16,021,16021
+Pittsburgh Penguins,"Pulaski County, VA",51,119,51119
+Pittsburgh Penguins,"Wilcox County, GA",13,131,13131
+Pittsburgh Penguins,"Canovanas County, PR",72,#N/A,#N/A
+Pittsburgh Penguins,"Maverick County, TX",48,323,48323
+Pittsburgh Penguins,"Natchitoches County, LA",22,069,22069
+Pittsburgh Penguins,"Sumter County, GA",13,119,13119
+San Jose Sharks,"Santa Clara County, CA",06,085,06085
+San Jose Sharks,"Contra Costa County, CA",06,013,06013
+San Jose Sharks,"Alameda County, CA",06,001,06001
+San Jose Sharks,"San Mateo County, CA",06,081,06081
+San Jose Sharks,"Sacramento County, CA",06,067,06067
+San Jose Sharks,"San Francisco County, CA",06,075,06075
+San Jose Sharks,"Monterey County, CA",06,053,06053
+San Jose Sharks,"Santa Cruz County, CA",06,023,06023
+San Jose Sharks,"Sonoma County, CA",06,097,06097
+San Jose Sharks,"San Joaquin County, CA",06,077,06077
+San Jose Sharks,"Placer County, CA",06,061,06061
+San Jose Sharks,"Solano County, CA",06,095,06095
+San Jose Sharks,"Stanislaus County, CA",06,099,06099
+San Jose Sharks,"Marin County, CA",06,041,06041
+San Jose Sharks,"Fresno County, CA",06,019,06019
+San Jose Sharks,"Butte County, CA",06,007,06007
+San Jose Sharks,"San Luis Obispo County, CA",06,079,06079
+San Jose Sharks,"Merced County, CA",06,047,06047
+San Jose Sharks,"San Benito County, CA",06,069,06069
+San Jose Sharks,"El Dorado County, CA",06,017,06017
+San Jose Sharks,"Humboldt County, CA",06,023,06023
+San Jose Sharks,"Yolo County, CA",06,113,06113
+San Jose Sharks,"Shasta County, CA",06,089,06089
+San Jose Sharks,"Nevada County, CA",06,099,06099
+San Jose Sharks,"Napa County, CA",06,055,06055
+San Jose Sharks,"Tulare County, CA",06,107,06107
+San Jose Sharks,"Sutter County, CA",06,101,06101
+San Jose Sharks,"Madera County, CA",06,039,06039
+San Jose Sharks,"Tehama County, CA",06,103,06103
+San Jose Sharks,"Carson County, NV",32,065,32065
+San Jose Sharks,"Douglas County, NV",32,035,32035
+San Jose Sharks,"Mendocino County, CA",06,045,06045
+San Jose Sharks,"Kings County, CA",06,031,06031
+San Jose Sharks,"Lake County, CA",06,033,06033
+San Jose Sharks,"Tuolumne County, CA",06,109,06109
+San Jose Sharks,"Klamath County, OR",41,035,41035
+San Jose Sharks,"Calaveras County, CA",06,009,06009
+San Jose Sharks,"Siskiyou County, CA",06,093,06093
+San Jose Sharks,"Amador County, CA",06,005,06005
+San Jose Sharks,"Yuba County, CA",06,115,06115
+San Jose Sharks,"Mariposa County, CA",06,043,06043
+San Jose Sharks,"San Juan County, WA",53,111,53111
+San Jose Sharks,"Polk County, OR",41,113,41113
+San Jose Sharks,"Glenn County, CA",06,021,06021
+San Jose Sharks,"Lassen County, CA",06,035,06035
+San Jose Sharks,"Colusa County, CA",06,011,06011
+San Jose Sharks,"Del Norte County, CA",06,015,06015
+San Jose Sharks,"Plumas County, CA",06,063,06063
+San Jose Sharks,"Lowndes County, AL",01,085,01085
+San Jose Sharks,"Covington County, AL",01,039,01039
+San Jose Sharks,"Penuelas County, PR",72,#N/A,#N/A
+San Jose Sharks,"Petersburg County, AK",02,195,02195
+San Jose Sharks,"Delaware County, IA",19,035,19035
+San Jose Sharks,"Lake County, OR",41,033,41033
+San Jose Sharks,"Storey County, NV",32,029,32029
+San Jose Sharks,"Henry County, MO",29,067,29067
+San Jose Sharks,"Trinity County, CA",06,105,06105
+San Jose Sharks,"Panola County, MS",28,107,28107
+San Jose Sharks,"Fajardo County, PR",72,#N/A,#N/A
+San Jose Sharks,"Malheur County, OR",41,045,41045
+San Jose Sharks,"Aleutians West County, AK",02,016,02016
+San Jose Sharks,"Payette County, ID",16,075,16075
+San Jose Sharks,"Atoka County, OK",40,005,40005
+St. Louis Blues,"St. Louis County, MO",29,137,29137
+St. Louis Blues,"St. Charles County, MO",29,183,29183
+St. Louis Blues,"Madison County, IL",17,089,17089
+St. Louis Blues,"Jefferson County, MO",29,073,29073
+St. Louis Blues,"St. Clair County, IL",17,115,17115
+St. Louis Blues,"St. Louis County, MO",29,137,29137
+St. Louis Blues,"Franklin County, MO",29,059,29059
+St. Louis Blues,"Sangamon County, IL",17,167,17167
+St. Louis Blues,"Boone County, MO",29,009,29009
+St. Louis Blues,"Cape Girardeau County, MO",29,031,29031
+St. Louis Blues,"Greene County, MO",29,063,29063
+St. Louis Blues,"Monroe County, IL",17,099,17099
+St. Louis Blues,"Lincoln County, MO",29,079,29079
+St. Louis Blues,"Adams County, IL",17,001,17001
+St. Louis Blues,"St. Francois County, MO",29,187,29187
+St. Louis Blues,"Clinton County, IL",17,027,17027
+St. Louis Blues,"Johnson County, KS",20,071,20071
+St. Louis Blues,"Macoupin County, IL",17,117,17117
+St. Louis Blues,"Jackson County, MO",29,071,29071
+St. Louis Blues,"Cole County, MO",29,051,29051
+St. Louis Blues,"Williamson County, IL",17,199,17199
+St. Louis Blues,"Warren County, MO",29,301,29301
+St. Louis Blues,"Marion County, IL",17,093,17093
+St. Louis Blues,"Randolph County, IL",17,111,17111
+St. Louis Blues,"Jefferson County, IL",17,073,17073
+St. Louis Blues,"Scott County, MO",29,127,29127
+St. Louis Blues,"Ste. Genevieve County, MO",29,186,29186
+St. Louis Blues,"Marion County, MO",29,093,29093
+St. Louis Blues,"Effingham County, IL",17,103,17103
+St. Louis Blues,"Jackson County, IL",17,071,17071
+St. Louis Blues,"Perry County, MO",29,105,29105
+St. Louis Blues,"Christian County, MO",29,021,29021
+St. Louis Blues,"Phelps County, MO",29,161,29161
+St. Louis Blues,"Clay County, MO",29,027,29027
+St. Louis Blues,"Bond County, IL",17,005,17005
+St. Louis Blues,"Jersey County, IL",17,083,17083
+St. Louis Blues,"Montgomery County, IL",17,101,17101
+St. Louis Blues,"Perry County, IL",17,105,17105
+St. Louis Blues,"Washington County, IL",17,129,17129
+St. Louis Blues,"Franklin County, IL",17,059,17059
+St. Louis Blues,"Callaway County, MO",29,027,29027
+St. Louis Blues,"Camden County, MO",29,039,29039
+St. Louis Blues,"Christian County, IL",17,021,17021
+St. Louis Blues,"Butler County, MO",29,013,29013
+St. Louis Blues,"Pulaski County, MO",29,119,29119
+St. Louis Blues,"Madison County, MO",29,089,29089
+St. Louis Blues,"Morgan County, IL",17,103,17103
+St. Louis Blues,"Laclede County, MO",29,105,29105
+St. Louis Blues,"Coles County, IL",17,029,17029
+St. Louis Blues,"Osage County, MO",29,139,29139
+St. Louis Blues,"Stoddard County, MO",29,207,29207
+St. Louis Blues,"Jasper County, MO",29,159,29159
+St. Louis Blues,"Gasconade County, MO",29,073,29073
+St. Louis Blues,"Taney County, MO",29,213,29213
+St. Louis Blues,"Greene County, IL",17,063,17063
+St. Louis Blues,"Pike County, IL",17,109,17109
+St. Louis Blues,"Platte County, MO",29,165,29165
+St. Louis Blues,"Fayette County, IL",17,057,17057
+St. Louis Blues,"Washington County, MO",29,129,29129
+St. Louis Blues,"Adair County, MO",29,001,29001
+St. Louis Blues,"Cass County, MO",29,017,29017
+St. Louis Blues,"Randolph County, MO",29,111,29111
+St. Louis Blues,"Crawford County, MO",29,033,29033
+St. Louis Blues,"Union County, IL",17,139,17139
+St. Louis Blues,"Howell County, MO",29,091,29091
+St. Louis Blues,"Shelby County, IL",17,117,17117
+St. Louis Blues,"Johnson County, MO",29,071,29071
+St. Louis Blues,"Miller County, MO",29,091,29091
+St. Louis Blues,"Craighead County, AR",05,031,05031
+St. Louis Blues,"Richland County, IL",17,159,17159
+St. Louis Blues,"Ralls County, MO",29,173,29173
+St. Louis Blues,"Montgomery County, MO",29,101,29101
+St. Louis Blues,"Wyandotte County, KS",20,209,20209
+St. Louis Blues,"Audrain County, MO",29,007,29007
+St. Louis Blues,"Polk County, MO",29,113,29113
+St. Louis Blues,"Lewis County, MO",29,061,29061
+St. Louis Blues,"Pike County, MO",29,109,29109
+St. Louis Blues,"Hamilton County, IL",17,047,17047
+St. Louis Blues,"Douglas County, IL",17,035,17035
+St. Louis Blues,"Dent County, MO",29,065,29065
+St. Louis Blues,"Newton County, MO",29,101,29101
+St. Louis Blues,"Macon County, MO",29,087,29087
+St. Louis Blues,"Greene County, IN",18,063,18063
+St. Louis Blues,"Moniteau County, MO",29,135,29135
+St. Louis Blues,"Bollinger County, MO",29,017,29017
+St. Louis Blues,"Gibson County, IN",18,051,18051
+St. Louis Blues,"Hancock County, IL",17,141,17141
+St. Louis Blues,"Massac County, IL",17,127,17127
+St. Louis Blues,"Monroe County, MO",29,099,29099
+St. Louis Blues,"Texas County, MO",29,215,29215
+St. Louis Blues,"Saline County, IL",17,125,17125
+St. Louis Blues,"Barry County, MO",29,015,29015
+St. Louis Blues,"Calhoun County, IL",17,015,17015
+St. Louis Blues,"Mississippi County, MO",29,093,29093
+St. Louis Blues,"Carter County, MO",29,043,29043
+St. Louis Blues,"Leavenworth County, KS",20,103,20103
+St. Louis Blues,"Ripley County, MO",29,137,29137
+St. Louis Blues,"Scott County, IL",17,127,17127
+St. Louis Blues,"Baxter County, AR",05,005,05005
+St. Louis Blues,"Lee County, IA",19,081,19081
+St. Louis Blues,"Lawrence County, IL",17,079,17079
+St. Louis Blues,"Clay County, IL",17,027,17027
+St. Louis Blues,"Scotland County, MO",29,199,29199
+St. Louis Blues,"Clay County, AR",05,027,05027
+St. Louis Blues,"Stone County, MO",29,137,29137
+St. Louis Blues,"Buchanan County, MO",29,019,29019
+St. Louis Blues,"Knox County, IN",18,095,18095
+St. Louis Blues,"New Madrid County, MO",29,143,29143
+St. Louis Blues,"McDonough County, IL",17,109,17109
+St. Louis Blues,"Edgar County, IL",17,045,17045
+St. Louis Blues,"Cass County, IL",17,017,17017
+St. Louis Blues,"DeWitt County, IL",17,123,17123
+St. Louis Blues,"Maries County, MO",29,125,29125
+St. Louis Blues,"Wayne County, IL",17,305,17305
+St. Louis Blues,"Lafayette County, MO",29,073,29073
+St. Louis Blues,"Menard County, IL",17,129,17129
+St. Louis Blues,"Dunklin County, MO",29,069,29069
+St. Louis Blues,"Clark County, MO",29,019,29019
+St. Louis Blues,"White County, IL",17,145,17145
+St. Louis Blues,"Wayne County, MO",29,305,29305
+St. Louis Blues,"Lawrence County, MO",29,079,29079
+St. Louis Blues,"Webster County, MO",29,307,29307
+St. Louis Blues,"Douglas County, KS",20,035,20035
+St. Louis Blues,"Cooper County, MO",29,053,29053
+St. Louis Blues,"Pulaski County, IL",17,119,17119
+St. Louis Blues,"Jasper County, IL",17,159,17159
+St. Louis Blues,"Brown County, IL",17,009,17009
+St. Louis Blues,"Shelby County, MO",29,117,29117
+St. Louis Blues,"Barton County, MO",29,009,29009
+St. Louis Blues,"Jefferson County, IA",19,073,19073
+St. Louis Blues,"Linn County, MO",29,113,29113
+St. Louis Blues,"Spencer County, IN",18,147,18147
+St. Louis Blues,"Wright County, MO",29,197,29197
+St. Louis Blues,"Dallas County, MO",29,047,29047
+St. Louis Blues,"Howard County, MO",29,061,29061
+St. Louis Blues,"Marion County, AR",05,093,05093
+St. Louis Blues,"Moultrie County, IL",17,139,17139
+St. Louis Blues,"Davis County, IA",19,051,19051
+St. Louis Blues,"Boone County, AR",05,009,05009
+St. Louis Blues,"Riley County, KS",20,161,20161
+St. Louis Blues,"Floyd County, VA",51,115,51115
+St. Louis Blues,"Morgan County, MO",29,103,29103
+St. Louis Blues,"Neosho County, KS",20,133,20133
+St. Louis Blues,"Iron County, MO",29,071,29071
+St. Louis Blues,"Pettis County, MO",29,159,29159
+St. Louis Blues,"Marshall County, IL",17,095,17095
+St. Louis Blues,"Bryan County, GA",13,029,13029
+St. Louis Blues,"Mason County, IL",17,125,17125
+St. Louis Blues,"McDonald County, MO",29,119,29119
+St. Louis Blues,"Cumberland County, IL",17,035,17035
+St. Louis Blues,"Pope County, AR",05,115,05115
+St. Louis Blues,"Henry County, IA",19,067,19067
+St. Louis Blues,"Saline County, MO",29,125,29125
+St. Louis Blues,"Cedar County, MO",29,031,29031
+St. Louis Blues,"Miami County, KS",20,103,20103
+St. Louis Blues,"Reynolds County, MO",29,179,29179
+St. Louis Blues,"Wabash County, IL",17,185,17185
+St. Louis Blues,"Jackson County, OK",40,071,40071
+St. Louis Blues,"Pemiscot County, MO",29,155,29155
+St. Louis Blues,"Schuyler County, IL",17,169,17169
+St. Louis Blues,"Crittenden County, KY",21,035,21035
+St. Louis Blues,"Lawrence County, IN",18,079,18079
+St. Louis Blues,"Clay County, IN",18,027,18027
+St. Louis Blues,"Andrew County, MO",29,003,29003
+St. Louis Blues,"Shannon County, MO",29,203,29203
+St. Louis Blues,"Ray County, MO",29,177,29177
+St. Louis Blues,"Franklin County, KS",20,059,20059
+St. Louis Blues,"Mississippi County, AR",05,093,05093
+St. Louis Blues,"Grant County, KS",20,053,20053
+St. Louis Blues,"Warren County, IN",18,301,18301
+St. Louis Blues,"Pocahontas County, IA",19,151,19151
+St. Louis Blues,"Allen County, LA",22,003,22003
+St. Louis Blues,"Wapello County, IA",19,179,19179
+St. Louis Blues,"Kearney County, NE",31,099,31099
+St. Louis Blues,"Schuyler County, MO",29,169,29169
+St. Louis Blues,"Chariton County, MO",29,041,29041
+St. Louis Blues,"Benton County, MO",29,007,29007
+St. Louis Blues,"Van Buren County, IA",19,141,19141
+St. Louis Blues,"Daviess County, MO",29,027,29027
+St. Louis Blues,"Rusk County, WI",55,401,55401
+St. Louis Blues,"Grundy County, MO",29,063,29063
+St. Louis Blues,"Poinsett County, AR",05,111,05111
+St. Louis Blues,"Logan County, OK",40,083,40083
+St. Louis Blues,"Vernon County, MO",29,217,29217
+St. Louis Blues,"Boone County, NE",31,009,31009
+St. Louis Blues,"Atascosa County, TX",48,013,48013
+St. Louis Blues,"Butler County, NE",31,013,31013
+St. Louis Blues,"Appanoose County, IA",19,007,19007
+St. Louis Blues,"Hickory County, MO",29,085,29085
+St. Louis Blues,"Pike County, IN",18,109,18109
+St. Louis Blues,"Hamilton County, KS",20,047,20047
+St. Louis Blues,"Harrison County, IA",19,061,19061
+St. Louis Blues,"Atchison County, MO",29,005,29005
+St. Louis Blues,"Clark County, AR",05,019,05019
+St. Louis Blues,"Alexander County, IL",17,003,17003
+St. Louis Blues,"Putnam County, MO",29,107,29107
+St. Louis Blues,"Stark County, IL",17,175,17175
+St. Louis Blues,"Jones County, IA",19,169,19169
+St. Louis Blues,"Clinton County, MO",29,027,29027
+St. Louis Blues,"Madison County, NE",31,089,31089
+St. Louis Blues,"Oregon County, MO",29,149,29149
+St. Louis Blues,"Adams County, WI",55,001,55001
+St. Louis Blues,"Caldwell County, LA",22,033,22033
+St. Louis Blues,"Ballard County, KY",21,007,21007
+St. Louis Blues,"Dewey County, OK",40,043,40043
+St. Louis Blues,"McIntosh County, GA",13,191,13191
+St. Louis Blues,"Marshall County, KS",20,095,20095
+St. Louis Blues,"Taylor County, IA",19,123,19123
+St. Louis Blues,"Livingston County, MO",29,105,29105
+St. Louis Blues,"Van Buren County, AR",05,141,05141
+St. Louis Blues,"Knox County, MO",29,095,29095
+St. Louis Blues,"Allen County, KS",20,003,20003
+St. Louis Blues,"Monroe County, MS",28,099,28099
+St. Louis Blues,"Jefferson Davis County, MS",28,065,28065
+St. Louis Blues,"Juncos County, PR",72,#N/A,#N/A
+St. Louis Blues,"Alleghany County, NC",37,005,37005
+Tampa Bay Lightning,"Hillsborough County, FL",12,057,12057
+Tampa Bay Lightning,"Pinellas County, FL",12,103,12103
+Tampa Bay Lightning,"Pasco County, FL",12,101,12101
+Tampa Bay Lightning,"Sarasota County, FL",12,115,12115
+Tampa Bay Lightning,"Manatee County, FL",12,081,12081
+Tampa Bay Lightning,"Polk County, FL",12,113,12113
+Tampa Bay Lightning,"Orange County, FL",12,059,12059
+Tampa Bay Lightning,"Hernando County, FL",12,053,12053
+Tampa Bay Lightning,"Lee County, FL",12,081,12081
+Tampa Bay Lightning,"Brevard County, FL",12,009,12009
+Tampa Bay Lightning,"Seminole County, FL",12,117,12117
+Tampa Bay Lightning,"Charlotte County, FL",12,015,12015
+Tampa Bay Lightning,"Duval County, FL",12,031,12031
+Tampa Bay Lightning,"Marion County, FL",12,093,12093
+Tampa Bay Lightning,"Volusia County, FL",12,127,12127
+Tampa Bay Lightning,"Lake County, FL",12,033,12033
+Tampa Bay Lightning,"Citrus County, FL",12,017,12017
+Tampa Bay Lightning,"Alachua County, FL",12,001,12001
+Tampa Bay Lightning,"St. Johns County, FL",12,109,12109
+Tampa Bay Lightning,"Osceola County, FL",12,097,12097
+Tampa Bay Lightning,"Leon County, FL",12,073,12073
+Tampa Bay Lightning,"Sumter County, FL",12,119,12119
+Tampa Bay Lightning,"Highlands County, FL",12,055,12055
+Tampa Bay Lightning,"Clay County, FL",12,027,12027
+Tampa Bay Lightning,"Okaloosa County, FL",12,091,12091
+Tampa Bay Lightning,"Flagler County, FL",12,035,12035
+Tampa Bay Lightning,"Santa Rosa County, FL",12,113,12113
+Tampa Bay Lightning,"Bay County, FL",12,005,12005
+Tampa Bay Lightning,"Escambia County, FL",12,053,12053
+Tampa Bay Lightning,"Levy County, FL",12,075,12075
+Tampa Bay Lightning,"DeSoto County, FL",12,027,12027
+Tampa Bay Lightning,"Wakulla County, FL",12,129,12129
+Tampa Bay Lightning,"Hall County, NE",31,139,31139
+Tampa Bay Lightning,"Suwannee County, FL",12,121,12121
+Tampa Bay Lightning,"Nassau County, FL",12,089,12089
+Tampa Bay Lightning,"Coweta County, GA",13,077,13077
+Tampa Bay Lightning,"Putnam County, FL",12,107,12107
+Tampa Bay Lightning,"Crawford County, KS",20,033,20033
+Tampa Bay Lightning,"Columbia County, FL",12,027,12027
+Tampa Bay Lightning,"Madison County, FL",12,089,12089
+Tampa Bay Lightning,"Camden County, GA",13,039,13039
+Tampa Bay Lightning,"Lowndes County, GA",13,085,13085
+Tampa Bay Lightning,"Hardee County, FL",12,049,12049
+Tampa Bay Lightning,"Gadsden County, FL",12,039,12039
+Tampa Bay Lightning,"Sitka County, AK",02,220,02220
+Tampa Bay Lightning,"Taylor County, FL",12,123,12123
+Tampa Bay Lightning,"Gulf County, FL",12,045,12045
+Tampa Bay Lightning,"Thomas County, GA",13,275,13275
+Tampa Bay Lightning,"Baker County, FL",12,003,12003
+Tampa Bay Lightning,"Liberty County, GA",13,077,13077
+Tampa Bay Lightning,"Charlotte County, VA",51,015,51015
+Tampa Bay Lightning,"Jackson County, FL",12,071,12071
+Tampa Bay Lightning,"Clarendon County, SC",45,027,45027
+Tampa Bay Lightning,"Lanier County, GA",13,173,13173
+Tampa Bay Lightning,"Gilchrist County, FL",12,041,12041
+Tampa Bay Lightning,"Hampton County, SC",45,049,45049
+Tampa Bay Lightning,"Jefferson County, FL",12,073,12073
+Tampa Bay Lightning,"Jackson County, NC",37,071,37071
+Tampa Bay Lightning,"Sumner County, KS",20,191,20191
+Tampa Bay Lightning,"Jasper County, SC",45,159,45159
+Tampa Bay Lightning,"Wilson County, KS",20,205,20205
+Tampa Bay Lightning,"Northampton County, NC",37,131,37131
+Tampa Bay Lightning,"Northampton County, VA",51,131,51131
+Tampa Bay Lightning,"Macon County, NC",37,087,37087
+Tampa Bay Lightning,"Pulaski County, IN",18,119,18119
+Tampa Bay Lightning,"Appling County, GA",13,001,13001
+Tampa Bay Lightning,"Caguas County, PR",72,#N/A,#N/A
+Tampa Bay Lightning,"Stone County, MS",28,137,28137
+Tampa Bay Lightning,"Plaquemines County, LA",22,075,22075
+Tampa Bay Lightning,"Yancey County, NC",37,199,37199
+Tampa Bay Lightning,"Ware County, GA",13,299,13299
+Tampa Bay Lightning,"Colquitt County, GA",13,071,13071
+Tampa Bay Lightning,"Golden Valley County, MT",30,037,30037
+Tampa Bay Lightning,"Union County, FL",12,139,12139
+Tampa Bay Lightning,"Pierce County, GA",13,229,13229
+Tampa Bay Lightning,"Calhoun County, FL",12,015,12015
+Tampa Bay Lightning,"Santa Isabel County, PR",72,#N/A,#N/A
+Toronto Maple Leafs,"Aguadilla County, PR",72,#N/A,#N/A
+Toronto Maple Leafs,"St. Thomas County, VI",78,067,78067
+Toronto Maple Leafs,"Jefferson County, TX",48,073,48073
+Toronto Maple Leafs,"Perry County, AR",05,105,05105
+Toronto Maple Leafs,"Waller County, TX",48,473,48473
+Toronto Maple Leafs,"Wilson County, TX",48,205,48205
+Toronto Maple Leafs,"Tift County, GA",13,277,13277
+Toronto Maple Leafs,"Coffee County, GA",13,031,13031
+Toronto Maple Leafs,"Webster County, NE",31,307,31307
+Toronto Maple Leafs,"Morton County, KS",20,129,20129
+Toronto Maple Leafs,"Fleming County, KY",21,069,21069
+Toronto Maple Leafs,"Cleveland County, AR",05,025,05025
+Toronto Maple Leafs,"Keya Paha County, NE",31,103,31103
+Toronto Maple Leafs,"Screven County, GA",13,251,13251
+Toronto Maple Leafs,"Coahoma County, MS",28,027,28027
+Toronto Maple Leafs,"Douglas County, SD",46,035,46035
+Vancouver Canucks,"King County, WA",53,269,53269
+Vancouver Canucks,"Snohomish County, WA",53,061,53061
+Vancouver Canucks,"Whatcom County, WA",53,073,53073
+Vancouver Canucks,"Pierce County, WA",53,229,53229
+Vancouver Canucks,"Kitsap County, WA",53,035,53035
+Vancouver Canucks,"Island County, WA",53,029,53029
+Vancouver Canucks,"Skagit County, WA",53,057,53057
+Vancouver Canucks,"Thurston County, WA",53,173,53173
+Vancouver Canucks,"Grant County, WA",53,053,53053
+Vancouver Canucks,"Kittitas County, WA",53,037,53037
+Vancouver Canucks,"Clallam County, WA",53,009,53009
+Vancouver Canucks,"Chelan County, WA",53,007,53007
+Vancouver Canucks,"Lewis County, WA",53,061,53061
+Vancouver Canucks,"Columbia County, WA",53,027,53027
+Vancouver Canucks,"Curry County, OR",41,009,41009
+Vancouver Canucks,"Douglas County, WA",53,035,53035
+Vancouver Canucks,"Benton County, OR",41,007,41007
+Vancouver Canucks,"Harding County, NM",35,021,35021
+Vancouver Canucks,"Jefferson County, WA",53,073,53073
+Vancouver Canucks,"Whitman County, WA",53,075,53075
+Vancouver Canucks,"Lake County, TN",47,033,47033
+Vancouver Canucks,"Johnson County, KY",21,071,21071
+Vancouver Canucks,"Barranquitas County, PR",72,#N/A,#N/A
+Vancouver Canucks,"Tillamook County, OR",41,057,41057
+Vancouver Canucks,"Audubon County, IA",19,009,19009
+Vancouver Canucks,"Cayey County, PR",72,#N/A,#N/A
+Vancouver Canucks,"Haines County, AK",02,100,02100
+Vancouver Canucks,"Ouachita County, AR",05,103,05103
+Vancouver Canucks,"Owyhee County, ID",16,073,16073
+Vancouver Canucks,"Wasco County, OR",41,065,41065
+Vancouver Canucks,"Shelby County, IA",19,117,19117
+Vancouver Canucks,"Benewah County, ID",16,009,16009
+Vancouver Canucks,"Jefferson County, OR",41,073,41073
+Vancouver Canucks,"Brooks County, GA",13,027,13027
+Vancouver Canucks,"Martinsville County, VA",51,000,51000
+Vegas Golden Knights,"Clark County, NV",32,019,32019
+Vegas Golden Knights,"Salt Lake County, UT",49,035,49035
+Vegas Golden Knights,"Washoe County, NV",32,031,32031
+Vegas Golden Knights,"Honolulu County, HI",15,003,15003
+Vegas Golden Knights,"Anchorage County, AK",02,020,02020
+Vegas Golden Knights,"Nye County, NV",32,023,32023
+Vegas Golden Knights,"Washington County, UT",49,129,49129
+Vegas Golden Knights,"Spokane County, WA",53,063,53063
+Vegas Golden Knights,"Mohave County, AZ",04,015,04015
+Vegas Golden Knights,"Ada County, ID",16,001,16001
+Vegas Golden Knights,"Utah County, UT",49,049,49049
+Vegas Golden Knights,"Davis County, UT",49,051,49051
+Vegas Golden Knights,"Flathead County, MT",30,029,30029
+Vegas Golden Knights,"Elko County, NV",32,007,32007
+Vegas Golden Knights,"Fairbanks North Star County, AK",02,090,02090
+Vegas Golden Knights,"Multnomah County, OR",41,051,41051
+Vegas Golden Knights,"Gallatin County, MT",30,059,30059
+Vegas Golden Knights,"Weber County, UT",49,057,49057
+Vegas Golden Knights,"Washington County, OR",41,129,41129
+Vegas Golden Knights,"Benton County, WA",53,007,53007
+Vegas Golden Knights,"Clark County, WA",53,019,53019
+Vegas Golden Knights,"Cascade County, MT",30,013,30013
+Vegas Golden Knights,"Bonneville County, ID",16,019,16019
+Vegas Golden Knights,"Summit County, UT",49,117,49117
+Vegas Golden Knights,"Missoula County, MT",30,063,30063
+Vegas Golden Knights,"Deschutes County, OR",41,017,41017
+Vegas Golden Knights,"Silver Bow County, MT",30,093,30093
+Vegas Golden Knights,"Teton County, WY",56,081,56081
+Vegas Golden Knights,"Matanuska-Susitna County, AK",02,170,02170
+Vegas Golden Knights,"Lewis and Clark County, MT",30,049,30049
+Vegas Golden Knights,"Franklin County, WA",53,059,53059
+Vegas Golden Knights,"Iron County, UT",49,071,49071
+Vegas Golden Knights,"Richland County, MT",30,159,30159
+Vegas Golden Knights,"Bannock County, ID",16,005,16005
+Vegas Golden Knights,"Lane County, OR",41,101,41101
+Vegas Golden Knights,"Kenai Peninsula County, AK",02,122,02122
+Vegas Golden Knights,"Clackamas County, OR",41,005,41005
+Vegas Golden Knights,"Jackson County, OR",41,071,41071
+Vegas Golden Knights,"Payne County, OK",40,119,40119
+Vegas Golden Knights,"Yakima County, WA",53,077,53077
+Vegas Golden Knights,"Lyon County, NV",32,119,32119
+Vegas Golden Knights,"Maui County, HI",15,009,15009
+Vegas Golden Knights,"Wasatch County, UT",49,051,49051
+Vegas Golden Knights,"Humboldt County, NV",32,023,32023
+Vegas Golden Knights,"Marion County, OR",41,093,41093
+Vegas Golden Knights,"Kootenai County, ID",16,055,16055
+Vegas Golden Knights,"Blaine County, ID",16,013,16013
+Vegas Golden Knights,"Jackson County, IA",19,071,19071
+Vegas Golden Knights,"White Pine County, NV",32,033,32033
+Vegas Golden Knights,"Canyon County, ID",16,027,16027
+Vegas Golden Knights,"Lake County, MT",30,033,30033
+Vegas Golden Knights,"Kauai County, HI",15,007,15007
+Vegas Golden Knights,"Box Elder County, UT",49,003,49003
+Vegas Golden Knights,"Lincoln County, WY",56,079,56079
+Vegas Golden Knights,"Valley County, MT",30,085,30085
+Vegas Golden Knights,"Cameron County, TX",48,023,48023
+Vegas Golden Knights,"Green County, WI",55,087,55087
+Vegas Golden Knights,"Union County, OR",41,139,41139
+Vegas Golden Knights,"Linn County, OR",41,113,41113
+Vegas Golden Knights,"Rolette County, ND",38,079,38079
+Vegas Golden Knights,"Lander County, NV",32,015,32015
+Vegas Golden Knights,"Juneau County, AK",02,057,02057
+Vegas Golden Knights,"Curry County, NM",35,009,35009
+Vegas Golden Knights,"Lincoln County, NV",32,079,32079
+Vegas Golden Knights,"Churchill County, NV",32,001,32001
+Vegas Golden Knights,"Dunn County, ND",38,025,38025
+Vegas Golden Knights,"Deer Lodge County, MT",30,023,30023
+Vegas Golden Knights,"Jefferson County, MT",30,073,30073
+Vegas Golden Knights,"Ketchikan Gateway County, AK",02,130,02130
+Vegas Golden Knights,"Webb County, TX",48,479,48479
+Vegas Golden Knights,"Karnes County, TX",48,255,48255
+Vegas Golden Knights,"San Patricio County, TX",48,409,48409
+Vegas Golden Knights,"Bonner County, ID",16,017,16017
+Vegas Golden Knights,"Latah County, ID",16,057,16057
+Vegas Golden Knights,"Park County, MT",30,093,30093
+Vegas Golden Knights,"Cowlitz County, WA",53,015,53015
+Vegas Golden Knights,"Roosevelt County, MT",30,085,30085
+Vegas Golden Knights,"Josephine County, OR",41,033,41033
+Vegas Golden Knights,"Pierce County, NE",31,229,31229
+Vegas Golden Knights,"Rosebud County, MT",30,087,30087
+Vegas Golden Knights,"McKinley County, NM",35,031,35031
+Vegas Golden Knights,"Coos County, OR",41,007,41007
+Vegas Golden Knights,"Marquette County, WI",55,103,55103
+Vegas Golden Knights,"Castro County, TX",48,069,48069
+Vegas Golden Knights,"Sevier County, UT",49,133,49133
+Vegas Golden Knights,"Saunders County, NE",31,155,31155
+Vegas Golden Knights,"Tooele County, UT",49,045,49045
+Vegas Golden Knights,"McClain County, OK",40,087,40087
+Vegas Golden Knights,"Decatur County, GA",13,087,13087
+Vegas Golden Knights,"Plymouth County, IA",19,149,19149
+Vegas Golden Knights,"Hancock County, IA",19,141,19141
+Vegas Golden Knights,"Clearwater County, ID",16,035,16035
+Vegas Golden Knights,"Carbon County, UT",49,009,49009
+Vegas Golden Knights,"Burke County, ND",38,033,38033
+Vegas Golden Knights,"Madison County, MT",30,089,30089
+Vegas Golden Knights,"Walworth County, SD",46,129,46129
+Vegas Golden Knights,"Hansford County, TX",48,195,48195
+Vegas Golden Knights,"Uinta County, WY",56,041,56041
+Vegas Golden Knights,"Spink County, SD",46,115,46115
+Vegas Golden Knights,"Columbia County, OR",41,027,41027
+Vegas Golden Knights,"Stillwater County, MT",30,095,30095
+Vegas Golden Knights,"Franklin County, ID",16,059,16059
+Vegas Golden Knights,"Dorado County, PR",72,#N/A,#N/A
+Vegas Golden Knights,"Hill County, MT",30,041,30041
+Vegas Golden Knights,"Andrews County, TX",48,003,48003
+Vegas Golden Knights,"Hendry County, FL",12,051,12051
+Vegas Golden Knights,"Douglas County, OR",41,035,41035
+Vegas Golden Knights,"Mahnomen County, MN",27,087,27087
+Vegas Golden Knights,"Norton County, KS",20,137,20137
+Vegas Golden Knights,"Benson County, ND",38,005,38005
+Vegas Golden Knights,"Fergus County, MT",30,027,30027
+Vegas Golden Knights,"Asotin County, WA",53,003,53003
+Vegas Golden Knights,"Red River County, LA",22,387,22387
+Vegas Golden Knights,"Beaverhead County, MT",30,001,30001
+Vegas Golden Knights,"Texas County, OK",40,215,40215
+Vegas Golden Knights,"Sanpete County, UT",49,039,49039
+Vegas Golden Knights,"Morgan County, UT",49,103,49103
+Vegas Golden Knights,"Hood River County, OR",41,027,41027
+Vegas Golden Knights,"Tucker County, WV",54,093,54093
+Vegas Golden Knights,"Wallowa County, OR",41,063,41063
+Vegas Golden Knights,"DeWitt County, TX",48,123,48123
+Vegas Golden Knights,"Fulton County, AR",05,049,05049
+Vegas Golden Knights,"Kane County, UT",49,089,49089
+Vegas Golden Knights,"Cherokee County, OK",40,019,40019
+Vegas Golden Knights,"Skamania County, WA",53,059,53059
+Vegas Golden Knights,"Eureka County, NV",32,011,32011
+Vegas Golden Knights,"Grant County, AR",05,053,05053
+Vegas Golden Knights,"Denali County, AK",02,068,02068
+Vegas Golden Knights,"Madison County, ID",16,089,16089
+Vegas Golden Knights,"Wheatland County, MT",30,107,30107
+Vegas Golden Knights,"Chicot County, AR",05,017,05017
+Vegas Golden Knights,"Stevens County, WA",53,189,53189
+Vegas Golden Knights,"Lafayette County, AR",05,073,05073
+Vegas Golden Knights,"Zapata County, TX",48,505,48505
+Vegas Golden Knights,"Beckham County, OK",40,009,40009
+Vegas Golden Knights,"Wahkiakum County, WA",53,069,53069
+Vegas Golden Knights,"Mills County, IA",19,129,19129
+Vegas Golden Knights,"Clatsop County, OR",41,007,41007
+Vegas Golden Knights,"Woodward County, OK",40,153,40153
+Vegas Golden Knights,"Baraga County, MI",26,013,26013
+Vegas Golden Knights,"Luna County, NM",35,029,35029
+Vegas Golden Knights,"Powell County, MT",30,197,30197
+Vegas Golden Knights,"Jefferson Davis County, LA",22,065,22065
+Vegas Golden Knights,"Alpine County, CA",06,003,06003
+Vegas Golden Knights,"Sweet Grass County, MT",30,097,30097
+Vegas Golden Knights,"Oneida County, ID",16,071,16071
+Vegas Golden Knights,"Henderson County, IL",17,071,17071
+Vegas Golden Knights,"Caribou County, ID",16,029,16029
+Vegas Golden Knights,"Simpson County, MS",28,213,28213
+Vegas Golden Knights,"Chouteau County, MT",30,015,30015
+Vegas Golden Knights,"Merrick County, NE",31,121,31121
+Vegas Golden Knights,"Lemhi County, ID",16,059,16059
+Vegas Golden Knights,"Buffalo County, SD",46,019,46019
+Vegas Golden Knights,"Webster County, LA",22,307,22307
+Vegas Golden Knights,"Kusilvak County, AK",02,158,02158
+Vegas Golden Knights,"Juab County, UT",49,023,49023
+Vegas Golden Knights,"Charles Mix County, SD",46,023,46023
+Vegas Golden Knights,"Fremont County, ID",16,043,16043
+Vegas Golden Knights,"Catron County, NM",35,003,35003
+Vegas Golden Knights,"East Feliciana County, LA",22,037,22037
+Vegas Golden Knights,"Pope County, IL",17,115,17115
+Vegas Golden Knights,"Crawford County, IA",19,033,19033
+Vegas Golden Knights,"San Jacinto County, TX",48,407,48407
+Vegas Golden Knights,"Turner County, SD",46,287,46287
+Vegas Golden Knights,"Polk County, NE",31,113,31113
+Vegas Golden Knights,"Blanco County, TX",48,031,48031
+Vegas Golden Knights,"Fallon County, MT",30,025,30025
+Vegas Golden Knights,"Nelson County, ND",38,179,38179
+Vegas Golden Knights,"Jayuya County, PR",72,#N/A,#N/A
+Vegas Golden Knights,"Franklin County, FL",12,059,12059
+Vegas Golden Knights,"Baker County, OR",41,003,41003
+Vegas Golden Knights,"Shoshone County, ID",16,079,16079
+Vegas Golden Knights,"Southeast Fairbanks County, AK",02,240,02240
+Vegas Golden Knights,"Emanuel County, GA",13,107,13107
+Vegas Golden Knights,"Rich County, UT",49,033,49033
+Vegas Golden Knights,"Stephens County, OK",40,257,40257
+Vegas Golden Knights,"Cowley County, KS",20,035,20035
+Vegas Golden Knights,"Major County, OK",40,093,40093
+Vegas Golden Knights,"Boise County, ID",16,015,16015
+Vegas Golden Knights,"Harmon County, OK",40,057,40057
+Vegas Golden Knights,"Thurston County, NE",31,173,31173
+Vegas Golden Knights,"Kidder County, ND",38,043,38043
+Vegas Golden Knights,"Dooly County, GA",13,093,13093
+Washington Capitals,"Fairfax County, VA",51,059,51059
+Washington Capitals,"Montgomery County, MD",24,101,24101
+Washington Capitals,"Anne Arundel County, MD",24,003,24003
+Washington Capitals,"District of Columbia County, DC",11,000,11000
+Washington Capitals,"Loudoun County, VA",51,107,51107
+Washington Capitals,"Arlington County, VA",51,013,51013
+Washington Capitals,"Prince William County, VA",51,153,51153
+Washington Capitals,"Baltimore County, MD",24,005,24005
+Washington Capitals,"Howard County, MD",24,061,24061
+Washington Capitals,"Frederick County, MD",24,021,24021
+Washington Capitals,"Alexandria County, VA",51,000,51000
+Washington Capitals,"Prince George's County, MD",24,033,24033
+Washington Capitals,"Baltimore County, MD",24,005,24005
+Washington Capitals,"Calvert County, MD",24,009,24009
+Washington Capitals,"Harford County, MD",24,025,24025
+Washington Capitals,"Charles County, MD",24,017,24017
+Washington Capitals,"Stafford County, VA",51,185,51185
+Washington Capitals,"St. Marys County, MD",24,000,24000
+Washington Capitals,"Henrico County, VA",51,087,51087
+Washington Capitals,"Carroll County, MD",24,015,24015
+Washington Capitals,"Spotsylvania County, VA",51,177,51177
+Washington Capitals,"Chesterfield County, VA",51,025,51025
+Washington Capitals,"Virginia Beach County, VA",51,810,51810
+Washington Capitals,"Fauquier County, VA",51,061,51061
+Washington Capitals,"Frederick County, VA",51,021,51021
+Washington Capitals,"Queen Anne's County, MD",24,035,24035
+Washington Capitals,"Washington County, MD",24,129,24129
+Washington Capitals,"Hanover County, VA",51,085,51085
+Washington Capitals,"Richmond County, VA",51,245,51245
+Washington Capitals,"Berkeley County, WV",54,015,54015
+Washington Capitals,"Albemarle County, VA",51,003,51003
+Washington Capitals,"Jefferson County, WV",54,073,54073
+Washington Capitals,"Chesapeake County, VA",51,550,51550
+Washington Capitals,"Wicomico County, MD",24,045,24045
+Washington Capitals,"Talbot County, MD",24,263,24263
+Washington Capitals,"Falls Church County, VA",51,610,51610
+Washington Capitals,"Manassas County, VA",51,000,51000
+Washington Capitals,"Warren County, VA",51,301,51301
+Washington Capitals,"James County, VA",51,095,51095
+Washington Capitals,"Culpeper County, VA",51,047,51047
+Washington Capitals,"Rockingham County, VA",51,015,51015
+Washington Capitals,"Worcester County, MD",24,047,24047
+Washington Capitals,"Norfolk County, VA",51,021,51021
+Washington Capitals,"Winchester County, VA",51,000,51000
+Washington Capitals,"Fredericksburg County, VA",51,000,51000
+Washington Capitals,"Newport News County, VA",51,700,51700
+Washington Capitals,"Shenandoah County, VA",51,171,51171
+Washington Capitals,"Clarke County, VA",51,025,51025
+Washington Capitals,"King George County, VA",51,099,51099
+Washington Capitals,"Roanoke County, VA",51,161,51161
+Washington Capitals,"Harrisonburg County, VA",51,660,51660
+Washington Capitals,"Orange County, VA",51,059,51059
+Washington Capitals,"Augusta County, VA",51,015,51015
+Washington Capitals,"Caroline County, VA",51,011,51011
+Washington Capitals,"Caroline County, MD",24,011,24011
+Washington Capitals,"Bedford County, VA",51,009,51009
+Washington Capitals,"King William County, VA",51,101,51101
+Washington Capitals,"Suffolk County, VA",51,025,51025
+Washington Capitals,"Dorchester County, MD",24,019,24019
+Washington Capitals,"Hampton County, VA",51,049,51049
+Washington Capitals,"York County, VA",51,031,51031
+Washington Capitals,"Prince George County, VA",51,149,51149
+Washington Capitals,"Lynchburg County, VA",51,680,51680
+Washington Capitals,"Powhatan County, VA",51,145,51145
+Washington Capitals,"Montgomery County, VA",51,101,51101
+Washington Capitals,"Waynesboro County, VA",51,000,51000
+Washington Capitals,"Roanoke County, VA",51,161,51161
+Washington Capitals,"Colonial Heights County, VA",51,570,51570
+Washington Capitals,"Portsmouth County, VA",51,000,51000
+Washington Capitals,"Page County, VA",51,145,51145
+Washington Capitals,"Goochland County, VA",51,075,51075
+Washington Capitals,"Northumberland County, VA",51,097,51097
+Washington Capitals,"Somerset County, MD",24,025,24025
+Washington Capitals,"Poquoson County, VA",51,735,51735
+Washington Capitals,"Gloucester County, VA",51,015,51015
+Washington Capitals,"Rappahannock County, VA",51,157,51157
+Washington Capitals,"Louisa County, VA",51,115,51115
+Washington Capitals,"New Kent County, VA",51,127,51127
+Washington Capitals,"Petersburg County, VA",51,195,51195
+Washington Capitals,"Madison County, VA",51,089,51089
+Washington Capitals,"Hopewell County, VA",51,021,51021
+Washington Capitals,"Covington County, VA",51,039,51039
+Washington Capitals,"Buckingham County, VA",51,029,51029
+Washington Capitals,"Isle of Wight County, VA",51,093,51093
+Washington Capitals,"Richmond County, GA",13,245,13245
+Washington Capitals,"Alleghany County, VA",51,005,51005
+Washington Capitals,"Hampshire County, WV",54,015,54015
+Washington Capitals,"Botetourt County, VA",51,023,51023
+Washington Capitals,"Morgan County, WV",54,103,54103
+Washington Capitals,"Mathews County, VA",51,115,51115
+Washington Capitals,"Nelson County, VA",51,179,51179
+Washington Capitals,"Bertie County, NC",37,015,37015
+Washington Capitals,"Elmore County, ID",16,051,16051
+Washington Capitals,"Lexington County, VA",51,063,51063
+Washington Capitals,"Mingo County, WV",54,059,54059
+Washington Capitals,"Essex County, VA",51,009,51009
+Washington Capitals,"Greene County, VA",51,063,51063
+Washington Capitals,"LaMoure County, ND",38,045,38045
+Washington Capitals,"Mora County, NM",35,033,35033
+Washington Capitals,"Perquimans County, NC",37,143,37143
+Washington Capitals,"Franklin County, GA",13,059,13059
+Washington Capitals,"Adair County, IA",19,001,19001
+Washington Capitals,"Idaho County, ID",16,049,16049
+Washington Capitals,"Lincoln County, MT",30,079,30079
+Washington Capitals,"Vermilion County, LA",22,183,22183
+Washington Capitals,"Rockbridge County, VA",51,163,51163
+Washington Capitals,"Clay County, TX",48,027,48027
+Washington Capitals,"Sutton County, TX",48,435,48435
+Washington Capitals,"Lamar County, GA",13,075,13075
+Washington Capitals,"Fayette County, AL",01,057,01057
+Washington Capitals,"Washington County, LA",22,129,22129
+Washington Capitals,"Caldwell County, TX",48,033,48033
+Washington Capitals,"Houston County, TX",48,069,48069
+Washington Capitals,"Johnston County, OK",40,101,40101
+Washington Capitals,"Itawamba County, MS",28,057,28057
+Washington Capitals,"Appomattox County, VA",51,011,51011
+Washington Capitals,"Sussex County, VA",51,005,51005
+Washington Capitals,"Toa Alta County, PR",72,#N/A,#N/A
+Winnipeg Jets,"Roseau County, MN",27,135,27135
+Winnipeg Jets,"Pembina County, ND",38,067,38067
+Winnipeg Jets,"Klickitat County, WA",53,039,53039
+Winnipeg Jets,"Steele County, ND",38,147,38147
+Winnipeg Jets,"Laurel County, KY",21,125,21125
+Winnipeg Jets,"East Carroll County, LA",22,035,22035

@@ -1,0 +1,2042 @@
+eventname	billing_country	fsa	gov_rank
+Edmonton Oilers	CA	000	1
+Toronto Maple Leafs	CA	001	1
+Winnipeg Jets	CA	002	1
+Montreal Canadiens	CA	003	1
+Edmonton Oilers	CA	004	1
+Montreal Canadiens	CA	005	1
+Vancouver Canucks	CA	006	1
+Ottawa Senators	CA	008	1
+Montreal Canadiens	CA	009	1
+Nashville Predators	CA	00A	1
+Nashville Predators	CA	00B	1
+Montreal Canadiens	CA	00E	1
+Florida Panthers	CA	00G	1
+Montreal Canadiens	CA	00H	1
+Florida Panthers	CA	00J	1
+Ottawa Senators	CA	00K	1
+Toronto Maple Leafs	CA	00L	1
+Toronto Maple Leafs	CA	00M	1
+Vegas Golden Knights	CA	00N	1
+Toronto Maple Leafs	CA	00P	1
+Winnipeg Jets	CA	00R	1
+Vegas Golden Knights	CA	00S	1
+Calgary Flames	CA	00T	1
+Vancouver Canucks	CA	00V	1
+Toronto Maple Leafs	CA	00X	1
+Vancouver Canucks	CA	00Y	1
+Toronto Maple Leafs	CA	010	1
+Vancouver Canucks	CA	012	1
+Montreal Canadiens	CA	013	1
+Montreal Canadiens	CA	018	1
+Vancouver Canucks	CA	020	1
+Vegas Golden Knights	CA	021	1
+Vancouver Canucks	CA	023	1
+Vancouver Canucks	CA	024	1
+Calgary Flames	CA	025	1
+Vancouver Canucks	CA	026	1
+Vancouver Canucks	CA	030	1
+Calgary Flames	CA	040	1
+Vancouver Canucks	CA	045	1
+Calgary Flames	CA	048	1
+Montreal Canadiens	CA	060	1
+New Jersey Devils	CA	070	1
+Philadelphia Flyers	CA	080	1
+Ottawa Senators	CA	087	1
+New Jersey Devils	CA	088	1
+Ottawa Senators	CA	092	1
+Toronto Maple Leafs	CA	093	1
+Montreal Canadiens	CA	0H2	1
+Winnipeg Jets Skills Competition	CA	0R3	1
+Toronto Maple Leafs	CA	100	1
+Vegas Golden Knights	CA	112	1
+Montreal Canadiens	CA	113	1
+Nashville Predators	CA	119	1
+Ottawa Senators	CA	122	1
+Florida Panthers	CA	123	1
+Toronto Maple Leafs	CA	129	1
+Arizona Coyotes	CA	131	1
+Ottawa Senators	CA	136	1
+Ottawa Senators	CA	140	1
+Buffalo Sabres	CA	143	1
+Philadelphia Flyers	CA	170	1
+Arizona Coyotes	CA	177	1
+Montreal Canadiens	CA	190	1
+Columbus Blue Jackets	CA	191	1
+Vancouver Canucks	CA	1B4	1
+Montreal Canadiens	CA	1KV	1
+Toronto Maple Leafs	CA	1LS	1
+Montreal Canadiens	CA	1M0	1
+Vancouver Canucks	CA	1P6	1
+Vancouver Canucks	CA	1X1	1
+Calgary Flames	CA	200	1
+Carolina Hurricanes	CA	206	1
+Montreal Canadiens	CA	234	1
+Calgary Flames	CA	24R	1
+Carolina Hurricanes	CA	295	1
+Vancouver Canucks	CA	2B9	1
+Calgary Flames	CA	2TB	1
+Montreal Canadiens	CA	2X5	1
+Montreal Canadiens	CA	300	1
+Edmonton Oilers	CA	308	1
+Ottawa Senators	CA	312	1
+Montreal Canadiens	CA	325	1
+Florida Panthers	CA	330	1
+Florida Panthers	CA	331	1
+Florida Panthers	CA	333	1
+Florida Panthers	CA	334	1
+Tampa Bay Lightning	CA	336	1
+Tampa Bay Lightning	CA	337	1
+Tampa Bay Lightning	CA	338	1
+Tampa Bay Lightning	CA	341	1
+Chicago Blackhawks	CA	342	1
+Florida Panthers	CA	349	1
+Edmonton Oilers	CA	361	1
+Vancouver Canucks	CA	36J	1
+Florida Panthers	CA	3GE	1
+Toronto Maple Leafs	CA	440	1
+Vancouver Canucks	CA	450	1
+Vancouver Canucks	CA	45J	1
+Detroit Red Wings	CA	481	1
+Detroit Red Wings	CA	482	1
+Detroit Red Wings	CA	483	1
+Montreal Canadiens	CA	497	1
+Montreal Canadiens	CA	508	1
+Toronto Maple Leafs	CA	537	1
+Vancouver Canucks	CA	544	1
+Minnesota Wild	CA	551	1
+Minnesota Wild	CA	554	1
+Montreal Canadiens	CA	556	1
+Winnipeg Jets	CA	557	1
+Calgary Flames	CA	559	1
+Tampa Bay Lightning	CA	567	1
+Toronto Maple Leafs	CA	570	1
+Florida Panthers	CA	582	1
+Vancouver Canucks	CA	600	1
+Toronto Maple Leafs	CA	606	1
+St. Louis Blues	CA	631	1
+Nashville Predators	CA	632	1
+St. Louis Blues	CA	633	1
+Vegas Golden Knights	CA	642	1
+Toronto Maple Leafs	CA	650	1
+Vancouver Canucks	CA	653	1
+Calgary Flames	CA	693	1
+Vancouver Canucks	CA	6B0	1
+Edmonton Oilers	CA	6T6	1
+Montreal Canadiens	CA	750	1
+Dallas Stars	CA	751	1
+Dallas Stars	CA	752	1
+Ottawa Senators	CA	770	1
+Vancouver Canucks	CA	791	1
+Colorado Avalanche	CA	801	1
+Montreal Canadiens	CA	802	1
+Tampa Bay Lightning	CA	80E	1
+Montreal Canadiens	CA	80P	1
+Arizona Coyotes	CA	817	1
+Arizona Coyotes	CA	850	1
+Arizona Coyotes	CA	852	1
+Arizona Coyotes	CA	853	1
+Arizona Coyotes	CA	857	1
+Dallas Stars	CA	871	1
+Florida Panthers	CA	891	1
+Montreal Canadiens	CA	900	1
+Los Angeles Kings	CA	903	1
+Chicago Blackhawks	CA	904	1
+Buffalo Sabres	CA	906	1
+Anaheim Ducks	CA	907	1
+Anaheim Ducks	CA	925	1
+Anaheim Ducks	CA	930	1
+Vancouver Canucks	CA	934	1
+Vancouver Canucks	CA	949	1
+Vancouver Canucks	CA	951	1
+Vancouver Canucks	CA	956	1
+Toronto Maple Leafs	CA	958	1
+Florida Panthers	CA	967	1
+Arizona Coyotes	CA	981	1
+Winnipeg Jets	CA	982	1
+Vancouver Canucks	CA	983	1
+Vancouver Canucks	CA	986	1
+Toronto Maple Leafs	CA	999	1
+Toronto Maple Leafs	CA	A0A	1
+Toronto Maple Leafs	CA	A0B	1
+Montreal Canadiens	CA	A0C	1
+Montreal Canadiens	CA	A0E	1
+Montreal Canadiens	CA	A0G	1
+Montreal Canadiens	CA	A0H	1
+Toronto Maple Leafs	CA	A0J	1
+Montreal Canadiens	CA	A0K	1
+Toronto Maple Leafs	CA	A0L	1
+Toronto Maple Leafs	CA	A0M	1
+Montreal Canadiens	CA	A0N	1
+Montreal Canadiens	CA	A0P	1
+Montreal Canadiens	CA	A0R	1
+Montreal Canadiens	CA	A1A	1
+Montreal Canadiens	CA	A1B	1
+Montreal Canadiens	CA	A1C	1
+Toronto Maple Leafs	CA	A1E	1
+Toronto Maple Leafs	CA	A1G	1
+Tampa Bay Lightning	CA	A1H	1
+Montreal Canadiens	CA	A1K	1
+Montreal Canadiens	CA	A1L	1
+Toronto Maple Leafs	CA	A1M	1
+Montreal Canadiens	CA	A1N	1
+Montreal Canadiens	CA	A1S	1
+Montreal Canadiens	CA	A1V	1
+Tampa Bay Lightning	CA	A1W	1
+Montreal Canadiens	CA	A1X	1
+Toronto Maple Leafs	CA	A1Y	1
+Toronto Maple Leafs	CA	A2A	1
+Toronto Maple Leafs	CA	A2B	1
+Toronto Maple Leafs	CA	A2H	1
+Montreal Canadiens	CA	A2N	1
+Montreal Canadiens	CA	A2V	1
+Montreal Canadiens	CA	A5A	1
+Montreal Canadiens	CA	A5V	1
+Edmonton Oilers	CA	A6V	1
+Toronto Maple Leafs	CA	A8A	1
+Calgary Flames	CA	ALB	1
+Montreal Canadiens	CA	AOA	1
+Boston Bruins	CA	AOE	1
+Montreal Canadiens	CA	AOP	1
+Edmonton Oilers	CA	AOR	1
+Montreal Canadiens	CA	B0C	1
+Montreal Canadiens	CA	B0E	1
+Toronto Maple Leafs	CA	B0H	1
+Montreal Canadiens	CA	B0J	1
+Montreal Canadiens	CA	B0K	1
+Ottawa Senators	CA	B0L	1
+Montreal Canadiens	CA	B0M	1
+Montreal Canadiens	CA	B0N	1
+Toronto Maple Leafs	CA	B0P	1
+Toronto Maple Leafs	CA	B0R	1
+Montreal Canadiens	CA	B0S	1
+Montreal Canadiens	CA	B0T	1
+Ottawa Senators	CA	B0V	1
+Montreal Canadiens	CA	B0W	1
+Montreal Canadiens	CA	B1A	1
+Vegas Golden Knights	CA	B1B	1
+Toronto Maple Leafs	CA	B1C	1
+Montreal Canadiens	CA	B1E	1
+Pittsburgh Penguins	CA	B1G	1
+Montreal Canadiens	CA	B1H	1
+Tampa Bay Lightning	CA	B1J	1
+Montreal Canadiens	CA	B1K	1
+Boston Bruins	CA	B1L	1
+Ottawa Senators	CA	B1M	1
+Montreal Canadiens	CA	B1N	1
+Montreal Canadiens	CA	B1P	1
+Boston Bruins	CA	B1R	1
+Tampa Bay Lightning	CA	B1S	1
+Vancouver Canucks	CA	B1T	1
+Montreal Canadiens	CA	B1V	1
+Boston Bruins	CA	B1W	1
+Toronto Maple Leafs	CA	B1X	1
+Montreal Canadiens	CA	B1Y	1
+Montreal Canadiens	CA	B2A	1
+Anaheim Ducks	CA	B2B	1
+Tampa Bay Lightning	CA	B2G	1
+Montreal Canadiens	CA	B2H	1
+St. Louis Blues	CA	B2K	1
+Montreal Canadiens	CA	B2N	1
+Boston Bruins	CA	B2R	1
+Montreal Canadiens	CA	B2S	1
+Montreal Canadiens	CA	B2T	1
+Montreal Canadiens	CA	B2V	1
+Montreal Canadiens	CA	B2W	1
+Tampa Bay Lightning	CA	B2X	1
+Montreal Canadiens	CA	B2Y	1
+Montreal Canadiens	CA	B2Z	1
+Montreal Canadiens	CA	B3A	1
+Montreal Canadiens	CA	B3B	1
+Montreal Canadiens	CA	B3E	1
+Montreal Canadiens	CA	B3G	1
+Montreal Canadiens	CA	B3H	1
+Montreal Canadiens	CA	B3J	1
+Montreal Canadiens	CA	B3K	1
+Montreal Canadiens	CA	B3L	1
+Toronto Maple Leafs	CA	B3M	1
+Montreal Canadiens	CA	B3N	1
+Montreal Canadiens	CA	B3P	1
+Boston Bruins	CA	B3R	1
+Montreal Canadiens	CA	B3S	1
+Montreal Canadiens	CA	B3T	1
+Toronto Maple Leafs	CA	B3V	1
+New Jersey Devils	CA	B3Y	1
+Montreal Canadiens	CA	B3Z	1
+Tampa Bay Lightning	CA	B4A	1
+Montreal Canadiens	CA	B4B	1
+Montreal Canadiens	CA	B4C	1
+Montreal Canadiens	CA	B4E	1
+Montreal Canadiens	CA	B4G	1
+Montreal Canadiens	CA	B4H	1
+Vegas Golden Knights	CA	B4M	1
+Nashville Predators	CA	B4N	1
+Ottawa Senators	CA	B4P	1
+Montreal Canadiens	CA	B4R	1
+Montreal Canadiens	CA	B4V	1
+Tampa Bay Lightning	CA	B4W	1
+Montreal Canadiens	CA	B4Y	1
+Montreal Canadiens	CA	B5A	1
+Montreal Canadiens	CA	B6L	1
+Vancouver Canucks	CA	B6X	1
+Montreal Canadiens	CA	B9A	1
+Florida Panthers	CA	B9K	1
+Vancouver Canucks	CA	B9W	1
+Montreal Canadiens	CA	BCA	1
+Vancouver Canucks	CA	BCV	1
+Buffalo Sabres	CA	BOE	1
+Vancouver Canucks	CA	BON	1
+Ottawa Senators	CA	BOT	1
+Montreal Canadiens	CA	BOW	1
+Montreal Canadiens	CA	C0A	1
+Toronto Maple Leafs	CA	C0B	1
+Toronto Maple Leafs	CA	C0C	1
+Montreal Canadiens	CA	C18	1
+Montreal Canadiens	CA	C1A	1
+Montreal Canadiens	CA	C1B	1
+Toronto Maple Leafs	CA	C1C	1
+Montreal Canadiens	CA	C1E	1
+Montreal Canadiens	CA	C1G	1
+Montreal Canadiens	CA	C1N	1
+Arizona Coyotes	CA	C2C	1
+Ottawa Senators	CA	C2N	1
+Vancouver Canucks	CA	CAN	1
+Montreal Canadiens	CA	COA	1
+Montreal Canadiens	CA	D0W	1
+Tampa Bay Lightning	CA	D1D	1
+Vancouver Canucks	CA	D6A	1
+Vegas Golden Knights	CA	D9T	1
+Vancouver Canucks	CA	DOH	1
+Nashville Predators	CA	E0B	1
+Montreal Canadiens	CA	E1A	1
+Montreal Canadiens	CA	E1B	1
+Montreal Canadiens	CA	E1C	1
+Montreal Canadiens	CA	E1E	1
+Montreal Canadiens	CA	E1G	1
+Montreal Canadiens	CA	E1H	1
+Boston Bruins	CA	E1J	1
+Montreal Canadiens	CA	E1N	1
+Montreal Canadiens	CA	E1V	1
+Montreal Canadiens	CA	E1W	1
+Montreal Canadiens	CA	E1X	1
+Montreal Canadiens	CA	E2A	1
+Montreal Canadiens	CA	E2E	1
+Montreal Canadiens	CA	E2G	1
+Boston Bruins	CA	E2H	1
+Montreal Canadiens	CA	E2J	1
+Boston Bruins	CA	E2K	1
+Montreal Canadiens	CA	E2L	1
+Boston Bruins	CA	E2M	1
+Montreal Canadiens	CA	E2N	1
+Boston Bruins	CA	E2P	1
+Toronto Maple Leafs	CA	E2S	1
+Montreal Canadiens	CA	E2V	1
+Montreal Canadiens	CA	E3A	1
+Montreal Canadiens	CA	E3B	1
+Montreal Canadiens	CA	E3C	1
+Boston Bruins	CA	E3E	1
+Montreal Canadiens	CA	E3G	1
+Montreal Canadiens	CA	E3L	1
+Montreal Canadiens	CA	E3N	1
+Montreal Canadiens	CA	E3V	1
+Montreal Canadiens	CA	E3Y	1
+Toronto Maple Leafs	CA	E3Z	1
+Montreal Canadiens	CA	E4A	1
+Montreal Canadiens	CA	E4B	1
+Montreal Canadiens	CA	E4C	1
+Montreal Canadiens	CA	E4E	1
+Toronto Maple Leafs	CA	E4G	1
+Boston Bruins	CA	E4H	1
+Montreal Canadiens	CA	E4J	1
+Tampa Bay Lightning	CA	E4K	1
+Montreal Canadiens	CA	E4L	1
+Montreal Canadiens	CA	E4M	1
+Tampa Bay Lightning	CA	E4N	1
+Montreal Canadiens	CA	E4P	1
+Toronto Maple Leafs	CA	E4R	1
+Montreal Canadiens	CA	E4S	1
+Ottawa Senators	CA	E4T	1
+Montreal Canadiens	CA	E4V	1
+Montreal Canadiens	CA	E4W	1
+Ottawa Senators	CA	E4X	1
+Montreal Canadiens	CA	E4Y	1
+Boston Bruins	CA	E4Z	1
+Boston Bruins	CA	E5A	1
+Montreal Canadiens	CA	E5B	1
+Boston Bruins	CA	E5C	1
+New Jersey Devils	CA	E5E	1
+Montreal Canadiens	CA	E5G	1
+Boston Bruins	CA	E5H	1
+Boston Bruins	CA	E5J	1
+Montreal Canadiens	CA	E5K	1
+Montreal Canadiens	CA	E5L	1
+Montreal Canadiens	CA	E5M	1
+Montreal Canadiens	CA	E5N	1
+Montreal Canadiens	CA	E5P	1
+Montreal Canadiens	CA	E5R	1
+Montreal Canadiens	CA	E5S	1
+Montreal Canadiens	CA	E5T	1
+Boston Bruins	CA	E5V	1
+Arizona Coyotes	CA	E6A	1
+Boston Bruins	CA	E6B	1
+Nashville Predators	CA	E6C	1
+Boston Bruins	CA	E6E	1
+Montreal Canadiens	CA	E6G	1
+Boston Bruins	CA	E6H	1
+Toronto Maple Leafs	CA	E6J	1
+Boston Bruins	CA	E6K	1
+Tampa Bay Lightning	CA	E6L	1
+Montreal Canadiens	CA	E7A	1
+Montreal Canadiens	CA	E7B	1
+Montreal Canadiens	CA	E7C	1
+Montreal Canadiens	CA	E7E	1
+Boston Bruins	CA	E7G	1
+Boston Bruins	CA	E7H	1
+Toronto Maple Leafs	CA	E7J	1
+Vegas Golden Knights	CA	E7K	1
+Montreal Canadiens	CA	E7L	1
+Boston Bruins	CA	E7M	1
+Boston Bruins	CA	E7N	1
+Tampa Bay Lightning	CA	E7P	1
+Montreal Canadiens	CA	E8A	1
+Montreal Canadiens	CA	E8B	1
+Boston Bruins	CA	E8C	1
+Montreal Canadiens	CA	E8E	1
+Montreal Canadiens	CA	E8G	1
+Montreal Canadiens	CA	E8J	1
+Montreal Canadiens	CA	E8K	1
+Montreal Canadiens	CA	E8M	1
+Nashville Predators	CA	E8N	1
+Montreal Canadiens	CA	E8P	1
+Montreal Canadiens	CA	E8R	1
+Montreal Canadiens	CA	E8S	1
+Montreal Canadiens	CA	E8T	1
+Montreal Canadiens	CA	E9A	1
+Montreal Canadiens	CA	E9B	1
+Montreal Canadiens	CA	E9C	1
+Vegas Golden Knights	CA	E9E	1
+Boston Bruins	CA	E9G	1
+Toronto Maple Leafs	CA	E9H	1
+Montreal Canadiens	CA	EVE	1
+Edmonton Oilers	CA	F4R	1
+Calgary Flames	CA	F7J	1
+Toronto Maple Leafs	CA	F7K	1
+Edmonton Oilers	CA	F9V	1
+Montreal Canadiens	CA	G0A	1
+Montreal Canadiens	CA	G0C	1
+Montreal Canadiens	CA	G0E	1
+Montreal Canadiens	CA	G0G	1
+Montreal Canadiens	CA	G0H	1
+Montreal Canadiens	CA	G0J	1
+Vegas Golden Knights	CA	G0K	1
+Montreal Canadiens	CA	G0L	1
+Vegas Golden Knights	CA	G0M	1
+Montreal Canadiens	CA	G0N	1
+Montreal Canadiens	CA	G0P	1
+Ottawa Senators	CA	G0Q	1
+Montreal Canadiens	CA	G0R	1
+Montreal Canadiens	CA	G0S	1
+Montreal Canadiens	CA	G0T	1
+Montreal Canadiens	CA	G0V	1
+Montreal Canadiens	CA	G0W	1
+Montreal Canadiens	CA	G0X	1
+Montreal Canadiens	CA	G0Y	1
+Florida Panthers	CA	G0Z	1
+Montreal Canadiens	CA	G1B	1
+Boston Bruins	CA	G1C	1
+Montreal Canadiens	CA	G1E	1
+Montreal Canadiens	CA	G1G	1
+Montreal Canadiens	CA	G1H	1
+Vegas Golden Knights	CA	G1J	1
+Montreal Canadiens	CA	G1K	1
+Boston Bruins	CA	G1L	1
+Vegas Golden Knights	CA	G1M	1
+Winnipeg Jets	CA	G1N	1
+Vegas Golden Knights	CA	G1P	1
+Vegas Golden Knights	CA	G1R	1
+Montreal Canadiens	CA	G1S	1
+Ottawa Senators	CA	G1T	1
+Montreal Canadiens	CA	G1V	1
+Florida Panthers	CA	G1W	1
+Vegas Golden Knights	CA	G1X	1
+Florida Panthers	CA	G1Y	1
+Montreal Canadiens	CA	G2A	1
+Boston Bruins	CA	G2B	1
+Buffalo Sabres	CA	G2C	1
+Florida Panthers	CA	G2E	1
+Montreal Canadiens	CA	G2G	1
+Vegas Golden Knights	CA	G2J	1
+Montreal Canadiens	CA	G2K	1
+Montreal Canadiens	CA	G2L	1
+Montreal Canadiens	CA	G2M	1
+Vegas Golden Knights	CA	G2N	1
+Montreal Canadiens	CA	G3A	1
+Vegas Golden Knights	CA	G3B	1
+Vegas Golden Knights	CA	G3C	1
+Montreal Canadiens	CA	G3E	1
+Montreal Canadiens	CA	G3G	1
+Montreal Canadiens	CA	G3H	1
+Montreal Canadiens	CA	G3J	1
+Montreal Canadiens	CA	G3K	1
+Montreal Canadiens	CA	G3L	1
+New York Rangers	CA	G3M	1
+Washington Capitals	CA	G3N	1
+Vegas Golden Knights	CA	G3S	1
+Montreal Canadiens	CA	G3Z	1
+Toronto Maple Leafs	CA	G4A	1
+Montreal Canadiens	CA	G4R	1
+Philadelphia Flyers	CA	G4S	1
+Montreal Canadiens	CA	G4T	1
+Montreal Canadiens	CA	G4V	1
+Montreal Canadiens	CA	G4W	1
+Montreal Canadiens	CA	G4X	1
+Florida Panthers	CA	G4Z	1
+Florida Panthers	CA	G5A	1
+Montreal Canadiens	CA	G5B	1
+Montreal Canadiens	CA	G5C	1
+New York Rangers	CA	G5H	1
+Montreal Canadiens	CA	G5J	1
+Florida Panthers	CA	G5K	1
+Montreal Canadiens	CA	G5L	1
+Montreal Canadiens	CA	G5M	1
+Ottawa Senators	CA	G5N	1
+Montreal Canadiens	CA	G5R	1
+Ottawa Senators	CA	G5T	1
+Nashville Predators	CA	G5V	1
+Montreal Canadiens	CA	G5X	1
+Montreal Canadiens	CA	G5Y	1
+Montreal Canadiens	CA	G5Z	1
+Calgary Flames	CA	G6A	1
+Winnipeg Jets	CA	G6B	1
+Vegas Golden Knights	CA	G6C	1
+Montreal Canadiens	CA	G6E	1
+Montreal Canadiens	CA	G6G	1
+Vegas Golden Knights	CA	G6H	1
+Vegas Golden Knights	CA	G6J	1
+Montreal Canadiens	CA	G6K	1
+Calgary Flames	CA	G6L	1
+Montreal Canadiens	CA	G6P	1
+Montreal Canadiens	CA	G6R	1
+Montreal Canadiens	CA	G6S	1
+Montreal Canadiens	CA	G6T	1
+Montreal Canadiens	CA	G6V	1
+Montreal Canadiens	CA	G6W	1
+Montreal Canadiens	CA	G6X	1
+Florida Panthers	CA	G6Y	1
+Montreal Canadiens	CA	G6Z	1
+Montreal Canadiens	CA	G7A	1
+New York Rangers	CA	G7B	1
+Florida Panthers	CA	G7C	1
+Montreal Canadiens	CA	G7G	1
+Montreal Canadiens	CA	G7H	1
+Montreal Canadiens	CA	G7J	1
+Montreal Canadiens	CA	G7N	1
+Florida Panthers	CA	G7P	1
+Vancouver Canucks	CA	G7R	1
+Vegas Golden Knights	CA	G7S	1
+Chicago Blackhawks	CA	G7T	1
+Montreal Canadiens	CA	G7X	1
+Boston Bruins	CA	G7Z	1
+Montreal Canadiens	CA	G8A	1
+Florida Panthers	CA	G8B	1
+Montreal Canadiens	CA	G8C	1
+Montreal Canadiens	CA	G8E	1
+Ottawa Senators	CA	G8G	1
+Montreal Canadiens	CA	G8H	1
+Montreal Canadiens	CA	G8J	1
+New York Rangers	CA	G8K	1
+Florida Panthers	CA	G8L	1
+Montreal Canadiens	CA	G8M	1
+Florida Panthers	CA	G8N	1
+Chicago Blackhawks	CA	G8P	1
+Montreal Canadiens	CA	G8T	1
+Montreal Canadiens	CA	G8V	1
+Florida Panthers	CA	G8W	1
+Montreal Canadiens	CA	G8Y	1
+Montreal Canadiens	CA	G8Z	1
+Montreal Canadiens	CA	G9A	1
+Vegas Golden Knights	CA	G9B	1
+Montreal Canadiens	CA	G9C	1
+Vegas Golden Knights	CA	G9H	1
+Montreal Canadiens	CA	G9N	1
+Vegas Golden Knights	CA	G9P	1
+Vegas Golden Knights	CA	G9R	1
+New York Rangers	CA	G9T	1
+Florida Panthers	CA	G9X	1
+Montreal Canadiens	CA	GOA	1
+Montreal Canadiens	CA	GOC	1
+Montreal Canadiens	CA	GOL	1
+Montreal Canadiens	CA	GOV	1
+Montreal Canadiens	CA	GOW	1
+Montreal Canadiens	CA	GOX	1
+Philadelphia Flyers	CA	GT6	1
+Montreal Canadiens	CA	H 4	1
+Winnipeg Jets	CA	H0H	1
+Ottawa Senators	CA	H0M	1
+Montreal Canadiens	CA	H1A	1
+Montreal Canadiens	CA	H1B	1
+Montreal Canadiens	CA	H1C	1
+Montreal Canadiens	CA	H1E	1
+Montreal Canadiens	CA	H1G	1
+Montreal Canadiens	CA	H1H	1
+Montreal Canadiens	CA	H1J	1
+Montreal Canadiens	CA	H1K	1
+Montreal Canadiens	CA	H1L	1
+Montreal Canadiens	CA	H1M	1
+Montreal Canadiens	CA	H1N	1
+Montreal Canadiens	CA	H1P	1
+Montreal Canadiens	CA	H1R	1
+Montreal Canadiens	CA	H1S	1
+Montreal Canadiens	CA	H1T	1
+Montreal Canadiens	CA	H1V	1
+Montreal Canadiens	CA	H1W	1
+Montreal Canadiens	CA	H1X	1
+Montreal Canadiens	CA	H1Y	1
+Montreal Canadiens	CA	H1Z	1
+Montreal Canadiens	CA	H22	1
+Montreal Canadiens	CA	H2A	1
+Montreal Canadiens	CA	H2B	1
+Montreal Canadiens	CA	H2C	1
+Montreal Canadiens	CA	H2E	1
+Montreal Canadiens	CA	H2G	1
+Montreal Canadiens	CA	H2H	1
+Montreal Canadiens	CA	H2J	1
+Montreal Canadiens	CA	H2K	1
+Montreal Canadiens	CA	H2L	1
+Montreal Canadiens	CA	H2M	1
+Anaheim Ducks	CA	H2N	1
+Montreal Canadiens	CA	H2P	1
+Montreal Canadiens	CA	H2R	1
+Montreal Canadiens	CA	H2S	1
+Montreal Canadiens	CA	H2T	1
+Montreal Canadiens	CA	H2V	1
+Montreal Canadiens	CA	H2W	1
+Montreal Canadiens	CA	H2X	1
+Montreal Canadiens	CA	H2Y	1
+Montreal Canadiens	CA	H2Z	1
+Montreal Canadiens	CA	H3A	1
+Montreal Canadiens	CA	H3B	1
+Montreal Canadiens	CA	H3C	1
+Montreal Canadiens	CA	H3E	1
+Montreal Canadiens	CA	H3G	1
+Montreal Canadiens	CA	H3H	1
+Montreal Canadiens	CA	H3J	1
+Montreal Canadiens	CA	H3K	1
+Montreal Canadiens	CA	H3L	1
+Montreal Canadiens	CA	H3M	1
+Montreal Canadiens	CA	H3N	1
+Montreal Canadiens	CA	H3P	1
+Montreal Canadiens	CA	H3R	1
+Montreal Canadiens	CA	H3S	1
+Montreal Canadiens	CA	H3T	1
+Montreal Canadiens	CA	H3V	1
+Montreal Canadiens	CA	H3W	1
+Montreal Canadiens	CA	H3X	1
+Montreal Canadiens	CA	H3Y	1
+Montreal Canadiens	CA	H3Z	1
+Montreal Canadiens	CA	H4A	1
+Montreal Canadiens	CA	H4B	1
+Montreal Canadiens	CA	H4C	1
+Montreal Canadiens	CA	H4E	1
+Montreal Canadiens	CA	H4G	1
+Montreal Canadiens	CA	H4H	1
+Montreal Canadiens	CA	H4J	1
+Montreal Canadiens	CA	H4K	1
+Montreal Canadiens	CA	H4L	1
+Montreal Canadiens	CA	H4M	1
+Montreal Canadiens	CA	H4N	1
+Vancouver Canucks	CA	H4P	1
+Montreal Canadiens	CA	H4R	1
+Montreal Canadiens	CA	H4S	1
+Montreal Canadiens	CA	H4T	1
+Montreal Canadiens	CA	H4V	1
+Montreal Canadiens	CA	H4W	1
+Montreal Canadiens	CA	H4X	1
+Montreal Canadiens	CA	H4Z	1
+Vegas Golden Knights	CA	H5A	1
+Montreal Canadiens	CA	H5B	1
+Montreal Canadiens	CA	H7A	1
+Boston Bruins	CA	H7B	1
+Montreal Canadiens	CA	H7C	1
+Montreal Canadiens	CA	H7E	1
+Montreal Canadiens	CA	H7G	1
+Vegas Golden Knights	CA	H7H	1
+Montreal Canadiens	CA	H7J	1
+Montreal Canadiens	CA	H7K	1
+Montreal Canadiens	CA	H7L	1
+Montreal Canadiens	CA	H7M	1
+Montreal Canadiens	CA	H7N	1
+Montreal Canadiens	CA	H7P	1
+Montreal Canadiens	CA	H7R	1
+Montreal Canadiens	CA	H7S	1
+Montreal Canadiens	CA	H7T	1
+Montreal Canadiens	CA	H7V	1
+Montreal Canadiens	CA	H7W	1
+Montreal Canadiens	CA	H7X	1
+Montreal Canadiens	CA	H7Y	1
+Montreal Canadiens	CA	H8H	1
+Montreal Canadiens	CA	H8N	1
+Montreal Canadiens	CA	H8P	1
+Montreal Canadiens	CA	H8R	1
+Montreal Canadiens	CA	H8S	1
+Montreal Canadiens	CA	H8T	1
+Montreal Canadiens	CA	H8Y	1
+Montreal Canadiens	CA	H8Z	1
+Montreal Canadiens	CA	H9A	1
+Montreal Canadiens	CA	H9B	1
+Montreal Canadiens	CA	H9C	1
+Montreal Canadiens	CA	H9E	1
+Montreal Canadiens	CA	H9G	1
+Montreal Canadiens	CA	H9H	1
+Montreal Canadiens	CA	H9J	1
+Montreal Canadiens	CA	H9K	1
+Montreal Canadiens	CA	H9P	1
+Montreal Canadiens	CA	H9R	1
+Montreal Canadiens	CA	H9S	1
+Montreal Canadiens	CA	H9W	1
+Montreal Canadiens	CA	H9X	1
+Montreal Canadiens	CA	HEW	1
+Montreal Canadiens	CA	HH3	1
+Philadelphia Flyers	CA	HTC	1
+Montreal Canadiens	CA	J0A	1
+Montreal Canadiens	CA	J0B	1
+Montreal Canadiens	CA	J0C	1
+Montreal Canadiens	CA	J0E	1
+Montreal Canadiens	CA	J0F	1
+Montreal Canadiens	CA	J0G	1
+Montreal Canadiens	CA	J0H	1
+Montreal Canadiens	CA	J0J	1
+Montreal Canadiens	CA	J0K	1
+Montreal Canadiens	CA	J0L	1
+Montreal Canadiens	CA	J0M	1
+Montreal Canadiens	CA	J0N	1
+Montreal Canadiens	CA	J0P	1
+Montreal Canadiens	CA	J0R	1
+Montreal Canadiens	CA	J0S	1
+Montreal Canadiens	CA	J0T	1
+Montreal Canadiens	CA	J0V	1
+Boston Bruins	CA	J0W	1
+Ottawa Senators	CA	J0X	1
+Montreal Canadiens	CA	J0Y	1
+Montreal Canadiens	CA	J0Z	1
+Vegas Golden Knights	CA	J1A	1
+Vegas Golden Knights	CA	J1C	1
+Montreal Canadiens	CA	J1E	1
+Montreal Canadiens	CA	J1G	1
+Montreal Canadiens	CA	J1H	1
+Florida Panthers	CA	J1J	1
+Montreal Canadiens	CA	J1K	1
+Montreal Canadiens	CA	J1L	1
+Montreal Canadiens	CA	J1M	1
+Montreal Canadiens	CA	J1N	1
+Montreal Canadiens	CA	J1R	1
+Montreal Canadiens	CA	J1S	1
+Montreal Canadiens	CA	J1T	1
+Montreal Canadiens	CA	J1V	1
+Boston Bruins	CA	J1X	1
+New York Rangers	CA	J1Z	1
+Montreal Canadiens	CA	J2A	1
+Montreal Canadiens	CA	J2B	1
+Montreal Canadiens	CA	J2C	1
+Vegas Golden Knights	CA	J2E	1
+Montreal Canadiens	CA	J2G	1
+Montreal Canadiens	CA	J2H	1
+Montreal Canadiens	CA	J2J	1
+Montreal Canadiens	CA	J2K	1
+Montreal Canadiens	CA	J2L	1
+Montreal Canadiens	CA	J2M	1
+Florida Panthers	CA	J2N	1
+Montreal Canadiens	CA	J2R	1
+Montreal Canadiens	CA	J2S	1
+Montreal Canadiens	CA	J2T	1
+Montreal Canadiens	CA	J2W	1
+Montreal Canadiens	CA	J2X	1
+Montreal Canadiens	CA	J2Y	1
+Montreal Canadiens	CA	J3A	1
+Montreal Canadiens	CA	J3B	1
+Montreal Canadiens	CA	J3E	1
+Montreal Canadiens	CA	J3G	1
+Montreal Canadiens	CA	J3H	1
+Montreal Canadiens	CA	J3L	1
+Montreal Canadiens	CA	J3M	1
+Montreal Canadiens	CA	J3N	1
+Montreal Canadiens	CA	J3P	1
+Chicago Blackhawks	CA	J3R	1
+Boston Bruins	CA	J3T	1
+Montreal Canadiens	CA	J3V	1
+Montreal Canadiens	CA	J3X	1
+Montreal Canadiens	CA	J3Y	1
+Montreal Canadiens	CA	J3Z	1
+Montreal Canadiens	CA	J4B	1
+Montreal Canadiens	CA	J4G	1
+Montreal Canadiens	CA	J4H	1
+Montreal Canadiens	CA	J4J	1
+Montreal Canadiens	CA	J4K	1
+Montreal Canadiens	CA	J4L	1
+Montreal Canadiens	CA	J4M	1
+Montreal Canadiens	CA	J4N	1
+Montreal Canadiens	CA	J4P	1
+Montreal Canadiens	CA	J4R	1
+Montreal Canadiens	CA	J4S	1
+Montreal Canadiens	CA	J4T	1
+Montreal Canadiens	CA	J4V	1
+Montreal Canadiens	CA	J4W	1
+Montreal Canadiens	CA	J4X	1
+Montreal Canadiens	CA	J4Y	1
+Montreal Canadiens	CA	J4Z	1
+Montreal Canadiens	CA	J5A	1
+Ottawa Senators	CA	J5B	1
+Montreal Canadiens	CA	J5C	1
+Montreal Canadiens	CA	J5J	1
+Tampa Bay Lightning	CA	J5K	1
+Montreal Canadiens	CA	J5L	1
+Montreal Canadiens	CA	J5M	1
+Montreal Canadiens	CA	J5R	1
+Nashville Predators	CA	J5T	1
+Tampa Bay Lightning	CA	J5V	1
+Vegas Golden Knights	CA	J5W	1
+Chicago Blackhawks	CA	J5X	1
+Montreal Canadiens	CA	J5Y	1
+Montreal Canadiens	CA	J5Z	1
+Montreal Canadiens	CA	J6A	1
+Montreal Canadiens	CA	J6E	1
+Montreal Canadiens	CA	J6J	1
+Montreal Canadiens	CA	J6K	1
+Montreal Canadiens	CA	J6N	1
+Montreal Canadiens	CA	J6R	1
+Montreal Canadiens	CA	J6S	1
+Montreal Canadiens	CA	J6T	1
+Montreal Canadiens	CA	J6V	1
+Montreal Canadiens	CA	J6W	1
+Montreal Canadiens	CA	J6X	1
+Montreal Canadiens	CA	J6Y	1
+Montreal Canadiens	CA	J6Z	1
+Nashville Predators	CA	J7A	1
+Montreal Canadiens	CA	J7B	1
+Montreal Canadiens	CA	J7C	1
+Montreal Canadiens	CA	J7E	1
+Montreal Canadiens	CA	J7G	1
+The NHL 100	CA	J7H	1
+Montreal Canadiens	CA	J7J	1
+Montreal Canadiens	CA	J7K	1
+Montreal Canadiens	CA	J7L	1
+Vegas Golden Knights	CA	J7M	1
+Montreal Canadiens	CA	J7N	1
+Montreal Canadiens	CA	J7P	1
+Montreal Canadiens	CA	J7R	1
+Montreal Canadiens	CA	J7T	1
+Montreal Canadiens	CA	J7V	1
+Montreal Canadiens	CA	J7W	1
+Vegas Golden Knights	CA	J7X	1
+Montreal Canadiens	CA	J7Y	1
+Montreal Canadiens	CA	J7Z	1
+Montreal Canadiens	CA	J8A	1
+Montreal Canadiens	CA	J8B	1
+Montreal Canadiens	CA	J8C	1
+Montreal Canadiens	CA	J8E	1
+Montreal Canadiens	CA	J8G	1
+Montreal Canadiens	CA	J8H	1
+Montreal Canadiens	CA	J8L	1
+Ottawa Senators	CA	J8M	1
+Ottawa Senators	CA	J8N	1
+Montreal Canadiens	CA	J8P	1
+Ottawa Senators	CA	J8R	1
+Ottawa Senators	CA	J8T	1
+Ottawa Senators	CA	J8V	1
+Ottawa Senators	CA	J8X	1
+Ottawa Senators	CA	J8Y	1
+Ottawa Senators	CA	J8Z	1
+Ottawa Senators	CA	J9A	1
+Ottawa Senators	CA	J9B	1
+Ottawa Senators	CA	J9E	1
+Ottawa Senators	CA	J9H	1
+Ottawa Senators	CA	J9J	1
+Florida Panthers	CA	J9L	1
+Montreal Canadiens	CA	J9P	1
+Boston Bruins	CA	J9T	1
+Montreal Canadiens	CA	J9V	1
+Montreal Canadiens	CA	J9X	1
+Montreal Canadiens	CA	J9Y	1
+Montreal Canadiens	CA	J9Z	1
+Montreal Canadiens	CA	JOB	1
+Ottawa Senators	CA	JOJ	1
+Montreal Canadiens	CA	JOK	1
+Florida Panthers	CA	JOL	1
+Montreal Canadiens	CA	JOM	1
+Ottawa Senators	CA	JOP	1
+Montreal Canadiens	CA	JOR	1
+Montreal Canadiens	CA	JOX	1
+Montreal Canadiens	CA	JOZ	1
+Montreal Canadiens	CA	JT7	1
+Florida Panthers	CA	JVB	1
+Montreal Canadiens	CA	K O	1
+Ottawa Senators	CA	K01	1
+Ottawa Senators	CA	K0A	1
+Montreal Canadiens	CA	K0B	1
+Ottawa Senators	CA	K0C	1
+Ottawa Senators	CA	K0D	1
+Ottawa Senators	CA	K0E	1
+Ottawa Senators	CA	K0G	1
+Ottawa Senators	CA	K0H	1
+Ottawa Senators	CA	K0J	1
+Ottawa Senators	CA	K0K	1
+Ottawa Senators	CA	K0L	1
+Toronto Maple Leafs	CA	K0M	1
+Ottawa Senators	CA	K17	1
+Ottawa Senators	CA	K1A	1
+Ottawa Senators	CA	K1B	1
+Ottawa Senators	CA	K1C	1
+Ottawa Senators	CA	K1E	1
+Ottawa Senators	CA	K1G	1
+Ottawa Senators	CA	K1H	1
+Ottawa Senators	CA	K1J	1
+Ottawa Senators	CA	K1K	1
+Ottawa Senators	CA	K1L	1
+Ottawa Senators	CA	K1M	1
+Ottawa Senators	CA	K1N	1
+Ottawa Senators	CA	K1P	1
+Ottawa Senators	CA	K1R	1
+Ottawa Senators	CA	K1S	1
+Ottawa Senators	CA	K1T	1
+Ottawa Senators	CA	K1V	1
+Ottawa Senators	CA	K1W	1
+Ottawa Senators	CA	K1X	1
+Ottawa Senators	CA	K1Y	1
+Ottawa Senators	CA	K1Z	1
+Ottawa Senators	CA	K20	1
+Ottawa Senators	CA	K2A	1
+Ottawa Senators	CA	K2B	1
+Ottawa Senators	CA	K2C	1
+Ottawa Senators	CA	K2E	1
+Ottawa Senators	CA	K2G	1
+Ottawa Senators	CA	K2H	1
+Ottawa Senators	CA	K2J	1
+Ottawa Senators	CA	K2K	1
+Ottawa Senators	CA	K2L	1
+Ottawa Senators	CA	K2M	1
+Ottawa Senators	CA	K2N	1
+Ottawa Senators	CA	K2P	1
+Toronto Maple Leafs	CA	K2R	1
+Ottawa Senators	CA	K2S	1
+Ottawa Senators	CA	K2T	1
+Ottawa Senators	CA	K2V	1
+Ottawa Senators	CA	K2W	1
+Montreal Canadiens	CA	K2Z	1
+Ottawa Senators	CA	K4A	1
+Ottawa Senators	CA	K4B	1
+Montreal Canadiens	CA	K4C	1
+Ottawa Senators	CA	K4K	1
+Ottawa Senators	CA	K4M	1
+Ottawa Senators	CA	K4P	1
+Ottawa Senators	CA	K4R	1
+Montreal Canadiens	CA	K5H	1
+Ottawa Senators	CA	K6A	1
+Ottawa Senators	CA	K6H	1
+Ottawa Senators	CA	K6J	1
+Ottawa Senators	CA	K6K	1
+Ottawa Senators	CA	K6T	1
+Ottawa Senators	CA	K6V	1
+Ottawa Senators	CA	K7A	1
+Ottawa Senators	CA	K7C	1
+Ottawa Senators	CA	K7G	1
+Ottawa Senators	CA	K7H	1
+Ottawa Senators	CA	K7K	1
+Toronto Maple Leafs	CA	K7L	1
+Ottawa Senators	CA	K7M	1
+Ottawa Senators	CA	K7N	1
+Ottawa Senators	CA	K7P	1
+Ottawa Senators	CA	K7R	1
+Ottawa Senators	CA	K7S	1
+Ottawa Senators	CA	K7V	1
+Ottawa Senators	CA	K8A	1
+Ottawa Senators	CA	K8B	1
+Ottawa Senators	CA	K8H	1
+Toronto Maple Leafs	CA	K8N	1
+Toronto Maple Leafs	CA	K8P	1
+Ottawa Senators	CA	K8R	1
+Toronto Maple Leafs	CA	K8V	1
+Ottawa Senators	CA	K9A	1
+Toronto Maple Leafs	CA	K9H	1
+Toronto Maple Leafs	CA	K9J	1
+Toronto Maple Leafs	CA	K9K	1
+Toronto Maple Leafs	CA	K9L	1
+Toronto Maple Leafs	CA	K9V	1
+Ottawa Senators	CA	KM0	1
+Ottawa Senators	CA	KOA	1
+Ottawa Senators	CA	KOC	1
+Ottawa Senators	CA	KOE	1
+Ottawa Senators	CA	KOH	1
+Ottawa Senators	CA	KOJ	1
+Ottawa Senators	CA	KOK	1
+Ottawa Senators	CA	KOL	1
+Ottawa Senators	CA	KY1	1
+Buffalo Sabres	CA	L05	1
+Toronto Maple Leafs	CA	L0A	1
+Toronto Maple Leafs	CA	L0B	1
+Toronto Maple Leafs	CA	L0C	1
+Toronto Maple Leafs	CA	L0E	1
+Toronto Maple Leafs	CA	L0G	1
+Buffalo Sabres	CA	L0H	1
+Toronto Maple Leafs	CA	L0J	1
+Toronto Maple Leafs	CA	L0K	1
+Toronto Maple Leafs	CA	L0L	1
+Toronto Maple Leafs	CA	L0M	1
+Toronto Maple Leafs	CA	L0N	1
+Toronto Maple Leafs	CA	L0P	1
+Buffalo Sabres	CA	L0R	1
+Buffalo Sabres	CA	L0S	1
+Toronto Maple Leafs	CA	L1A	1
+Toronto Maple Leafs	CA	L1B	1
+Toronto Maple Leafs	CA	L1C	1
+Toronto Maple Leafs	CA	L1E	1
+Toronto Maple Leafs	CA	L1G	1
+Toronto Maple Leafs	CA	L1H	1
+Toronto Maple Leafs	CA	L1J	1
+Toronto Maple Leafs	CA	L1K	1
+Toronto Maple Leafs	CA	L1L	1
+Toronto Maple Leafs	CA	L1M	1
+Toronto Maple Leafs	CA	L1N	1
+Toronto Maple Leafs	CA	L1P	1
+Toronto Maple Leafs	CA	L1R	1
+Toronto Maple Leafs	CA	L1S	1
+Toronto Maple Leafs	CA	L1T	1
+Toronto Maple Leafs	CA	L1V	1
+Toronto Maple Leafs	CA	L1W	1
+Toronto Maple Leafs	CA	L1X	1
+Toronto Maple Leafs	CA	L1Y	1
+Toronto Maple Leafs	CA	L1Z	1
+Buffalo Sabres	CA	L2A	1
+Buffalo Sabres	CA	L2E	1
+Buffalo Sabres	CA	L2G	1
+Buffalo Sabres	CA	L2H	1
+Buffalo Sabres	CA	L2J	1
+Buffalo Sabres	CA	L2M	1
+Buffalo Sabres	CA	L2N	1
+Buffalo Sabres	CA	L2P	1
+Buffalo Sabres	CA	L2R	1
+Buffalo Sabres	CA	L2S	1
+Buffalo Sabres	CA	L2T	1
+Buffalo Sabres	CA	L2V	1
+Vegas Golden Knights	CA	L2W	1
+Buffalo Sabres	CA	L3B	1
+Buffalo Sabres	CA	L3C	1
+Buffalo Sabres	CA	L3K	1
+Buffalo Sabres	CA	L3M	1
+Toronto Maple Leafs	CA	L3P	1
+Toronto Maple Leafs	CA	L3R	1
+Toronto Maple Leafs	CA	L3S	1
+Toronto Maple Leafs	CA	L3T	1
+Toronto Maple Leafs	CA	L3V	1
+Toronto Maple Leafs	CA	L3X	1
+Toronto Maple Leafs	CA	L3Y	1
+Toronto Maple Leafs	CA	L3Z	1
+Toronto Maple Leafs	CA	L4A	1
+Toronto Maple Leafs	CA	L4B	1
+Toronto Maple Leafs	CA	L4C	1
+Toronto Maple Leafs	CA	L4E	1
+Toronto Maple Leafs	CA	L4G	1
+Toronto Maple Leafs	CA	L4H	1
+Toronto Maple Leafs	CA	L4J	1
+Toronto Maple Leafs	CA	L4K	1
+Toronto Maple Leafs	CA	L4L	1
+Toronto Maple Leafs	CA	L4M	1
+Toronto Maple Leafs	CA	L4N	1
+Toronto Maple Leafs	CA	L4P	1
+Toronto Maple Leafs	CA	L4R	1
+Toronto Maple Leafs	CA	L4S	1
+Toronto Maple Leafs	CA	L4T	1
+Toronto Maple Leafs	CA	L4V	1
+Toronto Maple Leafs	CA	L4W	1
+Toronto Maple Leafs	CA	L4X	1
+Toronto Maple Leafs	CA	L4Y	1
+Toronto Maple Leafs	CA	L4Z	1
+Toronto Maple Leafs	CA	L5A	1
+Toronto Maple Leafs	CA	L5B	1
+Toronto Maple Leafs	CA	L5C	1
+Toronto Maple Leafs	CA	L5E	1
+Toronto Maple Leafs	CA	L5G	1
+Toronto Maple Leafs	CA	L5H	1
+Toronto Maple Leafs	CA	L5J	1
+Toronto Maple Leafs	CA	L5K	1
+Toronto Maple Leafs	CA	L5L	1
+Toronto Maple Leafs	CA	L5M	1
+Toronto Maple Leafs	CA	L5N	1
+Vegas Golden Knights	CA	L5P	1
+Toronto Maple Leafs	CA	L5R	1
+Toronto Maple Leafs	CA	L5S	1
+Toronto Maple Leafs	CA	L5T	1
+Toronto Maple Leafs	CA	L5V	1
+Boston Bruins	CA	L5W	1
+Arizona Coyotes	CA	L68	1
+Toronto Maple Leafs	CA	L6A	1
+Toronto Maple Leafs	CA	L6B	1
+Pittsburgh Penguins	CA	L6C	1
+Toronto Maple Leafs	CA	L6E	1
+Toronto Maple Leafs	CA	L6G	1
+Toronto Maple Leafs	CA	L6H	1
+Toronto Maple Leafs	CA	L6J	1
+Toronto Maple Leafs	CA	L6K	1
+Toronto Maple Leafs	CA	L6L	1
+Toronto Maple Leafs	CA	L6M	1
+Toronto Maple Leafs	CA	L6P	1
+Toronto Maple Leafs	CA	L6R	1
+Toronto Maple Leafs	CA	L6S	1
+Toronto Maple Leafs	CA	L6T	1
+Toronto Maple Leafs	CA	L6V	1
+Toronto Maple Leafs	CA	L6W	1
+Toronto Maple Leafs	CA	L6X	1
+Toronto Maple Leafs	CA	L6Y	1
+Toronto Maple Leafs	CA	L6Z	1
+Toronto Maple Leafs	CA	L7A	1
+Toronto Maple Leafs	CA	L7B	1
+Toronto Maple Leafs	CA	L7C	1
+Toronto Maple Leafs	CA	L7E	1
+Toronto Maple Leafs	CA	L7G	1
+Toronto Maple Leafs	CA	L7J	1
+Toronto Maple Leafs	CA	L7K	1
+Toronto Maple Leafs	CA	L7L	1
+Buffalo Sabres	CA	L7M	1
+Buffalo Sabres	CA	L7N	1
+Toronto Maple Leafs	CA	L7P	1
+Toronto Maple Leafs	CA	L7R	1
+Toronto Maple Leafs	CA	L7S	1
+Toronto Maple Leafs	CA	L7T	1
+Toronto Maple Leafs	CA	L7V	1
+Pittsburgh Penguins	CA	L89	1
+Toronto Maple Leafs	CA	L8B	1
+Toronto Maple Leafs	CA	L8E	1
+Buffalo Sabres	CA	L8G	1
+Buffalo Sabres	CA	L8H	1
+Buffalo Sabres	CA	L8J	1
+Buffalo Sabres	CA	L8K	1
+Toronto Maple Leafs	CA	L8L	1
+Buffalo Sabres	CA	L8M	1
+Toronto Maple Leafs	CA	L8N	1
+Buffalo Sabres	CA	L8P	1
+Toronto Maple Leafs	CA	L8R	1
+Toronto Maple Leafs	CA	L8S	1
+Toronto Maple Leafs	CA	L8T	1
+Toronto Maple Leafs	CA	L8V	1
+Buffalo Sabres	CA	L8W	1
+Toronto Maple Leafs	CA	L9A	1
+Buffalo Sabres	CA	L9B	1
+Toronto Maple Leafs	CA	L9C	1
+Toronto Maple Leafs	CA	L9E	1
+Buffalo Sabres	CA	L9G	1
+Toronto Maple Leafs	CA	L9H	1
+Buffalo Sabres	CA	L9J	1
+Buffalo Sabres	CA	L9K	1
+Toronto Maple Leafs	CA	L9L	1
+Toronto Maple Leafs	CA	L9M	1
+Toronto Maple Leafs	CA	L9N	1
+Toronto Maple Leafs	CA	L9P	1
+Toronto Maple Leafs	CA	L9R	1
+Toronto Maple Leafs	CA	L9S	1
+Toronto Maple Leafs	CA	L9T	1
+Toronto Maple Leafs	CA	L9V	1
+Toronto Maple Leafs	CA	L9W	1
+Toronto Maple Leafs	CA	L9X	1
+Toronto Maple Leafs	CA	L9Y	1
+Toronto Maple Leafs	CA	L9Z	1
+Buffalo Sabres	CA	LE8	1
+Toronto Maple Leafs	CA	LL1	1
+Tampa Bay Lightning	CA	LOB	1
+Toronto Maple Leafs	CA	LOG	1
+Pittsburgh Penguins	CA	LOL	1
+Columbus Blue Jackets	CA	LOS	1
+Toronto Maple Leafs	CA	LS2	1
+Colorado Avalanche	CA	M0A	1
+Toronto Maple Leafs	CA	M0L	1
+Toronto Maple Leafs	CA	M1B	1
+Toronto Maple Leafs	CA	M1C	1
+Toronto Maple Leafs	CA	M1E	1
+Toronto Maple Leafs	CA	M1G	1
+Toronto Maple Leafs	CA	M1H	1
+Toronto Maple Leafs	CA	M1J	1
+Toronto Maple Leafs	CA	M1K	1
+Toronto Maple Leafs	CA	M1L	1
+Toronto Maple Leafs	CA	M1M	1
+Toronto Maple Leafs	CA	M1N	1
+Toronto Maple Leafs	CA	M1P	1
+Montreal Canadiens	CA	M1R	1
+Toronto Maple Leafs	CA	M1S	1
+Toronto Maple Leafs	CA	M1T	1
+Montreal Canadiens	CA	M1V	1
+Toronto Maple Leafs	CA	M1W	1
+Toronto Maple Leafs	CA	M1X	1
+Toronto Maple Leafs	CA	M2H	1
+Toronto Maple Leafs	CA	M2J	1
+Toronto Maple Leafs	CA	M2K	1
+Toronto Maple Leafs	CA	M2L	1
+Toronto Maple Leafs	CA	M2M	1
+Toronto Maple Leafs	CA	M2N	1
+St. Louis Blues	CA	M2P	1
+Toronto Maple Leafs	CA	M2R	1
+Toronto Maple Leafs	CA	M3A	1
+Toronto Maple Leafs	CA	M3B	1
+Toronto Maple Leafs	CA	M3C	1
+Toronto Maple Leafs	CA	M3H	1
+Toronto Maple Leafs	CA	M3J	1
+Toronto Maple Leafs	CA	M3K	1
+Toronto Maple Leafs	CA	M3L	1
+Toronto Maple Leafs	CA	M3M	1
+Toronto Maple Leafs	CA	M3N	1
+Toronto Maple Leafs	CA	M4A	1
+Toronto Maple Leafs	CA	M4B	1
+Toronto Maple Leafs	CA	M4C	1
+Toronto Maple Leafs	CA	M4E	1
+Toronto Maple Leafs	CA	M4G	1
+Toronto Maple Leafs	CA	M4H	1
+Toronto Maple Leafs	CA	M4J	1
+Toronto Maple Leafs	CA	M4K	1
+Toronto Maple Leafs	CA	M4L	1
+Toronto Maple Leafs	CA	M4M	1
+Toronto Maple Leafs	CA	M4N	1
+Toronto Maple Leafs	CA	M4P	1
+Toronto Maple Leafs	CA	M4R	1
+Toronto Maple Leafs	CA	M4S	1
+Toronto Maple Leafs	CA	M4T	1
+Toronto Maple Leafs	CA	M4V	1
+Toronto Maple Leafs	CA	M4W	1
+Toronto Maple Leafs	CA	M4X	1
+Toronto Maple Leafs	CA	M4Y	1
+Toronto Maple Leafs	CA	M5A	1
+Toronto Maple Leafs	CA	M5B	1
+Toronto Maple Leafs	CA	M5C	1
+Toronto Maple Leafs	CA	M5E	1
+Toronto Maple Leafs	CA	M5G	1
+Toronto Maple Leafs	CA	M5H	1
+Toronto Maple Leafs	CA	M5J	1
+Toronto Maple Leafs	CA	M5K	1
+Calgary Flames	CA	M5L	1
+Toronto Maple Leafs	CA	M5M	1
+Toronto Maple Leafs	CA	M5N	1
+Toronto Maple Leafs	CA	M5P	1
+Toronto Maple Leafs	CA	M5R	1
+Toronto Maple Leafs	CA	M5S	1
+Toronto Maple Leafs	CA	M5T	1
+Toronto Maple Leafs	CA	M5V	1
+Toronto Maple Leafs	CA	M5X	1
+Toronto Maple Leafs	CA	M6A	1
+Toronto Maple Leafs	CA	M6B	1
+Toronto Maple Leafs	CA	M6C	1
+Toronto Maple Leafs	CA	M6E	1
+Toronto Maple Leafs	CA	M6G	1
+Toronto Maple Leafs	CA	M6H	1
+Toronto Maple Leafs	CA	M6J	1
+Toronto Maple Leafs	CA	M6K	1
+Toronto Maple Leafs	CA	M6L	1
+Toronto Maple Leafs	CA	M6M	1
+Toronto Maple Leafs	CA	M6N	1
+Toronto Maple Leafs	CA	M6O	1
+Toronto Maple Leafs	CA	M6P	1
+Toronto Maple Leafs	CA	M6R	1
+Toronto Maple Leafs	CA	M6S	1
+NHL All Star SuperSkills	CA	M7A	1
+Ottawa Senators	CA	M7M	1
+Toronto Maple Leafs	CA	M8V	1
+Toronto Maple Leafs	CA	M8W	1
+Toronto Maple Leafs	CA	M8X	1
+Toronto Maple Leafs	CA	M8Y	1
+Toronto Maple Leafs	CA	M8Z	1
+Toronto Maple Leafs	CA	M9A	1
+Toronto Maple Leafs	CA	M9B	1
+Toronto Maple Leafs	CA	M9C	1
+Toronto Maple Leafs	CA	M9L	1
+Toronto Maple Leafs	CA	M9M	1
+Toronto Maple Leafs	CA	M9N	1
+Toronto Maple Leafs	CA	M9P	1
+Toronto Maple Leafs	CA	M9R	1
+Toronto Maple Leafs	CA	M9V	1
+Toronto Maple Leafs	CA	M9W	1
+Montreal Canadiens	CA	MIG	1
+Anaheim Ducks	CA	MK4	1
+Montreal Canadiens	CA	MON	1
+Detroit Red Wings	CA	N01	1
+Ottawa Senators	CA	N02	1
+Tampa Bay Lightning	CA	N03	1
+Buffalo Sabres	CA	N0A	1
+Buffalo Sabres	CA	N0B	1
+Toronto Maple Leafs	CA	N0C	1
+Toronto Maple Leafs	CA	N0E	1
+Toronto Maple Leafs	CA	N0G	1
+Toronto Maple Leafs	CA	N0H	1
+Buffalo Sabres	CA	N0J	1
+Detroit Red Wings	CA	N0K	1
+Toronto Maple Leafs	CA	N0L	1
+Toronto Maple Leafs	CA	N0M	1
+Detroit Red Wings	CA	N0N	1
+Detroit Red Wings	CA	N0P	1
+Detroit Red Wings	CA	N0R	1
+Buffalo Sabres	CA	N1A	1
+Buffalo Sabres	CA	N1C	1
+Toronto Maple Leafs	CA	N1E	1
+Buffalo Sabres	CA	N1G	1
+Toronto Maple Leafs	CA	N1H	1
+Buffalo Sabres	CA	N1K	1
+Toronto Maple Leafs	CA	N1L	1
+Toronto Maple Leafs	CA	N1M	1
+Toronto Maple Leafs	CA	N1P	1
+Toronto Maple Leafs	CA	N1R	1
+Toronto Maple Leafs	CA	N1S	1
+Toronto Maple Leafs	CA	N1T	1
+Buffalo Sabres	CA	N2A	1
+Buffalo Sabres	CA	N2B	1
+Buffalo Sabres	CA	N2C	1
+Buffalo Sabres	CA	N2E	1
+Toronto Maple Leafs	CA	N2G	1
+Buffalo Sabres	CA	N2H	1
+Toronto Maple Leafs	CA	N2J	1
+Buffalo Sabres	CA	N2K	1
+Toronto Maple Leafs	CA	N2L	1
+Toronto Maple Leafs	CA	N2M	1
+Toronto Maple Leafs	CA	N2N	1
+Toronto Maple Leafs	CA	N2P	1
+Toronto Maple Leafs	CA	N2R	1
+Toronto Maple Leafs	CA	N2T	1
+Toronto Maple Leafs	CA	N2V	1
+Toronto Maple Leafs	CA	N2Z	1
+Toronto Maple Leafs	CA	N3A	1
+Toronto Maple Leafs	CA	N3B	1
+Toronto Maple Leafs	CA	N3C	1
+Toronto Maple Leafs	CA	N3E	1
+Toronto Maple Leafs	CA	N3H	1
+Buffalo Sabres	CA	N3L	1
+Montreal Canadiens	CA	N3P	1
+Toronto Maple Leafs	CA	N3R	1
+Toronto Maple Leafs	CA	N3S	1
+Buffalo Sabres	CA	N3T	1
+Toronto Maple Leafs	CA	N3V	1
+Buffalo Sabres	CA	N3W	1
+Toronto Maple Leafs	CA	N3Y	1
+Toronto Maple Leafs	CA	N4B	1
+Toronto Maple Leafs	CA	N4G	1
+Toronto Maple Leafs	CA	N4K	1
+Toronto Maple Leafs	CA	N4L	1
+Toronto Maple Leafs	CA	N4N	1
+Toronto Maple Leafs	CA	N4S	1
+Toronto Maple Leafs	CA	N4T	1
+Toronto Maple Leafs	CA	N4V	1
+Toronto Maple Leafs	CA	N4W	1
+Montreal Canadiens	CA	N4X	1
+Detroit Red Wings	CA	N4Z	1
+Toronto Maple Leafs	CA	N5A	1
+Toronto Maple Leafs	CA	N5C	1
+Toronto Maple Leafs	CA	N5H	1
+Toronto Maple Leafs	CA	N5L	1
+Toronto Maple Leafs	CA	N5P	1
+Detroit Red Wings	CA	N5R	1
+Toronto Maple Leafs	CA	N5V	1
+Detroit Red Wings	CA	N5W	1
+Toronto Maple Leafs	CA	N5X	1
+Toronto Maple Leafs	CA	N5Y	1
+Toronto Maple Leafs	CA	N5Z	1
+Toronto Maple Leafs	CA	N6A	1
+Toronto Maple Leafs	CA	N6B	1
+Detroit Red Wings	CA	N6C	1
+Toronto Maple Leafs	CA	N6E	1
+Toronto Maple Leafs	CA	N6G	1
+Toronto Maple Leafs	CA	N6H	1
+Detroit Red Wings	CA	N6J	1
+Toronto Maple Leafs	CA	N6K	1
+Pittsburgh Penguins	CA	N6L	1
+Detroit Red Wings	CA	N6M	1
+Buffalo Sabres	CA	N6N	1
+Detroit Red Wings	CA	N6P	1
+Florida Panthers	CA	N6R	1
+Detroit Red Wings	CA	N6V	1
+Toronto Maple Leafs	CA	N7A	1
+Buffalo Sabres	CA	N7G	1
+Detroit Red Wings	CA	N7L	1
+Detroit Red Wings	CA	N7M	1
+Detroit Red Wings	CA	N7S	1
+Detroit Red Wings	CA	N7T	1
+Detroit Red Wings	CA	N7V	1
+Detroit Red Wings	CA	N7W	1
+Detroit Red Wings	CA	N7X	1
+Detroit Red Wings	CA	N8A	1
+Detroit Red Wings	CA	N8H	1
+Detroit Red Wings	CA	N8M	1
+Detroit Red Wings	CA	N8N	1
+Detroit Red Wings	CA	N8P	1
+Detroit Red Wings	CA	N8R	1
+Detroit Red Wings	CA	N8S	1
+Detroit Red Wings	CA	N8T	1
+Detroit Red Wings	CA	N8W	1
+Detroit Red Wings	CA	N8X	1
+Detroit Red Wings	CA	N8Y	1
+Detroit Red Wings	CA	N9A	1
+Detroit Red Wings	CA	N9B	1
+Detroit Red Wings	CA	N9C	1
+Detroit Red Wings	CA	N9E	1
+Detroit Red Wings	CA	N9G	1
+Detroit Red Wings	CA	N9H	1
+Detroit Red Wings	CA	N9J	1
+Detroit Red Wings	CA	N9K	1
+Detroit Red Wings	CA	N9V	1
+Toronto Maple Leafs	CA	N9W	1
+Detroit Red Wings	CA	N9Y	1
+Montreal Canadiens	CA	NOA	1
+New York Rangers	CA	NOB	1
+Detroit Red Wings	CA	NOE	1
+Ottawa Senators	CA	NOG	1
+Buffalo Sabres	CA	NOH	1
+Detroit Red Wings	CA	NOJ	1
+Columbus Blue Jackets	CA	NOK	1
+Buffalo Sabres	CA	NOM	1
+Detroit Red Wings	CA	NOP	1
+Montreal Canadiens	CA	NOR	1
+Buffalo Sabres	CA	NP6	1
+Florida Panthers	CA	NSG	1
+Detroit Red Wings	CA	NT2	1
+Chicago Blackhawks	CA	O5H	1
+Boston Bruins	CA	ONT	1
+Ottawa Senators	CA	P01	1
+Edmonton Oilers	CA	P08	1
+Boston Bruins	CA	P0A	1
+Toronto Maple Leafs	CA	P0B	1
+Tampa Bay Lightning	CA	P0C	1
+Buffalo Sabres	CA	P0E	1
+Toronto Maple Leafs	CA	P0G	1
+Ottawa Senators	CA	P0H	1
+Toronto Maple Leafs	CA	P0J	1
+Toronto Maple Leafs	CA	P0K	1
+Toronto Maple Leafs	CA	P0L	1
+Toronto Maple Leafs	CA	P0M	1
+Toronto Maple Leafs	CA	P0N	1
+Toronto Maple Leafs	CA	P0P	1
+Toronto Maple Leafs	CA	P0R	1
+Toronto Maple Leafs	CA	P0S	1
+Toronto Maple Leafs	CA	P0T	1
+Winnipeg Jets	CA	P0V	1
+Winnipeg Jets	CA	P0W	1
+Winnipeg Jets	CA	P0X	1
+Ottawa Senators	CA	P1A	1
+Ottawa Senators	CA	P1B	1
+Toronto Maple Leafs	CA	P1C	1
+Toronto Maple Leafs	CA	P1H	1
+Toronto Maple Leafs	CA	P1L	1
+Toronto Maple Leafs	CA	P1P	1
+Toronto Maple Leafs	CA	P2A	1
+Ottawa Senators	CA	P2B	1
+Toronto Maple Leafs	CA	P2G	1
+Toronto Maple Leafs	CA	P2N	1
+Edmonton Oilers	CA	P2Z	1
+Toronto Maple Leafs	CA	P3A	1
+Ottawa Senators	CA	P3B	1
+Toronto Maple Leafs	CA	P3C	1
+Toronto Maple Leafs	CA	P3E	1
+Ottawa Senators	CA	P3G	1
+Calgary Flames	CA	P3J	1
+Ottawa Senators	CA	P3L	1
+Ottawa Senators	CA	P3N	1
+Chicago Blackhawks	CA	P3O	1
+Montreal Canadiens	CA	P3P	1
+Toronto Maple Leafs	CA	P3Y	1
+Toronto Maple Leafs	CA	P4N	1
+Toronto Maple Leafs	CA	P4P	1
+Toronto Maple Leafs	CA	P4R	1
+Toronto Maple Leafs	CA	P5A	1
+Vegas Golden Knights	CA	P5B	1
+Buffalo Sabres	CA	P5E	1
+Edmonton Oilers	CA	P5H	1
+Ottawa Senators	CA	P5N	1
+Edmonton Oilers	CA	P5Z	1
+Toronto Maple Leafs	CA	P6A	1
+Toronto Maple Leafs	CA	P6B	1
+Detroit Red Wings	CA	P6C	1
+Edmonton Oilers	CA	P6L	1
+Minnesota Wild	CA	P7A	1
+Toronto Maple Leafs	CA	P7B	1
+Minnesota Wild	CA	P7C	1
+Minnesota Wild	CA	P7E	1
+Toronto Maple Leafs	CA	P7G	1
+Minnesota Wild	CA	P7J	1
+Minnesota Wild	CA	P7K	1
+Toronto Maple Leafs	CA	P7L	1
+Anaheim Ducks	CA	P7Y	1
+Winnipeg Jets	CA	P8N	1
+Winnipeg Jets	CA	P8T	1
+Winnipeg Jets	CA	P9A	1
+Winnipeg Jets	CA	P9N	1
+Vegas Golden Knights	CA	POM	1
+Toronto Maple Leafs	CA	PON	1
+Winnipeg Jets	CA	POT	1
+Winnipeg Jets	CA	POV	1
+Minnesota Wild	CA	POW	1
+Winnipeg Jets	CA	POX	1
+Montreal Canadiens	CA	QUE	1
+Florida Panthers	CA	R06	1
+Winnipeg Jets	CA	R0A	1
+Winnipeg Jets	CA	R0B	1
+Winnipeg Jets	CA	R0C	1
+Winnipeg Jets	CA	R0E	1
+Winnipeg Jets	CA	R0G	1
+Winnipeg Jets	CA	R0H	1
+Winnipeg Jets	CA	R0J	1
+Winnipeg Jets	CA	R0K	1
+Winnipeg Jets	CA	R0L	1
+Winnipeg Jets	CA	R0M	1
+Winnipeg Jets	CA	R0W	1
+Winnipeg Jets	CA	R0Y	1
+Winnipeg Jets	CA	R1A	1
+Minnesota Wild	CA	R1B	1
+Winnipeg Jets	CA	R1C	1
+Winnipeg Jets	CA	R1N	1
+Winnipeg Jets	CA	R2C	1
+Vegas Golden Knights	CA	R2E	1
+Winnipeg Jets	CA	R2G	1
+Winnipeg Jets	CA	R2H	1
+Winnipeg Jets	CA	R2J	1
+Winnipeg Jets	CA	R2K	1
+Winnipeg Jets	CA	R2L	1
+Winnipeg Jets	CA	R2M	1
+Winnipeg Jets	CA	R2N	1
+Winnipeg Jets	CA	R2P	1
+Winnipeg Jets	CA	R2R	1
+Calgary Flames	CA	R2T	1
+Winnipeg Jets	CA	R2V	1
+Winnipeg Jets	CA	R2W	1
+Vegas Golden Knights	CA	R2X	1
+Winnipeg Jets	CA	R2Y	1
+Winnipeg Jets	CA	R3A	1
+Winnipeg Jets	CA	R3B	1
+Winnipeg Jets	CA	R3C	1
+Winnipeg Jets	CA	R3D	1
+Winnipeg Jets	CA	R3E	1
+Winnipeg Jets	CA	R3G	1
+Winnipeg Jets	CA	R3H	1
+Winnipeg Jets	CA	R3J	1
+Winnipeg Jets	CA	R3K	1
+Winnipeg Jets	CA	R3L	1
+Winnipeg Jets	CA	R3M	1
+Winnipeg Jets	CA	R3N	1
+Winnipeg Jets	CA	R3P	1
+Winnipeg Jets	CA	R3R	1
+Vegas Golden Knights	CA	R3S	1
+Winnipeg Jets	CA	R3T	1
+Winnipeg Jets	CA	R3V	1
+Winnipeg Jets	CA	R3W	1
+Winnipeg Jets	CA	R3X	1
+Vegas Golden Knights	CA	R3Y	1
+Winnipeg Jets	CA	R4A	1
+Vegas Golden Knights	CA	R4G	1
+Vegas Golden Knights	CA	R4H	1
+Vegas Golden Knights	CA	R4J	1
+Winnipeg Jets	CA	R4K	1
+Winnipeg Jets	CA	R4L	1
+Vegas Golden Knights	CA	R5A	1
+Winnipeg Jets	CA	R5G	1
+Winnipeg Jets	CA	R5H	1
+Arizona Coyotes	CA	R5K	1
+Winnipeg Jets	CA	R6M	1
+New York Rangers	CA	R6N	1
+Winnipeg Jets	CA	R6W	1
+Winnipeg Jets	CA	R7A	1
+Vegas Golden Knights	CA	R7B	1
+Vegas Golden Knights	CA	R7C	1
+Winnipeg Jets	CA	R7N	1
+Winnipeg Jets	CA	R8A	1
+Winnipeg Jets	CA	R8N	1
+Winnipeg Jets	CA	R9A	1
+Winnipeg Jets	CA	RC3	1
+Calgary Flames	CA	RH4	1
+Winnipeg Jets	CA	ROB	1
+New York Rangers	CA	ROC	1
+Winnipeg Jets	CA	ROE	1
+Arizona Coyotes	CA	ROG	1
+Winnipeg Jets	CA	ROH	1
+Winnipeg Jets	CA	ROJ	1
+Edmonton Oilers	CA	ROL	1
+Winnipeg Jets	CA	ROM	1
+Vegas Golden Knights	CA	S 0	1
+Edmonton Oilers	CA	S08	1
+Winnipeg Jets	CA	S0A	1
+Winnipeg Jets	CA	S0C	1
+Edmonton Oilers	CA	S0E	1
+Vegas Golden Knights	CA	S0G	1
+Vegas Golden Knights	CA	S0H	1
+Edmonton Oilers	CA	S0J	1
+Edmonton Oilers	CA	S0K	1
+Edmonton Oilers	CA	S0L	1
+Edmonton Oilers	CA	S0M	1
+Calgary Flames	CA	S0N	1
+Edmonton Oilers	CA	S0P	1
+Edmonton Oilers	CA	S2V	1
+Edmonton Oilers	CA	S3N	1
+Edmonton Oilers	CA	S4A	1
+Vegas Golden Knights	CA	S4F	1
+Vegas Golden Knights	CA	S4H	1
+Edmonton Oilers	CA	S4L	1
+Edmonton Oilers	CA	S4N	1
+Vegas Golden Knights	CA	S4P	1
+Vegas Golden Knights	CA	S4R	1
+Calgary Flames	CA	S4S	1
+Vegas Golden Knights	CA	S4T	1
+Vegas Golden Knights	CA	S4V	1
+Vegas Golden Knights	CA	S4W	1
+Vegas Golden Knights	CA	S4X	1
+Montreal Canadiens	CA	S4Y	1
+Vegas Golden Knights	CA	S4Z	1
+Calgary Flames	CA	S5X	1
+Calgary Flames	CA	S61	1
+Vegas Golden Knights	CA	S6H	1
+Vegas Golden Knights	CA	S6J	1
+Winnipeg Jets	CA	S6K	1
+Edmonton Oilers	CA	S6V	1
+NHL Heritage Classic	CA	S6W	1
+Edmonton Oilers	CA	S6X	1
+Edmonton Oilers	CA	S7C	1
+Vegas Golden Knights	CA	S7H	1
+Edmonton Oilers	CA	S7I	1
+Vegas Golden Knights	CA	S7J	1
+Edmonton Oilers	CA	S7K	1
+Edmonton Oilers	CA	S7L	1
+Edmonton Oilers	CA	S7M	1
+Edmonton Oilers	CA	S7N	1
+Vegas Golden Knights	CA	S7P	1
+Edmonton Oilers	CA	S7R	1
+Vegas Golden Knights	CA	S7S	1
+Calgary Flames	CA	S7T	1
+Vegas Golden Knights	CA	S7V	1
+Edmonton Oilers	CA	S7W	1
+Edmonton Oilers	CA	S9A	1
+Nashville Predators	CA	S9H	1
+Edmonton Oilers	CA	S9K	1
+Edmonton Oilers	CA	S9V	1
+Edmonton Oilers	CA	S9X	1
+Nashville Predators	CA	SOA	1
+Edmonton Oilers	CA	SOE	1
+Vegas Golden Knights	CA	SOG	1
+Vegas Golden Knights	CA	SOJ	1
+Edmonton Oilers	CA	SOL	1
+Vegas Golden Knights	CA	SOM	1
+Calgary Flames	CA	SON	1
+Edmonton Oilers	CA	SOP	1
+Montreal Canadiens	CA	SS3	1
+Vancouver Canucks	CA	STA	1
+Edmonton Oilers	CA	SW7	1
+Calgary Flames	CA	T 1	1
+Edmonton Oilers	CA	T 7	1
+Edmonton Oilers	CA	T08	1
+Edmonton Oilers	CA	T0A	1
+Edmonton Oilers	CA	T0B	1
+Edmonton Oilers	CA	T0C	1
+Edmonton Oilers	CA	T0E	1
+Edmonton Oilers	CA	T0G	1
+Edmonton Oilers	CA	T0H	1
+Calgary Flames	CA	T0J	1
+Calgary Flames	CA	T0K	1
+Calgary Flames	CA	T0L	1
+Calgary Flames	CA	T0M	1
+Edmonton Oilers	CA	T0P	1
+Toronto Maple Leafs	CA	T0T	1
+Vegas Golden Knights	CA	T1-	1
+Calgary Flames	CA	T1A	1
+Calgary Flames	CA	T1B	1
+Calgary Flames	CA	T1C	1
+Calgary Flames	CA	T1G	1
+Calgary Flames	CA	T1H	1
+Calgary Flames	CA	T1J	1
+Calgary Flames	CA	T1K	1
+Calgary Flames	CA	T1L	1
+Calgary Flames	CA	T1M	1
+Calgary Flames	CA	T1P	1
+Calgary Flames	CA	T1R	1
+Calgary Flames	CA	T1S	1
+Calgary Flames	CA	T1V	1
+Calgary Flames	CA	T1W	1
+Calgary Flames	CA	T1X	1
+Calgary Flames	CA	T1Y	1
+Calgary Flames	CA	T1Z	1
+Calgary Flames	CA	T2A	1
+Calgary Flames	CA	T2B	1
+Calgary Flames	CA	T2C	1
+Calgary Flames	CA	T2E	1
+Calgary Flames	CA	T2G	1
+Calgary Flames	CA	T2H	1
+Calgary Flames	CA	T2J	1
+Calgary Flames	CA	T2K	1
+Calgary Flames	CA	T2L	1
+Calgary Flames	CA	T2M	1
+Calgary Flames	CA	T2N	1
+Calgary Flames	CA	T2P	1
+Calgary Flames	CA	T2R	1
+Calgary Flames	CA	T2S	1
+Calgary Flames	CA	T2T	1
+Calgary Flames	CA	T2V	1
+Calgary Flames	CA	T2W	1
+Calgary Flames	CA	T2X	1
+Calgary Flames	CA	T2Y	1
+Calgary Flames	CA	T2Z	1
+Calgary Flames	CA	T3A	1
+Calgary Flames	CA	T3B	1
+Calgary Flames	CA	T3C	1
+Calgary Flames	CA	T3E	1
+Calgary Flames	CA	T3G	1
+Calgary Flames	CA	T3H	1
+Calgary Flames	CA	T3J	1
+Calgary Flames	CA	T3K	1
+Calgary Flames	CA	T3L	1
+Calgary Flames	CA	T3M	1
+Calgary Flames	CA	T3N	1
+Calgary Flames	CA	T3P	1
+Calgary Flames	CA	T3R	1
+Vegas Golden Knights	CA	T3S	1
+Calgary Flames	CA	T3Y	1
+Calgary Flames	CA	T3Z	1
+Calgary Flames	CA	T4A	1
+Calgary Flames	CA	T4B	1
+Calgary Flames	CA	T4C	1
+Calgary Flames	CA	T4E	1
+Calgary Flames	CA	T4G	1
+Calgary Flames	CA	T4H	1
+Edmonton Oilers	CA	T4J	1
+Vegas Golden Knights	CA	T4L	1
+Edmonton Oilers	CA	T4M	1
+Edmonton Oilers	CA	T4N	1
+Edmonton Oilers	CA	T4P	1
+Edmonton Oilers	CA	T4R	1
+Edmonton Oilers	CA	T4S	1
+Edmonton Oilers	CA	T4T	1
+Edmonton Oilers	CA	T4V	1
+Edmonton Oilers	CA	T4X	1
+Edmonton Oilers	CA	T58	1
+Edmonton Oilers	CA	T5A	1
+Edmonton Oilers	CA	T5B	1
+Edmonton Oilers	CA	T5C	1
+Edmonton Oilers	CA	T5E	1
+Edmonton Oilers	CA	T5G	1
+Edmonton Oilers	CA	T5H	1
+Edmonton Oilers	CA	T5J	1
+Edmonton Oilers	CA	T5K	1
+Edmonton Oilers	CA	T5L	1
+Edmonton Oilers	CA	T5M	1
+Edmonton Oilers	CA	T5N	1
+Edmonton Oilers	CA	T5P	1
+Edmonton Oilers	CA	T5R	1
+Edmonton Oilers	CA	T5S	1
+Edmonton Oilers	CA	T5T	1
+Edmonton Oilers	CA	T5V	1
+Edmonton Oilers	CA	T5W	1
+Edmonton Oilers	CA	T5X	1
+Edmonton Oilers	CA	T5Y	1
+Edmonton Oilers	CA	T5Z	1
+Vegas Golden Knights	CA	T64	1
+Edmonton Oilers	CA	T65	1
+Edmonton Oilers	CA	T6A	1
+Edmonton Oilers	CA	T6B	1
+Edmonton Oilers	CA	T6C	1
+Edmonton Oilers	CA	T6E	1
+Edmonton Oilers	CA	T6G	1
+Edmonton Oilers	CA	T6H	1
+Edmonton Oilers	CA	T6J	1
+Edmonton Oilers	CA	T6K	1
+Edmonton Oilers	CA	T6L	1
+Edmonton Oilers	CA	T6M	1
+Edmonton Oilers	CA	T6N	1
+Edmonton Oilers	CA	T6P	1
+Edmonton Oilers	CA	T6R	1
+Calgary Flames	CA	T6S	1
+Edmonton Oilers	CA	T6T	1
+Edmonton Oilers	CA	T6V	1
+Edmonton Oilers	CA	T6W	1
+Edmonton Oilers	CA	T6X	1
+Edmonton Oilers	CA	T78	1
+Edmonton Oilers	CA	T7A	1
+Edmonton Oilers	CA	T7E	1
+Edmonton Oilers	CA	T7K	1
+Edmonton Oilers	CA	T7N	1
+Edmonton Oilers	CA	T7P	1
+Edmonton Oilers	CA	T7S	1
+Edmonton Oilers	CA	T7V	1
+Edmonton Oilers	CA	T7X	1
+Edmonton Oilers	CA	T7Y	1
+Edmonton Oilers	CA	T7Z	1
+Edmonton Oilers	CA	T8A	1
+Edmonton Oilers	CA	T8B	1
+Edmonton Oilers	CA	T8C	1
+Edmonton Oilers	CA	T8E	1
+Edmonton Oilers	CA	T8G	1
+Edmonton Oilers	CA	T8H	1
+Edmonton Oilers	CA	T8L	1
+Edmonton Oilers	CA	T8N	1
+Calgary Flames	CA	T8P	1
+Edmonton Oilers	CA	T8R	1
+Edmonton Oilers	CA	T8S	1
+Edmonton Oilers	CA	T8T	1
+Edmonton Oilers	CA	T8V	1
+Edmonton Oilers	CA	T8W	1
+Edmonton Oilers	CA	T8X	1
+Edmonton Oilers	CA	T9A	1
+Edmonton Oilers	CA	T9C	1
+Edmonton Oilers	CA	T9E	1
+Edmonton Oilers	CA	T9G	1
+Edmonton Oilers	CA	T9H	1
+Edmonton Oilers	CA	T9J	1
+Edmonton Oilers	CA	T9K	1
+Edmonton Oilers	CA	T9M	1
+Edmonton Oilers	CA	T9N	1
+Edmonton Oilers	CA	T9S	1
+Edmonton Oilers	CA	T9V	1
+Edmonton Oilers	CA	T9W	1
+Edmonton Oilers	CA	T9X	1
+Edmonton Oilers	CA	TAL	1
+Calgary Flames	CA	TG3	1
+Edmonton Oilers	CA	TG6	1
+Edmonton Oilers	CA	THE	1
+Calgary Flames	CA	TIL	1
+Calgary Flames	CA	TIR	1
+Calgary Flames	CA	TIX	1
+Toronto Maple Leafs	CA	TL1	1
+Edmonton Oilers	CA	TN2	1
+Vancouver Canucks	CA	TN6	1
+Montreal Canadiens	CA	TOA	1
+NHL All Star Game	CA	TOB	1
+Vegas Golden Knights	CA	TOC	1
+Edmonton Oilers	CA	TOE	1
+Edmonton Oilers	CA	TOG	1
+Edmonton Oilers	CA	TOH	1
+Edmonton Oilers	CA	TOJ	1
+Los Angeles Kings	CA	TOK	1
+Calgary Flames	CA	TOL	1
+Edmonton Oilers	CA	TOM	1
+Calgary Flames	CA	TR4	1
+Edmonton Oilers	CA	TS8	1
+New Jersey Devils	CA	UB6	1
+Calgary Flames	CA	V0A	1
+Calgary Flames	CA	V0B	1
+Edmonton Oilers	CA	V0C	1
+Vancouver Canucks	CA	V0E	1
+Vancouver Canucks	CA	V0G	1
+Vancouver Canucks	CA	V0H	1
+Vancouver Canucks	CA	V0J	1
+Vancouver Canucks	CA	V0K	1
+Vancouver Canucks	CA	V0L	1
+Vancouver Canucks	CA	V0M	1
+Vancouver Canucks	CA	V0N	1
+Vancouver Canucks	CA	V0P	1
+Vancouver Canucks	CA	V0R	1
+Vancouver Canucks	CA	V0S	1
+Vancouver Canucks	CA	V0T	1
+Edmonton Oilers	CA	V0V	1
+Florida Panthers	CA	V0W	1
+Vancouver Canucks	CA	V0X	1
+Edmonton Oilers	CA	V16	1
+Calgary Flames	CA	V1A	1
+Vancouver Canucks	CA	V1B	1
+Calgary Flames	CA	V1C	1
+Vancouver Canucks	CA	V1E	1
+Vegas Golden Knights	CA	V1G	1
+Vancouver Canucks	CA	V1H	1
+Edmonton Oilers	CA	V1J	1
+Vancouver Canucks	CA	V1K	1
+Vancouver Canucks	CA	V1L	1
+Vancouver Canucks	CA	V1M	1
+Vancouver Canucks	CA	V1N	1
+Vancouver Canucks	CA	V1P	1
+Vancouver Canucks	CA	V1R	1
+Vancouver Canucks	CA	V1S	1
+Vegas Golden Knights	CA	V1T	1
+Vancouver Canucks	CA	V1V	1
+Vegas Golden Knights	CA	V1W	1
+Vancouver Canucks	CA	V1X	1
+Vancouver Canucks	CA	V1Y	1
+Vancouver Canucks	CA	V1Z	1
+Vancouver Canucks	CA	V20	1
+Vancouver Canucks	CA	V28	1
+Vancouver Canucks	CA	V2A	1
+Vancouver Canucks	CA	V2B	1
+Vancouver Canucks	CA	V2C	1
+Vancouver Canucks	CA	V2E	1
+Vancouver Canucks	CA	V2G	1
+Vancouver Canucks	CA	V2H	1
+Vancouver Canucks	CA	V2J	1
+Vancouver Canucks	CA	V2K	1
+Vancouver Canucks	CA	V2L	1
+Vancouver Canucks	CA	V2M	1
+Vancouver Canucks	CA	V2N	1
+Vancouver Canucks	CA	V2P	1
+Vancouver Canucks	CA	V2R	1
+Vancouver Canucks	CA	V2S	1
+Vancouver Canucks	CA	V2T	1
+Vancouver Canucks	CA	V2V	1
+Vancouver Canucks	CA	V2W	1
+Vancouver Canucks	CA	V2X	1
+Vancouver Canucks	CA	V2Y	1
+Vancouver Canucks	CA	V2Z	1
+Vancouver Canucks	CA	V31	1
+Vancouver Canucks	CA	V3A	1
+Vancouver Canucks	CA	V3B	1
+Vancouver Canucks	CA	V3C	1
+Vancouver Canucks	CA	V3E	1
+Vancouver Canucks	CA	V3G	1
+Vancouver Canucks	CA	V3H	1
+Vancouver Canucks	CA	V3J	1
+Vancouver Canucks	CA	V3K	1
+Vancouver Canucks	CA	V3L	1
+Vancouver Canucks	CA	V3M	1
+Vancouver Canucks	CA	V3N	1
+Vancouver Canucks	CA	V3R	1
+Vancouver Canucks	CA	V3S	1
+Vancouver Canucks	CA	V3T	1
+Vancouver Canucks	CA	V3V	1
+Vancouver Canucks	CA	V3W	1
+Vancouver Canucks	CA	V3X	1
+Vancouver Canucks	CA	V3Y	1
+Vancouver Canucks	CA	V3Z	1
+Vancouver Canucks	CA	V4A	1
+Vancouver Canucks	CA	V4B	1
+Vancouver Canucks	CA	V4C	1
+Vancouver Canucks	CA	V4E	1
+Vancouver Canucks	CA	V4G	1
+Vancouver Canucks	CA	V4H	1
+Vancouver Canucks	CA	V4K	1
+Vancouver Canucks	CA	V4L	1
+Vancouver Canucks	CA	V4M	1
+Vancouver Canucks	CA	V4N	1
+Vancouver Canucks	CA	V4P	1
+Vancouver Canucks	CA	V4R	1
+Vancouver Canucks	CA	V4S	1
+Vancouver Canucks	CA	V4T	1
+Vancouver Canucks	CA	V4V	1
+Vancouver Canucks	CA	V4W	1
+Boston Bruins	CA	V4X	1
+Vancouver Canucks	CA	V4Z	1
+Vancouver Canucks	CA	V5A	1
+Vancouver Canucks	CA	V5B	1
+Vancouver Canucks	CA	V5C	1
+Vancouver Canucks	CA	V5E	1
+Vancouver Canucks	CA	V5G	1
+Vancouver Canucks	CA	V5H	1
+Vancouver Canucks	CA	V5J	1
+Vancouver Canucks	CA	V5K	1
+Vancouver Canucks	CA	V5L	1
+Vancouver Canucks	CA	V5M	1
+Vancouver Canucks	CA	V5N	1
+Vancouver Canucks	CA	V5P	1
+Vancouver Canucks	CA	V5R	1
+Vancouver Canucks	CA	V5S	1
+Vancouver Canucks	CA	V5T	1
+Vancouver Canucks	CA	V5V	1
+Vancouver Canucks	CA	V5W	1
+Vancouver Canucks	CA	V5X	1
+Vancouver Canucks	CA	V5Y	1
+Vancouver Canucks	CA	V5Z	1
+Vancouver Canucks	CA	V62	1
+Vancouver Canucks	CA	V64	1
+Vancouver Canucks	CA	V6A	1
+Vancouver Canucks	CA	V6B	1
+Vancouver Canucks	CA	V6C	1
+Vancouver Canucks	CA	V6E	1
+Vancouver Canucks	CA	V6G	1
+Vancouver Canucks	CA	V6H	1
+Vancouver Canucks	CA	V6J	1
+Vancouver Canucks	CA	V6K	1
+Vancouver Canucks	CA	V6L	1
+Vancouver Canucks	CA	V6M	1
+Vancouver Canucks	CA	V6N	1
+Vancouver Canucks	CA	V6P	1
+Vancouver Canucks	CA	V6R	1
+Vancouver Canucks	CA	V6S	1
+Vancouver Canucks	CA	V6T	1
+Vancouver Canucks	CA	V6V	1
+Vancouver Canucks	CA	V6W	1
+Vancouver Canucks	CA	V6X	1
+Vancouver Canucks	CA	V6Y	1
+Vancouver Canucks	CA	V6Z	1
+Vancouver Canucks	CA	V78	1
+Vancouver Canucks	CA	V7A	1
+Vancouver Canucks	CA	V7B	1
+Vancouver Canucks	CA	V7C	1
+Vancouver Canucks	CA	V7E	1
+Vancouver Canucks	CA	V7G	1
+Vancouver Canucks	CA	V7H	1
+Vancouver Canucks	CA	V7J	1
+Vancouver Canucks	CA	V7K	1
+Vancouver Canucks	CA	V7L	1
+Vancouver Canucks	CA	V7M	1
+Vancouver Canucks	CA	V7N	1
+Vancouver Canucks	CA	V7P	1
+Vancouver Canucks	CA	V7R	1
+Vancouver Canucks	CA	V7S	1
+Vancouver Canucks	CA	V7T	1
+Vancouver Canucks	CA	V7V	1
+Vancouver Canucks	CA	V7W	1
+Vancouver Canucks	CA	V7X	1
+Vegas Golden Knights	CA	V7Y	1
+Vancouver Canucks	CA	V8A	1
+Vancouver Canucks	CA	V8B	1
+Vancouver Canucks	CA	V8C	1
+Vancouver Canucks	CA	V8E	1
+Vegas Golden Knights	CA	V8G	1
+Vancouver Canucks	CA	V8J	1
+Vancouver Canucks	CA	V8K	1
+Vancouver Canucks	CA	V8L	1
+Vancouver Canucks	CA	V8M	1
+Vancouver Canucks	CA	V8N	1
+Vancouver Canucks	CA	V8P	1
+Vancouver Canucks	CA	V8R	1
+Vancouver Canucks	CA	V8S	1
+Vancouver Canucks	CA	V8T	1
+Vancouver Canucks	CA	V8V	1
+Vancouver Canucks	CA	V8W	1
+Vancouver Canucks	CA	V8X	1
+Vancouver Canucks	CA	V8Y	1
+Vancouver Canucks	CA	V8Z	1
+Vancouver Canucks	CA	V9A	1
+Vancouver Canucks	CA	V9B	1
+Vancouver Canucks	CA	V9C	1
+Vancouver Canucks	CA	V9E	1
+Vancouver Canucks	CA	V9G	1
+Vancouver Canucks	CA	V9H	1
+Vegas Golden Knights	CA	V9J	1
+Vancouver Canucks	CA	V9K	1
+Vancouver Canucks	CA	V9L	1
+Vancouver Canucks	CA	V9M	1
+Vancouver Canucks	CA	V9N	1
+Vancouver Canucks	CA	V9P	1
+Vancouver Canucks	CA	V9R	1
+Vancouver Canucks	CA	V9S	1
+Vancouver Canucks	CA	V9T	1
+Vancouver Canucks	CA	V9V	1
+Vancouver Canucks	CA	V9W	1
+Vancouver Canucks	CA	V9X	1
+Vancouver Canucks	CA	V9Y	1
+Vancouver Canucks	CA	V9Z	1
+Vancouver Canucks	CA	VER	1
+Philadelphia Flyers	CA	VGA	1
+Vancouver Canucks	CA	VIG	1
+Vancouver Canucks	CA	VIX	1
+New York Rangers	CA	VIZ	1
+Edmonton Oilers	CA	VOB	1
+Dallas Stars	CA	VOC	1
+Edmonton Oilers	CA	VOE	1
+Vegas Golden Knights	CA	VOJ	1
+Vancouver Canucks	CA	VOK	1
+Vancouver Canucks	CA	VOM	1
+Vancouver Canucks	CA	VON	1
+Vancouver Canucks	CA	VOR	1
+Vancouver Canucks	CA	VOX	1
+Vancouver Canucks	CA	VR4	1
+Vancouver Canucks	CA	VX8	1
+Vancouver Canucks	CA	W3K	1
+Edmonton Oilers	CA	X03	1
+Ottawa Senators	CA	X0A	1
+Edmonton Oilers	CA	X0B	1
+Winnipeg Jets	CA	X0C	1
+Edmonton Oilers	CA	X0E	1
+Edmonton Oilers	CA	X0G	1
+Edmonton Oilers	CA	X1A	1
+Montreal Canadiens	CA	X1L	1
+Vegas Golden Knights	CA	X1W	1
+Winnipeg Jets	CA	XOC	1
+Edmonton Oilers	CA	XOE	1
+Vancouver Canucks	CA	Y0A	1
+Vancouver Canucks	CA	Y0B	1
+Vancouver Canucks	CA	Y1A	1
+Vancouver Canucks	CA	Y7P	1
+Edmonton Oilers	CA	Z0E	1
+Edmonton Oilers	CA	Z0J	1
+Edmonton Oilers	CA	Z0M	1
+Vancouver Canucks	CA	Z0N	1
