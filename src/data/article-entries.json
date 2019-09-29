@@ -2,27 +2,27 @@
 	{
 		"id": 1,
 		"headline": "Vancouver Canucks",
-		"text": "The Canucks are the only Canadian team with a sizable fan base south of the border — no doubt helped by being the only team in the pacific northwest."
+		"text": "The <span class='canucks'>Vancouver Canucks</span> are the only Canadian team with a sizable fan base south of the border — no doubt helped by being the only team in the pacific northwest."
 	},
 	{
 		"id": 2,
 		"headline": "Saskatchewan",
-		"text": "With no team of their own, Saskatchewan fans tend to be split amongst the teams from bordering provinces. The Vegas Golden Knights make a strong showing too, hinting at the draw of Las Vegas. "
+		"text": "With no team of their own, Saskatchewan fans tend to be split amongst the teams from bordering provinces. The <span class='golden-knights'>Vegas Golden Knights</span> make a strong showing too, hinting at the draw of Las Vegas. "
 	},
 	{
 		"id": 3,
 		"headline": "Southern Ontario",
-		"text": "Competition for fans is fiercest in Ontario, one of the few places where U.S. teams have a foothold, thanks to the proximity of the Buffalo Sabres and Detroit Red Wings."
+		"text": "Competition for fans is fiercest in Ontario, one of the few places where U.S. teams have a foothold, thanks to the proximity of the <span class='sabres'>Buffalo Sabres</span> and <span class='red-wings'>Detroit Red Wings</span>."
 	},
 	{
 		"id": 4,
 		"headline": "Quebec Snowbirds",
-		"text": "The Habs rule Quebec but thanks to snowbirds, the Florida Panthers are making inroads, particularly near Saguenay, where just over 20% of the population is 65 or older."
+		"text": "The <span class='habs'>Habs</span> rule Quebec but thanks to snowbirds, the <span class='panthers'>Florida Panthers</span> are making inroads, particularly near Saguenay, where just over 20% of the population is 65 or older."
 	},
 	{
 		"id": 5,
 		"headline": "Atlantic Fans",
-		"text": "The Boston Bruins and the Toronto Maple Leafs break up what is otherwise pretty solid Habs support in the Atlantic provinces."
+		"text": "The <span class='bruins'>Boston Bruins</span> and the <span class='leafs'>Toronto Maple Leafs</span> break up what is otherwise pretty solid <span class='habs'>Habs</span> support in the Atlantic provinces."
 	},
 	{
 		"id": 6,

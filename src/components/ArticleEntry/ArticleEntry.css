@@ -1,3 +1,31 @@
+.canucks {
+	color: #14895D;
+}
+.habs {
+	color: #AA192F;
+}
+.golden-knights {
+	color: #8A734E;
+}
+.red-wings {
+	color: #C91132;
+}
+.sabres {
+	color: #062246;
+}
+.panthers {
+	color: #B7955F;
+}
+.bruins {
+	color: #FAB82C;
+}
+.leafs {
+	color: #103369;
+}
+.scrollyteller .step p > span {
+	font-weight: 600;
+}
+
 .scrollyteller .step {
 	background: rgba(255,255,255,0.9);
 	border-radius: 3px;

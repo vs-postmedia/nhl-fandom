@@ -1,15 +1,20 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import './ArticleEntry.css';
 
 const ArticleEntry = (props) => {
 	const data = props.data;
+	
 
 	return (
-		<li className='step' data-index={data.id}>
+		<li className={`step step-${data.id}`} data-index={data.id}>
 			<h3 className='headline'>{data.headline}</h3>
-			<p>{data.text}</p>
+			<p dangerouslySetInnerHTML={createMarkup(data.text)} />
 		</li>
 	);
+}
+
+function createMarkup(textString) {
+  return {__html: textString};
 }
 
 export default ArticleEntry;

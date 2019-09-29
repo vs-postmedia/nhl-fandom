@@ -19,7 +19,7 @@ const FlourishEmbed = (props) => {
 	
 	return (
 		<Aux>
-			<iframe className='flourish-embed' src={`https://public.flourish.studio/story/${props.embedID}/embed`} frameborder='0' scrolling='no' style={iframeStyle}></iframe>
+			<iframe className='flourish-embed' src={`https://public.flourish.studio/story/${props.embedID}/embed`} frameBorder='0' scrolling='no' style={iframeStyle}></iframe>
 			
 		</Aux>
 		
