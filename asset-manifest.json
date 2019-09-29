@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nhl-fandom/static/css/main.7732e03d.chunk.css",
-    "main.js": "/nhl-fandom/static/js/main.d174a164.chunk.js",
-    "main.js.map": "/nhl-fandom/static/js/main.d174a164.chunk.js.map",
+    "main.css": "/nhl-fandom/static/css/main.b676dc76.chunk.css",
+    "main.js": "/nhl-fandom/static/js/main.fdc01a19.chunk.js",
+    "main.js.map": "/nhl-fandom/static/js/main.fdc01a19.chunk.js.map",
     "runtime~main.js": "/nhl-fandom/static/js/runtime~main.6d99d702.js",
     "runtime~main.js.map": "/nhl-fandom/static/js/runtime~main.6d99d702.js.map",
     "static/js/2.2ce84108.chunk.js": "/nhl-fandom/static/js/2.2ce84108.chunk.js",
     "static/js/2.2ce84108.chunk.js.map": "/nhl-fandom/static/js/2.2ce84108.chunk.js.map",
     "index.html": "/nhl-fandom/index.html",
-    "precache-manifest.df4dcd7d6ee9b5125c4e12d96fc5f3f8.js": "/nhl-fandom/precache-manifest.df4dcd7d6ee9b5125c4e12d96fc5f3f8.js",
+    "precache-manifest.5e86c5b7b18182a14843525a18d889c9.js": "/nhl-fandom/precache-manifest.5e86c5b7b18182a14843525a18d889c9.js",
     "service-worker.js": "/nhl-fandom/service-worker.js",
-    "static/css/main.7732e03d.chunk.css.map": "/nhl-fandom/static/css/main.7732e03d.chunk.css.map",
+    "static/css/main.b676dc76.chunk.css.map": "/nhl-fandom/static/css/main.b676dc76.chunk.css.map",
     "static/media/index.css": "/nhl-fandom/static/media/Shift-BoldItalic.5c3edbfd.otf"
   }
 }
