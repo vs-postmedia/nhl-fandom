@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nhl-fandom/precache-manifest.5e86c5b7b18182a14843525a18d889c9.js"
+  "/nhl-fandom/precache-manifest.91ef0491b843af171514ba65efe75ca7.js"
 );
 
 self.addEventListener('message', (event) => {
